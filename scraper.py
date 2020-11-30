@@ -32,11 +32,12 @@ async def get(k, v, session):
         
 async def main1():
     async with ClientSession() as session:
-        await asyncio.gather(*[get1(i, session) for i in range(1)])
+        await asyncio.gather(*[get1(i, session) for i in range(10)])
             
 async def main():
-    async with ClientSession() as session:
-        await asyncio.gather(*[get(k, v, session) for k,v in books.items()])
+    for i in range(0, len(books.keys()), 50):
+        async with ClientSession() as session:
+            await asyncio.gather(*[get(k, v, session) for k,v in list(books.items())[i:min(i+50, len(books.keys()))]])
 
 if __name__ == "__main__":
     print("Collecting books...")
