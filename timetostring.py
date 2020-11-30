@@ -17,17 +17,17 @@ def timetostring(hour, pm):
             "five", "six", "seven", "eight", "nine", 
             "ten", "eleven", "twelve"]
     
-    aft = [" in the afternoon", " o&apos;clock", " o&apos;clock in the afternoon", " pm"]
-    even = [" in the evening", " at night", " o&apos;clock", " o&apos;clock in the evening", " o&apos;clock at night", " pm"]
-    morn = [" in the morning", " o&apos;clock"," o&apos;clock in the morning", " am"]
+    aft = [" in the afternoon", " o&apos;clock", " o&apos;clock in the afternoon", " pm", " p.m."]
+    even = [" in the evening", " at night", " o&apos;clock", " o&apos;clock in the evening", " o&apos;clock at night", " pm", " p.m."]
+    morn = [" in the morning", " o&apos;clock"," o&apos;clock in the morning", " am", " a.m."]
     
     if(hour == 12 and pm):
         return ["midnight"]
     elif(hour == 12):
         return ["noon"]
     elif(hour > 4 and pm):
-        return [nums[hour] + i for i in even]
+        return [nums[hour] + i for i in even] + [str(hour) + " p.m.", str(hour) + " pm"]
     elif(pm):
-        return [nums[hour] + i for i in aft]
+        return [nums[hour] + i for i in aft] + [str(hour) + " p.m.", str(hour) + " pm"]
     else:
-        return [nums[hour] + i for i in morn]
+        return [nums[hour] + i for i in morn] + [str(hour) + " a.m.", str(hour) + " am"]
