@@ -5,6 +5,8 @@ import html2text
 with open("./scrapedbooks/books.txt", "r") as fin:
     l = fin.read().split("\n")
     
+    
+good = []
 
 for i in l:
     try:
@@ -12,10 +14,12 @@ for i in l:
             t = fin.read()
             with open("./scrapedbooks/" + i, "w+") as fout:
                 fout.write(html2text.html2text(t))
+            good.append(i)
     except:
         pass
 
-
+with open("./scrapedbooks/books.txt", "w+") as fout:
+    fout.write("\n".join(good))
     
         
         
