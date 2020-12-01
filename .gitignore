@@ -1,4 +1,7 @@
 # Byte-compiled / optimized / DLL files
+scrapedbooks/**
+results/**
+
 __pycache__/
 *.py[cod]
 *$py.class
