@@ -1,123 +1,123 @@
 
-    
-    The Project Gutenberg EBook of Philosophiae Naturalis Principia Mathematica, by 
-    Isaac Newton
-    
-    This eBook is for the use of anyone anywhere at no cost and with
-    almost no restrictions whatsoever.  You may copy it, give it away or
-    re-use it under the terms of the Project Gutenberg License included
-    with this eBook or online at www.gutenberg.org
-    
-    
-    Title: Philosophiae Naturalis Principia Mathematica
-    
-    Author: Isaac Newton
-    
-    Release Date: March 1, 2009 [EBook #28233]
-    
-    Language: Latin
-    
-    Character set encoding: ISO-8859-1
-    
-    *** START OF THIS PROJECT GUTENBERG EBOOK PHILOSOPHIAE NATURALIS ***
-    
-    
-    
-    
-    Produced by Jonathan Ingram, Keith Edkins and the Online
-    Distributed Proofreading Team at http://www.pgdp.net
-    
-    
-    
-    
-    
-    
-    
+ 
+ The Project Gutenberg EBook of Philosophiae Naturalis Principia Mathematica, by 
+ Isaac Newton
+ 
+ This eBook is for the use of anyone anywhere at no cost and with
+ almost no restrictions whatsoever. You may copy it, give it away or
+ re-use it under the terms of the Project Gutenberg License included
+ with this eBook or online at www.gutenberg.org
+ 
+ 
+ Title: Philosophiae Naturalis Principia Mathematica
+ 
+ Author: Isaac Newton
+ 
+ Release Date: March 1, 2009 [EBook 28233]
+ 
+ Language: Latin
+ 
+ Character set encoding: ISO-8859-1
+ 
+ * START OF THIS PROJECT GUTENBERG EBOOK PHILOSOPHIAE NATURALIS *
+ 
+ 
+ 
+ 
+ Produced by Jonathan Ingram, Keith Edkins and the Online
+ Distributed Proofreading Team at http://www.pgdp.net
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
-Transcriber's note:  |
+Transcriber's note: |
 
 A few typographical errors have been corrected. They appear in the text like
 this, and the explanation will appear when the mouse pointer is moved over the
 marked passage.
 
 {Braces} are inserted by the Transcriber to clarify the meaning of maths
-expressions. Overlining is the method of grouping used in the original.  
-  
----|---  
-  
-# PHILOSOPHIÆ
+expressions. Overlining is the method of grouping used in the original. 
+ 
+---|--- 
+ 
+ PHILOSOPHIÆ
 
-## NATURALIS
+ NATURALIS
 
-# PRINCIPIA
+ PRINCIPIA
 
-## MATHEMATICA
+ MATHEMATICA
 
-  
+ 
 
 * * *
 
-Autore _IS. NEWTON_ , _Trin. Coll. Cantab. Soc._ Matheseos  
+Autore _IS. NEWTON_ , _Trin. Coll. Cantab. Soc._ Matheseos 
 Professore _Lucasiano_ , & Societatis Regalis Sodali.
 
-  
+ 
 
 * * *
 
-## IMPRIMATUR.
+ IMPRIMATUR.
 
-### S. PEPYS, _Reg. Soc._ PRÆSES.
+ S. PEPYS, _Reg. Soc._ PRÆSES.
 
 _Julii 5. 1686._
 
-  
+ 
 
 * * *
 
-### _LONDINI,_
+ _LONDINI,_
 
-Jussu _Societatis Regiæ_ ac Typis _Josephi Streater_. Prostat apud  
+Jussu _Societatis Regiæ_ ac Typis _Josephi Streater_. Prostat apud 
 plures Bibliopolas. _Anno_ MDCLXXXVII.
 
-  
+ 
 
 * * *
 
-### ILLUSTRISSIMÆ
+ ILLUSTRISSIMÆ
 
-## SOCIETATI REGALI
+ SOCIETATI REGALI
 
 a Serenissimo
 
-# REGE CAROLO II.
+ REGE CAROLO II.
 
-### AD
+ AD
 
-### PHILOSOPHIAM PROMOVENDAM
+ PHILOSOPHIAM PROMOVENDAM
 
-## FUNDATÆ,
+ FUNDATÆ,
 
-### ET AUSPICIIS
+ ET AUSPICIIS
 
-## POTENTISSIMI MONARCHÆ
+ POTENTISSIMI MONARCHÆ
 
-# JACOBI II.
+ JACOBI II.
 
-### FLORENTI.
+ FLORENTI.
 
-### Tractatum hunc humillime _D.D.D._
+ Tractatum hunc humillime _D.D.D._
 
-### _IS. NEWTON._
+ _IS. NEWTON._
 
-  
+ 
 
 * * *
 
-## PRÆFATIO
+ PRÆFATIO
 
-### AD
+ AD
 
-# LECTOREM.
+ LECTOREM.
 
 _Cum Veteres_ Mechanicam _(uti Author est_ Pappus _) in verum Naturalium
 investigatione maximi fecerint, & recentiores, missis formis substantialibus &
@@ -191,19 +191,19 @@ malui, quam numerum Propositionum & citationes mutare. Ut omnia candide
 legantur, & defectus, in materia tam difficili non tam reprehendantur, quam
 novis Lectorum conatibus investigentur, & benigne suppleantur, enixe rogo._
 
-  
+ 
 
 * * *
 
-### IN
+ IN
 
-### VIRI PRÆSTANTISSIMI
+ VIRI PRÆSTANTISSIMI
 
-## D. ISAACI NEWTONI
+ D. ISAACI NEWTONI
 
-### OPUS HOCCE
+ OPUS HOCCE
 
-### MATHEMATICO-PHYSICUM
+ MATHEMATICO-PHYSICUM
 
 _Sæculi Gentisque nostræ Decus egregium._
 
@@ -305,31 +305,31 @@ Nec fas est propius Mortali attingere Divos.
 
 _EDM. HALLEY._
 
-  
+ 
 
 * * *
 
 [1]
 
-## PHILOSOPHIÆ
+ PHILOSOPHIÆ
 
-### NATURALIS
+ NATURALIS
 
-## Principia
+ Principia
 
-## MATHEMATICA.
+ MATHEMATICA.
 
-  
-
-* * *
-
-### Definitiones.
-
-  
+ 
 
 * * *
 
-### Def. I.
+ Definitiones.
+
+ 
+
+* * *
+
+ Def. I.
 
 _Quantitas Materiæ est mensura ejusdem orta ex illius Densitate & Magnitudine
 conjunctim._
@@ -343,7 +343,7 @@ sequentibus passim intelligo. Innotescit ea per corporis cujusq; pondus. Nam
 ponderi proportionalem esse reperi per experimenta pendulorum accuratissime
 instituta, uti posthac docebitur. [2]
 
-### Def. II.
+ Def. II.
 
 _Quantitas motus est mensura ejusdem orta ex Velocitate et quantitate Materiæ
 conjunctim._
@@ -351,7 +351,7 @@ conjunctim._
 Motus totius est summa motuum in partibus singulis, adeoq; in corpore duplo
 majore æquali cum Velocitate duplus est, et dupla cum Velocitate quadruplus.
 
-### Def. III.
+ Def. III.
 
 _Materiæ vis insita est potentia resistendi, qua corpus unumquodq;, quantum in
 se est, perseverat in statu suo vel quiescendi vel movendi uniformiter in
@@ -370,7 +370,7 @@ Impetum moventibus tribuit; sed motus et quies, uti vulgo concipiuntur,
 respectu solo distinguuntur ab invicem, neq; semper vere quiescunt quæ vulgo
 tanquam quiescentia spectantur.
 
-### Def. IV.
+ Def. IV.
 
 _Vis impressa est actio in corpus exercita, ad mutandum ejus statum vel
 quiescendi vel movendi uniformiter in directum._
@@ -379,7 +379,7 @@ Consistit hæc vis in actione sola, neq; post actionem permanet in corpore.
 Perseverat enim corpus in statu omni novo per solam [3]vim inertiæ. Est autem
 vis impressa diversarum originum, ut ex ictu, ex pressione, ex vi centripeta.
 
-### Def. V.
+ Def. V.
 
 _Vis centripeta est qua corpus versus punctum aliquod tanquam ad centrum
 trahitur, impellitur, vel utcunq; tendit._
@@ -390,14 +390,14 @@ perpetuo retrahuntur a motibus rectilineis, et in lineis curvis revolvi
 coguntur. Est autem vis centripetæ quantitas trium generum, absoluta,
 acceleratrix et motrix.
 
-### Def. VI.
+ Def. VI.
 
 _Vis centripetæ quantitas absoluta est mensura ejusdem major vel minor pro
 efficacia causæ eam propagantis a centro per regiones in circuitu._
 
 Uti virtus Magnetica major in uno magnete, minor in alio.
 
-### Def. VII.
+ Def. VII.
 
 _Vis centripetæ quantitas acceleratrix est ipsius mensura Velocitati
 proportionalis, quam dato tempore generat._
@@ -409,7 +409,7 @@ majoribus distantiis a Terra; in æqualibus autem distantiis eadem undiq;
 propterea quod corpora omnia cadentia (gravia an levia, magna an parva)
 sublata Aeris resistentia, æqualiter accelerat.
 
-### Def. VIII.
+ Def. VIII.
 
 _Vis centripetæ quantitas motrix est ipsius mensura proportionalis motui, quem
 dato tempore generat._
@@ -451,7 +451,7 @@ cogitet me speciem vel modum actionis causamve aut rationem physicam alicubi
 definire, vel centris (quæ sunt puncta Mathematica) vires vere et physice
 tribuere, si forte aut centra trahere, aut vires centrorum esse dixero.
 
-### _Scholium._
+ _Scholium._
 
 Hactenus voces minus notas, quo in sensu in sequentibus accipiendæ sunt,
 explicare visum est. Nam tempus, spatium, locum et motum ut omnibus notissima
@@ -657,21 +657,21 @@ colligere, & contra, ex motibus seu veris seu apparentibus, eorum causas &
 effectus, docebitur fusius in sequentibus. Hunc enim in finem Tractatum
 sequentem composui. [12]
 
-  
+ 
 
 * * *
 
-## AXIOMATA
+ AXIOMATA
 
-### SIVE
+ SIVE
 
-## LEGES MOTUS
+ LEGES MOTUS
 
-  
+ 
 
 * * *
 
-### Lex. I.
+ Lex. I.
 
 > _Corpus omne perseverare in statu suo quiescendi vel movendi uniformiter in
 > directum, nisi quatenus a viribus impressis cogitur statum illum mutare._
@@ -683,7 +683,7 @@ nisi quatenus ab aere retardatur. Majora autem Planetarum & Cometarum corpora
 motus suos & progressivos & circulares in spatiis minus resistentibus factos
 conservant diutius.
 
-### Lex. II.
+ Lex. II.
 
 > _Mutationem motus proportionalem esse vi motrici impressæ, & fieri secundum
 > lineam rectam qua vis illa imprimitur._
@@ -695,7 +695,7 @@ antea movebatur, motui ejus vel conspiranti additur, vel contrario subducitur,
 vel obliquo oblique adjicitur, & cum eo secundum utriusq; determinationem
 componitur. [13]
 
-### Lex. III.
+ Lex. III.
 
 > _Actioni contrariam semper & æqualem esse reactionem: sive corporum duorum
 > actiones in se mutuo semper esse æquales & in partes contrarias dirigi._
@@ -713,7 +713,7 @@ motuum, (scilicet in corporibus non aliunde impeditis:) Mutationes enim
 velocitatum, in contrarias itidem partes factæ, quia motus æqualiter mutantur,
 sunt corporibus reciproce proportionales.
 
-### Corol. I.
+ Corol. I.
 
 [![Figure for Corol. I.](images/021.png)](images/021.png)
 
@@ -730,7 +730,7 @@ reperietur alicubi in linea [14]illa _BD_. Eodem argumento in fine temporis
 ejusdem reperietur alicubi in linea _CD_ , & idcirco in utriusq; lineæ
 concursu _D_ reperiri necesse est.
 
-### Corol. II.
+ Corol. II.
 
 > _Et hinc patet compositio vis directæ_ AD _ex viribus quibusvis obliquis_ AB
 > _ & _BD _, & vicissim resolutio vis cujusvis directæ _AD _in obliquas
@@ -788,7 +788,7 @@ ex Rotis, Tympanis, Trochleis, Vectibus, radijs volubilibus, nervis tensis &
 ponderibus directe vel oblique ascendentibus, cæterisq; potentijs
 [16]Mechanicis componi solent, ut & vires Nervorum ad animalium ossa movenda.
 
-### Corol. III.
+ Corol. III.
 
 > _Quantitas motus quæ colligitur capiendo summam motuum factorum ad eandem
 > partem, & differentiam factorum ad contrarias, non mutatur ab actione
@@ -839,7 +839,7 @@ hujusmodi reflexionibus oriri etiam solent motus circulares corporum circa
 centra propria. Sed hos casus in sequentibus non considero, & nimis longum
 esset omnia huc spectantia demonstrare.
 
-### Corol. IIII.
+ Corol. IIII.
 
 > _Commune gravitatis centrum ab actionibus corporum inter se non mutat statum
 > suum vel motus vel quietis, & propterea corporum omnium in se mutuo agentium
@@ -893,7 +893,7 @@ perseverantiam in statu motus vel quietis. Motus enim progressivus seu
 corporis solitarii seu systematis corporum ex motu centri gravitatis æstimari
 semper debet.
 
-### Corol. V.
+ Corol. V.
 
 > _Corporum dato spatio inclusorum ijdem sunt motus inter se, sive spatium
 > illud quiescat, sive moveatur idem uniformiter in directum absq; motu
@@ -907,7 +907,7 @@ propterea manebunt motus inter se in uno casu æquales motibus inter se in
 altero. Idem comprobatur experimento luculento. Motus omnes eodem modo se
 habent in Navi, sive ea quiescat, sive moveatur uniformiter in directum. [20]
 
-### Corol. VI.
+ Corol. VI.
 
 > _Si corpora moveantur quomodocunq; inter se & a viribus acceleratricibus
 > æqualibus secundum lineas parallelas urgeantur; pergent omnia eodem modo
@@ -917,7 +917,7 @@ Nam vires illæ æqualiter (pro quantitatibus movendorum corporum) & secundum
 lineas parallelas agendo, corpora omnia æqualiter (quoad velocitatem) movebunt
 (per Legem 2.) adeoq; nunquam mutabunt positiones & motus eorum inter se.
 
-### _Scholium_
+ _Scholium_
 
 [![Figure for Corol. VI.](images/029.png)](images/029.png)
 
@@ -1075,33 +1075,33 @@ sibi invicem semper æquales. Et quatenus actio propagatur per instrumentum &
 ultimo imprimitur in corpus omne resistens, ejus ultima determinatio
 determinationi reactionis semper erit contraria.
 
-  
+ 
 
 * * *
 
 [26]
 
-# DE MOTU CORPORUM
+ DE MOTU CORPORUM
 
-  
-
-* * *
-
-### Liber PRIMUS
-
-  
+ 
 
 * * *
 
-## SECT. I.
+ Liber PRIMUS
+
+ 
+
+* * *
+
+ SECT. I.
 
 _De Methodo Rationum primarum & ultimarum, cujus ope sequentia demonstrantur._
 
-  
+ 
 
 * * *
 
-### LEMMA I.
+ LEMMA I.
 
 > _Quantitates, ut & quantitatum rationes, quæ ad æqualitatem dato tempore
 > constanter tendunt & eo pacto propius ad invicem accedere possunt quam pro
@@ -1110,7 +1110,7 @@ _De Methodo Rationum primarum & ultimarum, cujus ope sequentia demonstrantur._
 Si negas, sit earum ultima differentia _D_. Ergo nequeunt propius ad
 æqualitatem accedere quam pro data differentia _D_ : contra hypothesin. [27]
 
-### Lemma II.
+ Lemma II.
 
 [![Figure for Lemma II.](images/035.png)](images/035.png)
 
@@ -1130,7 +1130,7 @@ hoc rectangulum, eo quod latitudo ejus _AB_ in infinitum minuitur, sit minus
 quovis dato. Ergo, per Lemma I, figura inscripta & circumscripta & multo magis
 figura curvilinea intermedia fiunt ultimo æquales. _Q. E. D._
 
-### Lemma III.
+ Lemma III.
 
 > _Eædem rationes ultimæ sunt etiam æqualitatis, ubi parallelogrammorum
 > latitudines _AB _,_ BC _,_ CD _,_ &c.; _sunt inæquales, & omnes minuuntur in
@@ -1154,7 +1154,7 @@ circumscribitur.
 _Corol. 4._ Et propterea hæ figuræ ultimæ (quoad perimetros _acE_ ,) non sunt
 rectilineæ, sed rectilinearum limites curvilinei.
 
-### Lemma IV.
+ Lemma IV.
 
 > _Si in duabus figuris_ AacE _,_ PprT _, inscribantur (ut supra) duæ
 > parallelogrammorum series, sitq; idem amborum numerus, & ubi latitudines in
@@ -1180,13 +1180,13 @@ augetur & magnitudo diminuitur in infinitum, in ultima ratione parallelogrammi
 ad parallelogrammum, id est (per hypothesin) in ultima ratione partis ad
 partem.
 
-### Lemma V.
+ Lemma V.
 
 > _Similium figurarum latera omnia, quæ sibi mutuo respondent, sunt
 > proportionalia, tam curvilinea quam rectilinea, & areæ sunt in duplicata
 > ratione laterum._
 
-### Lemma VI.
+ Lemma VI.
 
 [![Figure for Lemma VI.](images/037.png)](images/037.png)
 
@@ -1202,7 +1202,7 @@ esi quod hæc recta _Ab_ , [30]vel coincidet cum tangente _Ad_ , vel ducetur
 inter tangentem & curvam. Sed casus posterior est contra naturam Curvaturæ,
 ergo prior obtinet. _Q. E. D._
 
-### Lemma VII.
+ Lemma VII.
 
 > _Iisdem positis, dico quod ultima ratio arcus, chordæ & tangentis ad invicem
 > est ratio æqualitatis. Vide _Fig. _Lem. 6 & 8 vi._
@@ -1229,7 +1229,7 @@ invicem erit ratio æqualitatis.
 _Corol. 3._ Et propterea hæ omnes lineæ in omni de rationibus ultimis
 argumentatione pro se invicem usurpari possunt.
 
-### Lemma VIII.
+ Lemma VIII.
 
 [![Figure for Lemma VIII.](images/037.png)](images/037.png)
 
@@ -1250,7 +1250,7 @@ similia & æqualia. _Q. E. D._
 _Corol._ Et hinc triangula illa in omni de rationibus ultimis argumentatione
 pro se invicem usurpari possunt.
 
-### Lemma IX.
+ Lemma IX.
 
 [![Figure for Lemma IX.](images/039.png)](images/039.png)
 
@@ -1272,7 +1272,7 @@ semper sunt areæ _ABD_ , _ACE_ , & his lateribus latera _AD_ , _AE_. Ergo &
 areæ _ABD_ , _ACE_ sunt ultimo in duplicata ratione laterum _AD_ , _AE_. _Q.
 E. D._
 
-### Lemma X.
+ Lemma X.
 
 > _Spatia, quæ corpus urgente quacunq; vi regulari describit, sunt ipso motus
 > initio in duplicata ratione temporum._
@@ -1292,7 +1292,7 @@ quibus generantur quam proxime.
 _Corol. 2._ Errores autem qui viribus proportionalibus similiter applicatis
 generantur, sunt ut vires & quadrata temporum conjunctim.
 
-### Lemma XI.
+ Lemma XI.
 
 > _Subtensa evanescens anguli contactus est ultimo in ratione duplicata
 > subtensæ arcus contermini._
@@ -1340,7 +1340,7 @@ _Adb_ , & segmenta _AB_ , _Ab_ partes tertiæ eorundem triangulorum. Et inde hæ
 areæ & hæc segmenta erunt in triplicata ratione tum tangentium _AD_ , _Ad_ ;
 tum chordarum & arcuum _AB_ , _Ab_.
 
-### _Scholium._
+ _Scholium._
 
 Cæterum in his omnibus supponimus angulum contactus nec infinite majorem esse
 angulis contactuum, quos circuli continent cum tangentibus suis, nec iisdem
@@ -1415,17 +1415,17 @@ sequentibus, siquando facili rerum imaginationi consulens, dixero quantitates
 quam minimas, vel evanescentes vel ultimas, cave intelligas quantitates
 magnitudine determinatas, sed cogita semper diminuendas sine limite.
 
-  
+ 
 
 * * *
 
 [37]
 
-## SECT. II.
+ SECT. II.
 
 _De Inventione Virium Centripetarum._
 
-### Prop. I. Theorema. I.
+ Prop. I. Theorema. I.
 
 > _Areas quas corpora in gyros acta radiis ad immobile centrum virium ductis
 > describunt, & in planis immobilibus consistere, & esse temporibus
@@ -1462,7 +1462,7 @@ proportionales, vires non tendunt ad concursum radiorum.
 _Corol. 2._ In mediis omnibus, si arearum descriptio acceleratur, vires non
 tendunt ad concursum radiorum, sed inde declinant in consequentia.
 
-### Pro. II. Theor. II.
+ Pro. II. Theor. II.
 
 > _Corpus omne quod, cum movetur in linea aliqua curva, & radio ducto ad
 > punctum vel immobile, vel motu rectilineo uniformiter progrediens, describit
@@ -1483,7 +1483,7 @@ _Cas. 2._ Et, per Legum Corollarium quintum, perinde est sive quiescat
 superficies in qua corpus describit figuram curvilineam, sive moveatur eadem
 una cum corpore, figura descripta & puncto suo _S_ uniformiter in directum.
 
-### _Scholium._
+ _Scholium._
 
 Urgeri potest corpus a vi centripeta composita ex pluribus viribus. In hoc
 casu sensus Propositionis est, quod vis illa quæ ex omnibus componitur, tendit
@@ -1492,7 +1492,7 @@ perpendicularem, hæc faciet corpus deflectere a plano sui motus, sed
 quantitatem superficiei descriptæ nec augebit nec minuet, & propterea in
 compositione virium negligenda est.
 
-### Prop. III. Theor. III.
+ Prop. III. Theor. III.
 
 > _Corpus omne quod, radio ad centrum corporis alterius utcunq; moti ducto,
 > describit areas circa centrum illud temporibus proportionales, urgetur vi
@@ -1532,7 +1532,7 @@ circum quod æquabilis est arearum descriptio. Idem obtinet ubi corpus alterum
 motu quocunq; movetur, si modo vis centripeta sumatur, quæ restat post
 subductionem vis totius agentis in corpus illud alterum.
 
-### _Scholium_
+ _Scholium_
 
 Quoniam æquabilis arearum descriptio Index est centri quod vis illa respicit
 qua corpus maxime afficitur, corpus autem vi ad hoc centrum tendente retinetur
@@ -1541,7 +1541,7 @@ fieri, cujus vi corpus retrahitur de motu rectilineo & retinetur in Orbita:
 quidni usurpemus in sequentibus æquabilem arearum descriptionem ut Indicem
 centri circum quod motus omnis circularis in spatiis liberis peragitur? [41]
 
-### Prop. IV. Theor. IV.
+ Prop. IV. Theor. IV.
 
 > _Corporum quæ diversos circulos æquabili motu describunt, vires centripetas
 > ad centra eorundem circulorum tendere, & esse inter se ut arcuum simul
@@ -1590,7 +1590,7 @@ similes figurarum quarumcunq; similium, centraq; similiter posita habentium,
 partes describunt, consequuntur ex Demonstratione præcedentium ad hosce casus
 applicata.
 
-### _Scholium._
+ _Scholium._
 
 Casus Corollarii sexti obtinet in corporibus cælestibus (ut seorsum
 colligerunt etiam nostrates _Wrennus, Hookius & Halleus_) & propterea quæ
@@ -1623,7 +1623,7 @@ arcus dato tempore descripti applicatum ad radium. Hæc est vis qua corpus
 urget circulum, & huic æqualis est vis contraria qua circulus continuo
 repellit corpus centrum versus.
 
-### Prop. V. Prob. I.
+ Prop. V. Prob. I.
 
 [![Figure for Prop. V.](images/052a.png)](images/052a.png)
 
@@ -1648,7 +1648,7 @@ tangentes demissa. Unde facile colligitur quod puncta _S_ , _D_ , _T_ sunt in
 una recta. Et simili argumento puncta _S_ , _E_ , _V_ sunt etiam in una recta;
 & propterea centrum _S_ in concursu rectarum _TD_ , _VE_ versatur. _Q. E. D._
 
-### Pro. VI. Theor. V.
+ Pro. VI. Theor. V.
 
 > _Si corpus_ P _revolvendo circa centrum_ S _, describat lineam quamvis
 > curvam_ APQ _, tangat vero recta_ ZPR _curvam illam in puncto quovis_ P _, &
@@ -1675,7 +1675,7 @@ perimetro gyrari faciet. Nimirum computandum est solidum _SP quad._ × _QT
 quad._ ÷ _QR_ huic vi reciproce proportionale. Ejus rei dabimus exempla in
 problematis sequentibus.
 
-### Prop. VII. Prob. II.
+ Prop. VII. Prob. II.
 
 [![Figure for Prop. VII.](images/053.png)](images/053.png)
 
@@ -1695,7 +1695,7 @@ _SP_ pro _RL_. Sic fiet _SP qc._ ÷ _SAq._ æquale _QTq._ × _SPq._ ÷ _QR_. Erg
 est (ob datum _SA quad._ ) ut quadrato-cubus distantiæ _SP_. Quod erat
 inveniendum.
 
-### Prop. VIII. Prob. III.
+ Prop. VIII. Prob. III.
 
 [![Figure for Prop. VIII.](images/054.png)](images/054.png)
 
@@ -1717,13 +1717,13 @@ quad._ ) reciproce ut _PM cub._ _Q. E. I._
 
 [47]
 
-### _Scholium._
+ _Scholium._
 
 Et simili argumento corpus movebitur in Ellipsi vel etiam in Hyperbola vel
 Parabola, vi centripeta quæ sit reciproce ut cubus ordinatim applicatæ ad
 centrum virium maxime longinquum tendentis.
 
-### Prop. IX. Prob. IV.
+ Prop. IX. Prob. IV.
 
 [![Figure for Prop. IX.](images/055.png)](images/055.png)
 
@@ -1738,7 +1738,7 @@ ratione ipsius _PR_ vel _QT_. Ergo manebit _QT quad._ ÷ _QR_ eadem quæ prius,
 hoc est ut _SP_. Quare _QTq._ × _SPq._ ÷ _QR_ est ut _SP cub._ id est (per
 Corol. Theor. V.) vis centripeta ut cubus distantiæ _SP_. _Q. E. I._
 
-### Lemma XII.
+ Lemma XII.
 
 > _Parallelogramma omnia circa datam Ellipsin descripta esse inter se æqualia.
 > Idem intellige de Parallelogrammis in Hyperbola circum diametros ejus
@@ -1746,7 +1746,7 @@ Corol. Theor. V.) vis centripeta ut cubus distantiæ _SP_. _Q. E. I._
 
 Constat utrumq; ex Conicis. [48]
 
-### Prop. X. Prob. V.
+ Prop. X. Prob. V.
 
 > _Gyretur corpus in Ellipsi: requiritur lex vis centripetæ tendentis ad
 > centrum Ellipseos._
@@ -1780,7 +1780,7 @@ corporum velocitates in verticibus principalibus inverse, hoc est ut axes illi
 directe & ordinatim applicatæ ad axes alteros inverse, & propterea (ob
 æqualitatem rationum directarum & inversarum) in ratione æqualitatis.
 
-### _Scholium._
+ _Scholium._
 
 Si Ellipsis, centro in infinitum abeunte, vertatur in Parabolam, corpus
 movebitur in hac Parabola, & vis ad centrum infinite distans jam tendens,
@@ -1788,17 +1788,17 @@ evadet æquabilis. Hoc est Theorema _Galilei_. Et si Conisectio Parabolica,
 inclinatione plani ad conum sectum mutata, vertatur in Hyperbolam, movebitur
 corpus in hujus perimetro, vi centripeta in centrifugam versa.
 
-  
+ 
 
 * * *
 
 [50]
 
-## SECT. III.
+ SECT. III.
 
 _De motu Corporum in Conicis Sectionibus excentricis._
 
-### Prop. XI. Prob. VI.
+ Prop. XI. Prob. VI.
 
 > _Revolvatur corpus in Ellipsi: Requiritur lex vis centripetæ tendentis ad
 > umbilicum Ellipseos._
@@ -1832,7 +1832,7 @@ Eadem brevitate qua traduximus Problema quintum ad Parabolam, & Hyperbolam,
 liceret idem hic facere: verum ob dignitatem Problematis & usum ejus in
 sequentibus, non pigebit casus cæteros demonstratione confirmare.
 
-### Prop. XII. Prob. VII.
+ Prop. XII. Prob. VII.
 
 > _Moveatur corpus in Hyperbola: requiritur lex vis centripetæ tendentis ad
 > umbilicum figuræ._
@@ -1866,12 +1866,12 @@ duplicata distantiæ _SP_. _Q. E. I._ [53]
 Eodem modo demonstratur quod corpus, hac vi centripeta in centrifugam versa,
 movebitur in Hyperbola conjugata.
 
-### Lemma XIII.
+ Lemma XIII.
 
 > _Latus rectum Parabolæ ad verticem quemvis pertinens, est quadruplum
 > distantiæ verticis illius ab umbilico figuræ._ Patet ex Conicis.
 
-### Lemma XIV.
+ Lemma XIV.
 
 [![Figure for Lemma XIV.](images/062.png)](images/062.png)
 
@@ -1895,7 +1895,7 @@ Corol. 3. Et concursus tangentis cujusvis _PM_ cum recta _SN_ quæ ab umbilico
 in ipsam perpendicularis est, incidit in rectam _AN_ , quæ Parabolam tangit in
 vertice principali. [54]
 
-### Prop. XIII. Prob. VIII.
+ Prop. XIII. Prob. VIII.
 
 > _Moveatur corpus in perimetro Parabolæ: requiritur Lex vis centripetæ
 > tendentis ad umbilicum hujus figuræ._
@@ -1934,7 +1934,7 @@ quantitas illa _QTq._ ÷ _QR_ quæ ultimo fit ubi lineolæ _PR_ , _QR_ in
 infinitum diminuuntur. Circulum in his Corollariis refero ad Ellipsin, & casum
 excipio ubi corpus recta descendit ad centrum.
 
-### Prop. XIV. Theor. VI.
+ Prop. XIV. Theor. VI.
 
 > _Si corpora plura revolvantur circa centrum commune, & vis centripeta
 > decrescat in duplicata ratione distantiarum a centro; dico quod Orbium
@@ -1951,7 +1951,7 @@ Corol. Hinc Ellipseos area tota, eiq; proportionale rectangulum sub axibus,
 est in ratione composita ex dimidiata ratione lateris recti & integra ratione
 temporis periodici. [56]
 
-### Prop. XV. Theor. VII.
+ Prop. XV. Theor. VII.
 
 > _Iisdem positis, dico quod tempora periodica in Ellipsibus sunt in ratione
 > sesquiplicata transversorum axium._
@@ -1968,7 +1968,7 @@ D._
 Corol. Sunt igitur tempora periodica in Ellipsibus eadem ac in circulis,
 quorum diametri æquantur majoribus axibus Ellipseon.
 
-### Prop. XVI. Theor. VIII.
+ Prop. XVI. Theor. VIII.
 
 > _Iisdem positis, & actis ad corpora lineis rectis, quæ ibidem tangant
 > orbitas, demissisq; ab umbilico communi ad has tangentes perpendicularibus:
@@ -2036,7 +2036,7 @@ proportionalis inter distantiam illam communem & semissem lateris recti
 sectionis, ad perpendiculum ab umbilico communi in tangentem sectionis
 demissum.
 
-### Prop. XVII. Prob. IX.
+ Prop. XVII. Prob. IX.
 
 > _Posito quod vis centripeta sit reciproce proportionalis quadrato distantiæ
 > a centro, & quod vis illius quantitas absoluta sit cognita; requiritur linea
@@ -2098,20 +2098,20 @@ perturbetur, innotescet cursus quam proxime, colligendo mutationes quas vis
 illa in punctis quibusdam inducit, & ex seriei analogia, mutationes continuas
 in locis intermediis æstimando.
 
-  
+ 
 
 * * *
 
 [61]
 
-## SECT. IV.
+ SECT. IV.
 
 _De Inventione Orbium Ellipticorum, Parabolicorum & Hyperbolicorum ex umbilico
 dato._
 
 [![Figure for Lemma XV.](images/069.png)](images/069.png)
 
-### _Lemma XV._
+ _Lemma XV._
 
 > _Si ab Ellipseos vel Hyperbolæ cujusvis umbilicis duobus_ S _,_ H _, ad
 > punctum quodvis tertium_ V _inflectantur rectæ duæ_ SV _,_ HV _, quarum una_
@@ -2123,7 +2123,7 @@ Secet enim _VH_ sectionem conicam in _R_ , & jungatur _SR_. Ob æquales rectas
 _TS_ , _TV_ , æquales erunt anguli _TRS_ , _TRV_. Bisecat ergo _RT_ angulum
 _VRS_ & propterea figuram tangit: & contra. _Q. E. D._
 
-### Prop. XVIII. Prob. X.
+ Prop. XVIII. Prob. X.
 
 > _Datis umbilico & axibus transversis describere Trajectorias Ellipticas &
 > Hyperbolicas, quæ transibunt per puncta data, & rectas positione datas
@@ -2146,7 +2146,7 @@ Ellipsi, & _PH_ \- _SP_ in Hyperbola æquatur axi) transibit per punctum _P_ ,
 eadem per puncta duo _P_ , _p_ , vel tanget rectas duas _TR_ , _tr_. _Q. E.
 F._
 
-### Prop. XIX. Prob. XI.
+ Prop. XIX. Prob. XI.
 
 > _Circa datum umbilicum Trajectoriam Parabolicam describere, quæ transibit
 > per puncta data, & rectas positione datas continget._
@@ -2167,7 +2167,7 @@ factum. Nam Parabola ob æquales _SK_ & _IK_ , _SP_ & _FP_ transibit per
 punctum _P_ ; & (per Lemmatis XIV. Corol. 3.) ob æquales _ST_ & _TV_ & angulum
 rectum _STR_ , tanget rectam _TR_. _Q. E. F._
 
-### Prop. XX. Prob. XII.
+ Prop. XX. Prob. XII.
 
 [![Figure for Prop. XX.](images/071.png)](images/071.png)
 
@@ -2252,7 +2252,7 @@ Transit autem hæc figura per punctum _P_ , eo quod triangulum _PSH_ simile sit
 triangulo _psh_ ; & quia _VH_ æquatur ipsius axi & _VS_ bisecatur
 perpendiculariter a recta _TR_ tangit eadem rectam _TR_. _Q. E. F._ [67]
 
-### Lemma XVI.
+ Lemma XVI.
 
 > _A datis tribus punctis ad quartum non datum inflectere tres rectas quarum
 > differentiæ vel dantur vel nullæ sunt._
@@ -2287,7 +2287,7 @@ puncta _A_ , _B_ , _C_ transeuntis. _Q. E. I._
 Solvitur etiam hoc Lemma problematicum per Librum. Tactionum _Apollonii_ a
 _Vieta_ restitutum.
 
-### Prop. XXI. Prob. XIII.
+ Prop. XXI. Prob. XIII.
 
 [![Figure for Prop. XXI.](images/076.png)](images/076.png)
 
@@ -2307,7 +2307,7 @@ Habitis autem umbilicis una cum axis longitudine (quæ vel est _YH_ , vel si
 Trajectoria Ellipsis est, _PH_ \+ _SP_ ; sin Hyperbola _PH_ \- _SP_ ) habetur
 Trajectoria. _Q. E. I._
 
-### _Scholium._
+ _Scholium._
 
 [![Figure for Scholium.](images/077.png)](images/077.png)
 
@@ -2331,17 +2331,17 @@ illa ratione.
 Methodo haud multum dissimili hujus problematis solutionem tradit Clarissimus
 Geometra _De la Hire_ , Conicorum suorum Lib. VIII. Prop. XXV.
 
-  
+ 
 
 * * *
 
 [70]
 
-## SECT. V.
+ SECT. V.
 
 _Inventio orbium ubi umbilicus neuter datur._
 
-### _Lemma XVII._
+ _Lemma XVII._
 
 [![Figure for Lemma XVII.](images/078.png)](images/078.png)
 
@@ -2391,7 +2391,7 @@ rationes compositæ _PQ_ in _PR_ ad _Pq_ in _Pr_ , & _PS_ in _PT_ ad _Ps_ in
 _Pt_. Sed per superius demonstrata, ratio _Pq_ in _Pr_ ad _Ps_ in _Pt_ data
 est: Ergo & ratio _PQ_ in _PR_ ad _PS_ in _PT_. _Q. E. D._ [72]
 
-### _Lemma XVIII._
+ _Lemma XVIII._
 
 > _Iisdem positis, si rectangulum ductarum ad opposita duo latera Trapezii_ PQ
 > _×_ PR _sit ad rectangulum ductarum ad reliqua duo latera_ PS _×_ PT _in
@@ -2426,7 +2426,7 @@ rectangulum _PS_ × _PT_ evadet _PS quad._ rectæq; _AB_ , _CD_ quæ curvam in
 punctis _A_ & _B_ , _C_ & _D_ secabant, jam Curvam in punctis illis coeuntibus
 non amplius secare possunt sed tantum tangent.
 
-### _Scholium._
+ _Scholium._
 
 Nomen Conicæ sectionis in hoc Lemmate late sumitur, ita ut sectio tam
 rectilinea per verticem Coni transiens, quam circularis basi parallela
@@ -2450,7 +2450,7 @@ infinitum, eoq; pacto latera figuræ quæ ad puncta illa convergunt, [74]evadere
 parallela: quo in casu sectio conica transibit per cætera puncta, & in plagas
 parallelarum abibit in infinitum.
 
-### Lemma XIX.
+ Lemma XIX.
 
 [![Figure for Lemma XIX.](images/082.png)](images/082.png)
 
@@ -2496,7 +2496,7 @@ Atq; ita Problematis veterum de quatuor lineis ab _Euclide_ incæpti & ab
 _Apollonio_ continuati non calculus, sed compositio Geometrica, qualem Veteres
 quærebant, in hoc Corollario exhibetur.
 
-### Lemma XX.
+ Lemma XX.
 
 > _Si parallelogrammum quodvis_ ASPQ _angulis duobus oppositis_ A _ & _P
 > _tangit sectionem quamvis Conicam in punctis_ A _ & _P _, & lateribus unius
@@ -2545,7 +2545,7 @@ puncta _A_ , _B_ , _C_ , _D_ , _P_ , easq; secet recta _BD_ in punctis _D_ ,
 _d_ , & ipsam _PQ_ secet recta _Cd_ in r. Ergo _PR_ est ad _PT_ ut _P_ r ad
 _PT_ , hoc est, _PR_ & _P_ r sibi invicem æquantur, contra Hypothesin.
 
-### Lemma XXI.
+ Lemma XXI.
 
 [![Figure for Lemma XXI.](images/086.png)](images/086.png)
 
@@ -2587,7 +2587,7 @@ tangit lineam rectam. Ergo duæ sectiones Conicæ transibunt per eadem quinq;
 puncta, contra Corol. 3. Lem. XX. Igitur punctum _M_ versari in linea curva
 absurdum est. _Q. E. D._
 
-### Prop. XXII. Prob. XIV.
+ Prop. XXII. Prob. XIV.
 
 > _Trajectoriam per data quinq; puncta describere._
 
@@ -2607,7 +2607,7 @@ _C_ transeunte; & lineis _Rr_ , _Tt_ evanescentibus, coit punctum _d_ cum
 puncto _D_. Transit ergo sectio Conica per puncta quinq; _A_ , _B_ , _C_ , _D_
 , _P_. _Q. E. D._
 
-### _Idem aliter._
+ _Idem aliter._
 
 [![Figure for Idem aliter.](images/086.png)](images/086.png)
 
@@ -2632,7 +2632,7 @@ punctum _C_ & recta _Cd_ evadet tangens quæsita.
 _Corol. 2._ Unde etiam Trajectoriarum centra, diametri & latera recta inveniri
 possunt, ut in Corollario secundo Lemmatis XIX.
 
-### _Schol._
+ _Schol._
 
 Constructio in casu priore evadet paulo simplicior jungendo _BP_ , & in ea si
 opus est producta, capiendo _Bp_ ad _BP_ ut est _PR_ ad _PT_ , & per _p_
@@ -2643,7 +2643,7 @@ ratione, erunt _p D_ & _Pr_ semper æquales. Hac methodo puncta Trajectoriæ
 inveniuntur expeditissime, nisi mavis Curvam, ut in casu secundo, describere
 Mechanice.
 
-### Prop. XXIII. Prob. XV.
+ Prop. XXIII. Prob. XV.
 
 > _Trajectoriam describere quæ per data quatuor puncta transibit, & rectam
 > continget positione datam._
@@ -2658,7 +2658,7 @@ Lem. XX) incidet semper in Trajectoriam describendam.
 
 [![Figure for Prop. XXIII.](images/090a.png)](images/090a.png)
 
-### _Idem aliter._
+ _Idem aliter._
 
 Revolvatur tum angulus magnitudine datus _CBH_ circa polum _B_ , tum radius
 quilibet rectilineus & utrinq; productus _DC_ circa polum _C_. Notentur puncta
@@ -2692,7 +2692,7 @@ Trajectoria ut in casu primo. _Q. E. F._ Capi autem potest punctum _A_ vel
 inter puncta _H_ & _I_ , vel extra; & perinde Trajectoria dupliciter describi.
 [84]
 
-### Prop. XXIV. Prob. XVI.
+ Prop. XXIV. Prob. XVI.
 
 > _Trajectoriam describere quæ transibit per data tria puncta & rectas duas
 > positione datas continget._
@@ -2720,7 +2720,7 @@ probabitur quod puncta _R_ , _P_ & _A_ sunt in una recta. Jacent igitur puncta
 contactus _A_ & _P_ in recta _SR_. [85]Hisce autem inventis, Trajectoria
 describetur ut in casu primo Problematis superioris. _Q. E. F._
 
-### Lemma XXII.
+ Lemma XXII.
 
 > _Figuras in alias ejusdem generis figuras mutare._
 
@@ -2787,7 +2787,7 @@ sectiones conicæ obvenerint, quarum intersectione Problema solvi potest,
 transmutare licet unum earum in circulum. Recta item & sectio Conica in
 constructione planorum problematum vertuntur in rectam & circulum.
 
-### Prop. XXV. Prob. XVII.
+ Prop. XXV. Prob. XVII.
 
 > _Trajectoriam describere quæ per data duo puncta transibit & rectas tres
 > continget positione datas._
@@ -2822,7 +2822,7 @@ _d_ , _e_ vel inter puncta _h_ , _i_ , _k_ , _l_ capi, vel extra. Si punctorum
 _a_ , _b_ alterutrum cadit inter puncta _h_ , _l_ , & alterum extra, Problema
 impossibile est. [89]
 
-### Prop. XXVI. Prob. XVIII.
+ Prop. XXVI. Prob. XVIII.
 
 > _Trajectoriam describere quæ transibit per punctum datum & rectas quatuor
 > positione datas continget._
@@ -2839,7 +2839,7 @@ Lemmatis XXII operationem inversam transferatur hoc punctum in figuram primam,
 & ibi habebuntur puncta duo per quæ Trajectoria describenda est. Per eadem
 vero describi potest Trajectoria illa per Prob. XVII. _Q. E. F._
 
-### Lemma XXIII.
+ Lemma XXIII.
 
 [![Figure for Lemma XXIII.](images/097.png)](images/097.png)
 
@@ -2858,7 +2858,7 @@ dabitur _LK_. Huic æqualis capiatur _EH_ , & erit _ELKH_ parallelogrammum.
 Locatur igitur punctum _K_ in parallelogrammi latere positione dato _HK_. _Q.
 E. D._
 
-### Lemma XXIV.
+ Lemma XXIV.
 
 > _Si rectæ tres tangant quamcunq; conisectionem, quarum duæ parallelæ sint ac
 > dentur positione; dico quod sectionis semidiameter hisce duabus parallela,
@@ -2890,7 +2890,7 @@ _Corol. 2._ Unde etiam rectæ duæ _PG_ , _FQ_ per puncta _P_ & _G_ , _F_ & _Q_
 ductæ, concurrent ad rectam _ACB_ per centrum figuræ & puncta contactuum _A_ ,
 _B_ transeuntem.
 
-### Lemma XXV.
+ Lemma XXV.
 
 > _Si parallelogrammi latera quattuor infinite producta tangant sectionem
 > quamcunq; Conicam & abscindantur ad tangentem quamvis quintam; sumantur
@@ -2922,7 +2922,7 @@ sit _Qq_ ad _Ee_ ut _KQ_ ad _Me_ , transibit eadem recta per medium omnium
 _Eq_ , _eQ_ , _MK_ ; (per Lemma XXIII) & medium rectæ _MK_ est centrum
 Sectionis.
 
-### Prop. XXVII. Prob. XIX.
+ Prop. XXVII. Prob. XIX.
 
 [![Figure for Prop. XXVII.](images/101.png)](images/101.png)
 
@@ -2944,7 +2944,7 @@ secabit tangentes parallelas _CF_ , _KL_ in punctis contactuum. Patet hoc per
 Corol. 2. Lem. XXIV. Eadem methodo invenire licet alia contactuum puncta, &
 tum demum per Casum 1. Prob. XIV. Trajectoriam describere. _Q. E. F._ [94]
 
-### _Schol._
+ _Schol._
 
 Problemata, ubi dantur Trajectoriarum vel centra vel Asymptoti includuntur in
 præcedentibus. Nam datis punctis & tangentibus una cum centro, dantur alia
@@ -2988,7 +2988,7 @@ duobus intersecet, & intersectionum intervallum bisecetur, punctum bisectionis
 tanget aliam Conisectionem ejusdem speciei cum priore, atq; axes habentem
 prioris axibus parallelos. Sed propero ad magis utilia.
 
-### Lemma XXVI.
+ Lemma XXVI.
 
 [![Figure for Lemma XXVI.](images/104a.png)](images/104a.png)
 
@@ -3035,7 +3035,7 @@ rectam, cujus pars data _DE_ , rectis positione datis _AB_ , _AC_ , & pars
 data _DF_ rectis positione datis _AB_ , _BC_ interponi debet; & applicando
 constructionem præcedentem ad hunc casum solvetur Problema.
 
-### Prop. XXVIII. Prob. XX.
+ Prop. XXVIII. Prob. XX.
 
 > _Trajectoriam specie & magnitudine datam describere, cujus partes datæ
 > rectis tribus positione datis interjacebunt._
@@ -3050,7 +3050,7 @@ Age rectas _DE_ , _EF_ , _DF_ , & trianguli hujus _DEF_ pone angulos _D_ , _E_
 , _F_ ad rectas illas positione datas: (per Lem. XXVI) Dein circa triangulum
 describe Trajectoriam curvæ _DEF_ similem & æqualem. _Q. E. F._
 
-### Lemma XXVII.
+ Lemma XXVII.
 
 > _Trapezium specie datum describere cujus anguli ad rectas quatuor positione
 > datas (quæ neq; omnes parallelæ sunt, neq; ad commune punctum convergunt)
@@ -3127,7 +3127,7 @@ agere _Vf_ parallelam ipsi _BD_. Eodem recidit si centro _i_ , intervallo _IH_
 describatur circulus secans _BD_ in _X_ , producatur _iX_ ad _Y_ , ut sit _iY_
 æqualis _IF_ , & agatur _Yf_ ipsi _BD_ parallela.
 
-### Prop. XXIX. Prob. XIX.
+ Prop. XXIX. Prob. XIX.
 
 > _Trajectoriam specie datam describere, quæ a rectis quatuor positione datis
 > in partes secabitur, ordine, specie & proportione datas._
@@ -3144,7 +3144,7 @@ illas positione datas _AB_ , _AD_ , _BD_ , _CE_ singuli singulas dicto ordine.
 Dein (per Lem. XXVII) circa hoc Trapezium describatur Trajectoria curvæ lineæ
 _FGHI_ consimilis. [103]
 
-### _Scholium._
+ _Scholium._
 
 [![Figure for Scholium.](images/111.png)](images/111.png)
 
@@ -3168,17 +3168,17 @@ Trajectoria specie data, solvetur Problema.
 Hactenus de orbibus inveniendis. Superest ut motus corporum orbibus inventis
 determinemus.
 
-  
+ 
 
 * * *
 
 [104]
 
-## SECT. VI.
+ SECT. VI.
 
 _De inventione motuum in Orbibus datis._
 
-### Prop. XXX. Prob. XXII.
+ Prop. XXX. Prob. XXII.
 
 [![Figure for Prop. XXX.](images/112.png)](images/112.png)
 
@@ -3216,7 +3216,7 @@ _Corol. 3._ Hinc etiam viceversa inveniri potest tempus quo corpus descripsit
 arcum quemvis assignatum _AP_. Junge _AP_ & ad medium ejus punctum erige
 perpendiculum rectæ _GH_ occurrens in _H_.
 
-### Lemma XXVIII.
+ Lemma XXVIII.
 
 > _Nulla extat figura Ovalis cujus area, rectis pro lubitu abscissa, possit
 > per æquationes numero terminorum ac dimensionum finitas generaliter
@@ -3270,7 +3270,7 @@ Eodem argumento, si intervallum poli & puncti, quo spiralis describitur,
 capiatur Ovalis perimetro abscissæ proportionale, probari potest quod
 longitudo perimetri nequit per finitam æquationem generaliter exhiberi.
 
-### _Corollarium._
+ _Corollarium._
 
 Hinc area Ellipseos, quæ radio ab umbilico ad corpus mobile ducto describitur,
 non prodit ex dato tempore, per æquationem finitam; & propterea per
@@ -3283,7 +3283,7 @@ numerum (quemadmodum in decimo Elementorum) sunt Arithmetice rationales vel
 irrationales. Aream igitur Ellipseos tempori proportionalem abscindo per
 Curvam Geometrice irrationalem ut sequitur.
 
-### Prop. XXXI. Prob. XXIII.
+ Prop. XXXI. Prob. XXIII.
 
 > _Corporis in data Trajectoria Elliptica moventis invenire locum ad tempus
 > assignatum._
@@ -3311,7 +3311,7 @@ datam ½ _OQ_ , ut differentia inter arcum _AQ_ & rectam _SR_ , adeoq; (ob
 _AQ_ ad _GF_ , & divisim _AQ_ \- _SR_ ad _GF_ \- sin. arc. _AQ_ ) ut _GK_
 differentia inter arcum _GF_ & sinum arcus _AQ_. _Q. E. D._ [109]
 
-### _Scholium._
+ _Scholium._
 
 [![Figure for Scholium.](images/118.png)](images/118.png)
 
@@ -3454,17 +3454,17 @@ Hactenus de motu corporum in lineis curvis. Fieri autem potest ut mobile recta
 descendat vel recta ascendat, & quæ ad istiusmodi motus spectant, pergo jam
 exponere.
 
-  
+ 
 
 * * *
 
 [115]
 
-## SECT. VII.
+ SECT. VII.
 
 _De Corporum Ascensu & Descensu Rectilineo._
 
-### Prop. XXXII. Prob. XXIV.
+ Prop. XXXII. Prob. XXIV.
 
 [![Figure for Prop. XXXII.](images/123.png)](images/123.png)
 
@@ -3507,7 +3507,7 @@ in nihilum redacto ejus Latere recto, conveniat cum linea _CB_ , fiet
 segmentum Parabolicum _BDEB_ proportionale tempori quo corpus illud _P_ vel
 _C_ descendet ad centrum _B_. _Q. E. I._
 
-### Prop. XXXIII. Theor. IX.
+ Prop. XXXIII. Theor. IX.
 
 > _Positis jam inventis, dico quod corporis cadentis velocitas in loco quovis_
 > C _est ad velocitatem corporis centro_ B _intervallo_ BC _circulum
@@ -3544,7 +3544,7 @@ _SYq._ ) in dimidiata ratione _AC_ ad _AO_. _Q. E. D._ [118]
 
 _Corol._ Punctis _B_ & _S_ coeuntibus, fit _TC_ ad _ST_ ut _AC_ ad _AO_.
 
-### Prop. XXXIV. Theor. X.
+ Prop. XXXIV. Theor. X.
 
 > _Si figura_ BED _Parabola est, dico quod corporis cadentis velocitas in loco
 > quovis_ C _æqualis est velocitati qua corpus centro_ B _dimidio intervalli
@@ -3559,7 +3559,7 @@ Parabolæ latitudo _CP_ in infinitum eo, ut arcus Parabolicus _PfB_ cum recta
 _CB_ , centrum _S_ cum vertice _B_ , & interuallum _SP_ cum intervallo _BP_
 coincidat, & constabit Propositio. _Q. E. D._
 
-### Prop. XXXV. Theor. XI.
+ Prop. XXXV. Theor. XI.
 
 > _Iisdem positis, dico quod area figuræ_ DES _, radio indefinito_ SD
 > _descripta, æqualis sit areæ quam corpus, radio dimidium lateris recti
@@ -3609,7 +3609,7 @@ IV. Quare est ½ _SK_ × _Kk_ æquale ¼ _CD_ × _Cc_ , adeoq; æquale ½ _SY_ �
 , hoc est, area _KSk_ æqualis Areæ _SDd_ , ut supra. _Quod erat
 demonstrandum._
 
-### Prop. XXXVI. Prob. XXV.
+ Prop. XXXVI. Prob. XXV.
 
 [![Figure for Prop. XXXVI.](images/128b.png)](images/128b.png)
 
@@ -3623,7 +3623,7 @@ cadendo describet spatium _AC_ eodem tempore quo corpus aliud uniformiter
 circa centrum _S_ gyrando, describere potest arcum _OK_. _Quod erat
 faciendum._
 
-### Prop. XXXVII. Prob. XXVI.
+ Prop. XXXVII. Prob. XXVI.
 
 > _Corporis de loco dato sursum vel deorsum projecti definire tempora ascensus
 > vel descensus._
@@ -3648,7 +3648,7 @@ Sectores _HSK_ , _HSk_ æquales, & per Theorema XI. corpus _G_ describet
 spatium _GC_ eodem tempore quo corpus _K_ describere potest arcum _Kk_. Q. E.
 F.
 
-### Prop. XXXVIII. Theor. XII.
+ Prop. XXXVIII. Theor. XII.
 
 > _Posito quod vis centripeta proportionalis sit altitudini seu distantiæ
 > locorum a centro, dico quod cadentium tempora, velocitates & spatia
@@ -3672,7 +3672,7 @@ _Corol. 2._ Proinde æqualia sunt tempora omnia quibus corpora de locis
 quibusvis ad usq; centrum cadunt. Nam revolventium tempora omnia periodica
 (per Corol. 3. Prop. IV.) æquantur.
 
-### Prop. XXXIX. Prob. XXVII.
+ Prop. XXXIX. Prob. XXVII.
 
 > _Posita cujuscunq; generis vi centripeta, & concessis figurarum
 > curvilinearum quadraturis, requiritur corporis recta ascendentis vel
@@ -3753,16 +3753,16 @@ descripsit lineolam _DE_ ad tempus quo corpus alterum inæquabili motu
 descripsit lineam _De_ ut area _DLME_ ad aream _DLme_ , & ex æquo tempus
 primum ad tempus ultimum ut rectangulum 2 _PD_ × _DL_ ad aream _DLme_.
 
-  
+ 
 
 * * *
 
-## SECT. VIII.
+ SECT. VIII.
 
 _De Inventione Orbium in quibus corpora viribus quibuscunq; centripetis
 agitata revolventur._
 
-### Prop. XL. Theor. XIII.
+ Prop. XL. Theor. XIII.
 
 > _Si corpus, cogente vi quacunq; centripeta, moveatur utcunq;, & corpus aliud
 > recta ascendat vel descendat, sintq; eorum velocitates in aliquo æqualium
@@ -3819,7 +3819,7 @@ corporis in omni altitudine _A_ erit ut √ _nP_ _n_ \- _nA_ _n_ , atq; adeo
 datur. Namq; velocitas ascendentis ac descendentis (per Prop. XXXIX.) est in
 hac ipsa ratione.
 
-### Prop. XLI. Prob. XXVIII.
+ Prop. XLI. Prob. XXVIII.
 
 > _Posita cujuscunq; generis vi centripeta & concessis figurarum curvilinearum
 > quadraturis, requiruntur tum Trajectoriæ in quibus corpora movebuntur, tum
@@ -3898,7 +3898,7 @@ Sectori Elliptico _CVRC_ proportionalem, & longitudinem _CP_ longitudini _CT_
 Curvæ cujusdam quadraturam, cujus inventionem ut satis facilem brevitatis
 gracia missam facio.
 
-### Prop. XLII. Prob. XXIX.
+ Prop. XLII. Prob. XXIX.
 
 > _Data lege vis centripetæ, requiritur motus corporis de loco dato data cum
 > velocitate secundum datam rectam egressi._
@@ -3925,17 +3925,17 @@ centro variari secundum legem quamcunq; quam quis imaginari potest, in
 in Orbibus immobilibus consideravimus. Superest ut de motu eorum in Orbibus
 qui circa centrum virium revolvuntur adjiciamus pauca.
 
-  
+ 
 
 * * *
 
 [132]
 
-## SECT. IX.
+ SECT. IX.
 
 _De Motu Corporum in Orbibus mobilibus, deq; motu Apsidum._
 
-### Prop. XLIII. Prob. XXX.
+ Prop. XLIII. Prob. XXX.
 
 > _Efficiendum est ut corpus in Trajectoria quacunq; circa centrum virium
 > revolvente perinde moveri possit, atq; corpus aliud in eadem Trajectoria
@@ -3954,14 +3954,14 @@ jam exposita describit in plano immobili. Fiat angulus _VCv_ angulo _PCp_ , &
 linea _Cv_ [133]lineæ _CV_ , atq; figura _vCp_ figuræ _VCP_ æqualis, & corpus
 in _p_ [![Figure for Prop. XLIII.
 
-  & XLIV.](images/140.png)](images/140.png) semper existens movebitur in
+ & XLIV.](images/140.png)](images/140.png) semper existens movebitur in
 perimetro figuræ revolventis _vCp_ , eodemq; tempore describet arcum ejus _vp_
 quo corpus aliud _P_ arcum ipsi similem & æqualem _VP_ in figura quiescente
 _VPK_ describere potest. Quæratur igitur, per Corollarium Propositionis VI,
 vis centripeta qua corpus revolvi possit in curva illa linea quam punctum _p_
 describit in plano immobili, & solvetur Problema. Q. E. F.
 
-### Prop. XLIV. Theor. XIV.
+ Prop. XLIV. Theor. XIV.
 
 > _Differentia virium, quibus corpus in Orbe quiescente, & corpus aliud in
 > eodem Orbe revolvente æqualiter moveri possunt, est in triplicata ratione
@@ -4079,7 +4079,7 @@ _Vpk_. Est autem hæc Curva _Vpk_ eadem cum Curva illa _VPQ_ in Corol. 3. Prop.
 XLI inventa, in qua ibi diximus corpora hujusmodi viribus attracta oblique
 ascendere.
 
-### Prop. XLV. Prob. XXXI.
+ Prop. XLV. Prob. XXXI.
 
 > _Orbium qui sunt Circulis maxime finitimi requiruntur motus Apsidum._
 
@@ -4172,10 +4172,10 @@ esse ut { _bA_ _m_ \+ _cA_ _n_ } ÷ _A cub._ id est ut { _b_ in _T_ \- _X_ _m_
 Serierum convergentium) ut
 
 _bT_ _m_ \- _mbXT_ _m_ \- 1 \+ { _mm_ \- _m_ }÷2 _bX_ 2 _T_ _m_ \- 2 \+ _cT_
-_n_ \- _ncXT_ _n_ \- 1 \+ { _nn_ \- _n_ }÷2 _cX_ 2 _T_ _n_ \- 2 _&c.;_  
----  
-_A cub._  
-  
+_n_ \- _ncXT_ _n_ \- 1 \+ { _nn_ \- _n_ }÷2 _cX_ 2 _T_ _n_ \- 2 _&c.;_ 
+--- 
+_A cub._ 
+ 
 & collatis numeratorum terminis, fiet _RGq._ \- _RFq._ \+ _TFq._ ad _bT_ _m_
 \+ _cT_ _n_ , ut - _Fq._ ad - _mbT_ _m_ \- 1 \- _ncT_ _n_ \- 1 \+ { _mm_ \-
 _m_ }÷2 _XT_ _m_ \- 2 \+ { _nn_ \- _n_ }÷2 _XT_ _n_ \- 2 &c.; Et sumendo
@@ -4273,17 +4273,17 @@ incumbendo, usurpamus plana his parallela, in quibus centra corporum moventur
 & orbitas movendo describunt. Et eadem lege motus corporum in superficiebus
 curvis peractos subinde determinamus.
 
-  
+ 
 
 * * *
 
 [145]
 
-## SECT. X.
+ SECT. X.
 
 _De Motu Corporum in Superficiebus datis, deq; Funipendulorum Motu reciproco._
 
-### Prop. XLVI. Prob. XXXII.
+ Prop. XLVI. Prob. XXXII.
 
 > _Posita cujuscunq; generis vi centripeta, datoq; tum virium centro tum plano
 > quocunq; in quo corpus revolvitur, & concessis Figurarum curvilinearum
@@ -4309,7 +4309,7 @@ Trajectoria _PQR_ quam corpus describit, tum locus _Q_ in quo corpus ad datum
 quodvis tempus versabitur, tum deniq; velocitas corporis in loco illo _Q_ ; &
 contra. Q. E. I.
 
-### Prop. XLVII. Theor. XV.
+ Prop. XLVII. Theor. XV.
 
 > _Posito quod vis centripeta proportionalis sit distantiæ corporis a centro;
 > corpora omnia in planis quibuscunq; revolventia describent Ellipses, &
@@ -4330,7 +4330,7 @@ Corol. 2. Prop. XXXVIII.) temporibus semper æqualibus, vel describent Ellipses
 in plano illo circa centrum _C_ , vel periodos movendi ultro citroq; in lineis
 rectis per centrum _C_ in plano illo ductis, complebunt. Q. E. D.
 
-### _Scholium._
+ _Scholium._
 
 His affines sunt ascensus ac descensus corporum in superficiebus curvis.
 Concipe lineas curvas in plano describi, dein circa axes quosvis datos per
@@ -4341,7 +4341,7 @@ ultro citroq; peragentur eorum motus in planis per axem transeuntibus, atq;
 adeo in lineis curvis quarum revolutione curvæ illæ superficies genitæ sunt.
 Istis igitur in casibus sufficit motum in his lineis curvis considerare.
 
-### Prop. XLVIII. Theor. XVI.
+ Prop. XLVIII. Theor. XVI.
 
 > _Si rota globo extrinsecus ad angulos rectos insistat, & more rotarum
 > revolvendo progrediatur in circulo maximo; longitudo itineris curvilinei,
@@ -4350,7 +4350,7 @@ Istis igitur in casibus sufficit motum in his lineis curvis considerare.
 > tempore inter eundem tetigit, ut summa diametrorum globi & rotæ ad
 > semidiametrum globi._
 
-### Prop. XLIX. Theor. XVII.
+ Prop. XLIX. Theor. XVII.
 
 > _Si rota globo concavo ad rectos angulos intrinsecus insistat & revolvendo
 > progrediatur in circulo maximo; longitudo itineris curvilinei [148]quod
@@ -4413,7 +4413,7 @@ quæ est ad Rotæ diametrum _BV_ ut 2 _CE_ ad _CB_.
 _Corol. 3._ Ideoq; longitudo illa est ut rectangulum _BEC_ , si modo Globi
 detur semidiameter.
 
-### Prop. L. Prob. XXXIII.
+ Prop. L. Prob. XXXIII.
 
 [![Figure for Prop. L.](images/159.png)](images/159.png)
 
@@ -4450,7 +4450,7 @@ in Cycloide _QRS_. Q. E. D.
 
 _Corol._ Filum _AR_ æquatur Cycloidis arcui dimidio _APS_.
 
-### Prop. LI. Theor. XVIII.
+ Prop. LI. Theor. XVIII.
 
 > _Si vis centripeta tendens undiq; ad Globi centrum_ C _sit in locis singulis
 > ut distantia loci cujusq; a centro, & hac sola vi agente Corpus _T
@@ -4484,7 +4484,7 @@ descensuum per eosdem arcus factorum æquales esse, atq; adeo temporibus
 perpendiculi latus jacentes sint similes & æquales, pendula duo oscillationes
 suas tam totas quam dimidias iisdem temporibus semper peragent. Q. E. D. [153]
 
-### Prop. LII. Prob. XXXIV.
+ Prop. LII. Prob. XXXIV.
 
 > _Definire & velocitates Pendulorum in locis singulis, & Tempora quibus tum
 > oscillationes totæ, tum singulæ oscillationum partes peraguntur._
@@ -4598,7 +4598,7 @@ omnes evadant Isochronæ. Nam Gravitas (ut in Libro tertio docebitur) decrescit
 in progressu a superficie Terræ, sursum quidem in duplicata ratione
 distantiarum a centro ejus, deorsum vero in ratione simplici.
 
-### Prop. LIII. Prob. XXXV.
+ Prop. LIII. Prob. XXXV.
 
 > _Concessis figurarum curvilinearum Quadraturis, invenire vires quibus
 > corpora in datis curvis lineis Oscillationes semper Isochronas peragent._
@@ -4638,7 +4638,7 @@ conservandum impressæ ita cum vi gravitatis componi possint, ut vis tota
 deorsum semper sit ut linea quæ oritur applicando rectangulum sub arcu _TR_ &
 radio _AR_ , ad sinum _TN_ , Oscillationes omnes erunt Isochronæ.
 
-### Prop. LIV. Prob. XXXVI.
+ Prop. LIV. Prob. XXXVI.
 
 > _Concessis figurarum curvilinearum quadraturis, invenire tempora quibus
 > corpora vi qualibet centripeta in lineis quibuscunq; curvis in plano per
@@ -4662,7 +4662,7 @@ tangit, erit area _SNDS_ proportionalis tempori quo corpus descendendo
 descripsit lineam _ST_ ; proindeq; ex inventa illa area dabitur tempus. Q. E.
 I.
 
-### Prop. LV. Theor. XIX.
+ Prop. LV. Theor. XIX.
 
 > _Si corpus movetur in superficie quacunq; curva, cujus axis per centrum
 > virium transit, & a corpore in axem demittatur perpendicularis, eiq;
@@ -4699,7 +4699,7 @@ plura in eadem quavis recta _CO_ data tendentibus, describeret in spatio
 libero lineam quamcunq; curvam _ST_ , foret area _AOP_ tempori semper
 proportionalis.
 
-### Prop. LVI. Prob. XXXVII.
+ Prop. LVI. Prob. XXXVII.
 
 > _Concessis figurarum curvilinearum Quadraturis, datisq; tum lege vis
 > centripetæ ad centrum datum tendentis, tum superficie curva cujus axis per
@@ -4723,13 +4723,13 @@ Propositione XLI. ex similibus datis inventa fuit. Tum ex singulis vestigii
 punctis _P_ erigendo ad planum _AOP_ perpendicula _PT_ superficiei curvæ
 occurrentia in _T_ , dabuntur singula Trajectoriæ puncta _T_. Q. E. I.
 
-  
+ 
 
 * * *
 
 [162]
 
-## SECT. XI.
+ SECT. XI.
 
 _De Motu Corporum Sphæricorum viribus centripetis se mutuo petentium._
 
@@ -4747,7 +4747,7 @@ fortasse, si physice loquamur, verius dicantur Impulsus. In Mathematicis enim
 jam versamur, & propterea missis disputationibus Physicis, familiari utimur
 sermone, quo possimus a Lectoribus Mathematicis facilius intelligi.
 
-### Prop. LVII. Theor. XX.
+ Prop. LVII. Theor. XX.
 
 > _Corpora duo se invicem trahentia describunt, & circum commune centrum
 > gravitatis, & circum se mutuo, figuras similes._
@@ -4763,7 +4763,7 @@ quiescunt vel motu quovis non angulari moventur) describunt omnino similes.
 Proinde similes sunt figuræ quæ his distantiis circumactis describuntur. Q. E.
 D.
 
-### Prop. LVIII. Theor. XXI.
+ Prop. LVIII. Theor. XXI.
 
 > _Si corpora duo viribus quibusvis se mutuo trahunt, & interea revolvuntur
 > circa gravitatis centrum commune: dico quod figuris, quas corpora sic mota
@@ -4831,7 +4831,7 @@ _Corol. 3._ Corpora duo quævis circum gravitatis centrum commune gyrantia,
 radiis & ad centrum illud & ad se mutuo ductis, describunt areas temporibus
 proportionales.
 
-### Prop. LIX. Theor. XXII.
+ Prop. LIX. Theor. XXII.
 
 > _Corporum duorum_ S _ & _P _circa commune gravitatis centrum_ C
 > _revolventium tempus periodicum esse ad tempus periodicum corporis
@@ -4848,7 +4848,7 @@ corporum _S_ \+ _P_. Et componendo, summæ temporum quibus arcus omnes similes
 _PQ_ & _pq_ describuntur, hoc est tempora tota quibus figuræ totæ similes
 describuntur, sunt in eadem dimidiata ratione. Q. E. D.
 
-### Prop. LX. Theor. XXIII.
+ Prop. LX. Theor. XXIII.
 
 > _Si corpora duo_ S _ & _P _, viribus quadrato distantiæ suæ reciproce
 > proportionalibus se mutuo trahentia, revolvuntur circa gravitatis centrum
@@ -4870,7 +4870,7 @@ corpus mobile descriptæ erit ad axem transversum descriptæ circa immobile, ut
 _S_ \+ _P_ ad primam duarum medie proportionalium inter _S_ \+ _P_ & _S_. Q.
 E. D. [167]
 
-### Prop. LXI. Theor. XXIV.
+ Prop. LXI. Theor. XXIV.
 
 > _Si corpora duo viribus quibusvis se mutuo trahentia, neq; alias agitata vel
 > impedita, quomodocunq; moveantur; motus eorum perinde se habebunt ac si non
@@ -4899,7 +4899,7 @@ potestas, vel deniq; ut quantitas ex hac distantia & analogis quantitatibus
 datis similiter derivata. Hoc est Vis trahentis eadem erit Lex respectu
 distantiæ utriusq;. Q. E. D. [168]
 
-### Prop. LXII. Prob. XXXVIII.
+ Prop. LXII. Prob. XXXVIII.
 
 > _Corporum duorum quæ viribus quadrato distantiæ suæ reciproce
 > proportionalibus se mutuo trahunt, ac de locis datis demittuntur,
@@ -4912,7 +4912,7 @@ semper quiescet. Determinandi sunt igitur motus Corporum (per Probl. XXV.)
 perinde ac si a viribus ad centrum illud tendentibus urgerentur, & habebuntur
 motus corporum se mutuo trahentium. Q. E. I.
 
-### Prop. LXIII. Prob. XXXIX.
+ Prop. LXIII. Prob. XXXIX.
 
 > _Corporum duorum quæ viribus quadrato distantiæ suæ reciproce
 > proportionalibus se mutuo trahunt, deq; locis datis, secundum datas rectas,
@@ -4932,7 +4932,7 @@ regione. Cum hoc motu componendus est uniformis ille Systematis spatii &
 corporum in eo gyrantium [169]motus progressivus supra inventus, & habebitur
 motus absolutus corporum in spatio immobili. Q. E. I.
 
-### Prop. LXIV. Prob. XL.
+ Prop. LXIV. Prob. XL.
 
 > _Viribus quibus Corpora se mutuo trahunt crescentibus in simplici ratione
 > distantiarum a centris: requiruntur motus plurium Corporum inter se._
@@ -4982,7 +4982,7 @@ deducetur quod corpora omnia æqualibus temporibus periodicis Ellipses varias,
 circa omnium commune gravitatis centrum _B_ , in plano immobili describunt. Q.
 E. I.
 
-### Prop. LXV. Theor. XXV.
+ Prop. LXV. Theor. XXV.
 
 > _Corpora plura quorum vires decrescunt in duplicata ratione[171]distantiarum
 > ab eorundem centris, moveri posse inter se in Ellipsibus, & radiis ad
@@ -5057,7 +5057,7 @@ perturbatione insigni moveantur, manifestum est, quod eædem a viribus
 acceleratricibus ad alia corpora tendentibus, aut non urgentur nisi levissime,
 aut urgentur æqualiter & secundum lineas parallelas quamproxime.
 
-### Prop. LXVI. Theor. XXVI.
+ Prop. LXVI. Theor. XXVI.
 
 > _Si corpora tria, quorum vires decrescunt in duplicata ratione distantiarum,
 > se mutuo trahant, & attractiones acceleratrices binorum quorumcunq; in
@@ -5477,7 +5477,7 @@ vel deniq; ex altera axis parte addendo materiam novam, qua mons inter
 movendum libretur: & hoc pacto Nodi vel progredientur, vel recedent, perinde
 ut mons & hæcce nova materia sunt vel polo vel æquatori propiores. [188]
 
-### Prop. LXVII. Theor. XXVII.
+ Prop. LXVII. Theor. XXVII.
 
 > _Positis iisdem attractionum legibus, dico quod corpus exterius_ Q _, circa
 > interiorum_ P _,_ S _commune Gravitatis centrum_ C _, radiis ad centrum
@@ -5492,7 +5492,7 @@ centrum _C_ , quam in corpus maximum _S_ , quæq; quadrato distantiæ _QC_ magis
 est proportionalis reciproce, quam quadrato distantiæ _QS_ : ut rem
 perpendenti facile constabit.
 
-### Prop. LXVIII. Theor. XXVIII.
+ Prop. LXVIII. Theor. XXVIII.
 
 > _Positis iisdem attractionum legibus, dico quod corpus exterius_ Q _circa
 > interiorum_ P _ & _S _commune gravitatis centrum_ C _, radiis ad centrum
@@ -5532,7 +5532,7 @@ iste tertiæ, in communi centro gravitatis trium interiorum & sic deinceps)
 quam si corpus intimum quiescat & statuatur communis umbilicus orbitarum
 Omnium. [190]
 
-### Prop. LXIX. Theor. XXIX.
+ Prop. LXIX. Theor. XXIX.
 
 > _In Systemate corporum plurium_ A _,_ B _,_ C _,_ D _ &c.; si corpus aliquod
 > _A _trahit cætera omnia_ B _,_ C _,_ D _ &c.; viribus acceleratricibus quæ
@@ -5577,7 +5577,7 @@ maxime proportionales: erunt corporum illorum vires absolutæ ad invicem, aut
 accurate aut quamproxime in ratione corporum; & contra. Patet per Corol. Prop.
 LXVIII. collatum cum hujus Corol. 1.
 
-### _Scholium._
+ _Scholium._
 
 His Propositionibus manuducimur ad analogiam inter vires centripetas & corpora
 centralia, ad quæ vires illæ dirigi solent. Rationi enim consentaneum est, ut
@@ -5601,15 +5601,15 @@ Videamus igitur quibus viribus corpora Sphærica, ex particulis modo jam
 exposito attractivis constantia, debeant in se mutuo agere, & quales motus
 inde consequantur.
 
-  
+ 
 
 * * *
 
-## SECT. XII.
+ SECT. XII.
 
 _De Corporum Sphæricorum Viribus attractivis._
 
-### Prop. LXX. Theor. XXX.
+ Prop. LXX. Theor. XXX.
 
 [![Figure for Prop. LXX.](images/201.png)](images/201.png)
 
@@ -5631,7 +5631,7 @@ componunt rationem æqualitatis. Attractiones igitur in contrarias partes
 totam Sphæricam superficiem a contrariis attractionibus destruuntur. Proinde
 corpus _P_ nullam in partem his attractionibus impellitur. Q. E. D.
 
-### Prop. LXXI. Theor. XXXI.
+ Prop. LXXI. Theor. XXXI.
 
 > _Iisdem positis, dico quod corpusculum extra Sphæricam superficiem
 > constitutum attrahitur ad centrum Sphæræ, vi reciproce proportionali
@@ -5675,7 +5675,7 @@ semper _sd_ = _SD_ & _se_ = _SE_ , distingui potest. Et per Compositionem,
 vires totarum superficierum Sphæricarum in corpuscula exercitæ erunt in eadem
 ratione. _Q. E. D._
 
-### Prop. LXXII. Theor. XXXII.
+ Prop. LXXII. Theor. XXXII.
 
 > _Si ad Spheræ cujusvis puncta singula tendant vires æquales centripetæ
 > decrescentes in duplicata ratione distantiarum a punctis, ac detur ratio
@@ -5701,7 +5701,7 @@ proportionales earundem diametris; tempora periodica erunt æqualia.
 _Corol. 2._ Et vice versa, si tempora periodica sunt æqualia; distantiæ erunt
 proportionales diametris. Constant hæc duo per Corol. 3. Theor. IV.
 
-### Prop. LXXIII. Theor. XXXIII.
+ Prop. LXXIII. Theor. XXXIII.
 
 [![Figure for Prop. LXXIII.](images/204.png)](images/204.png)
 
@@ -5718,7 +5718,7 @@ attractiones contrarias destructis, nil agunt in corpus _P_. Restat sola
 attractio Sphæræ interioris _PEQF_. Et per Theor. XXXII, hæc est ut distantia
 _PS_. Q. E. D.
 
-### _Scholium._
+ _Scholium._
 
 Superficies ex quibus solida componuntur, hic non sunt pure Mathematicæ, sed
 Orbes adeo tenues ut eorum crassitudo instar nihili sit; nimirum Orbes
@@ -5728,7 +5728,7 @@ Lemmatis generalibus expositam. Similiter per puncta, ex quibus lineæ,
 superficies & solida componi dicuntur, intelligendæ sunt particulæ æquales
 magnitudinis contemnendæ. [197]
 
-### Prop. LXXIV. Theor. XXXIV.
+ Prop. LXXIV. Theor. XXXIV.
 
 > _Iisdem positis, dico quod corpusculum extra Sphæram constitutum attrahitur
 > vi reciproce proportionali quadrato distantiæ suæ ab ipsius centro._
@@ -5754,7 +5754,7 @@ reciproce proportionali quadrato distantiæ suæ ab ipsius centro, constet autem
 Sphæra ex particulis attractivis; decrescet vis particulæ cujusq; in duplicata
 ratione distantiæ a particula.
 
-### Prop. LXXV. Theor. XXXV.
+ Prop. LXXV. Theor. XXXV.
 
 > _Si ad Sphæræ datæ puncta singula tendant vires æquales centripetæ
 > decrescentes in duplicata ratione distantiarum a punctis, dico quod Sphæra
@@ -5787,7 +5787,7 @@ umbilico & corpora moventur extra Sphæram.
 _Corol. 4._ Ea vero quæ de motu corporum circa centrum Conicarum Sectionum
 demonstrantur, obtinent ubi motus peraguntur intra Sphæram.
 
-### Prop. LXXVI. Theor. XXXVI.
+ Prop. LXXVI. Theor. XXXVI.
 
 > _Si Sphæræ in progressu a centro ad circumferentiam (quod materiæ densitatem
 > & vim attractivam) utcunq; dissimilares, in progressu vero per circuitum ad
@@ -5850,7 +5850,7 @@ conditionis cujusvis jam descriptæ, locatur in umbilico.
 _Corol. 9._ Ut & ubi gyrantia sunt etiam Sphæræ attrahentes, conditionis
 cujusvis jam descriptæ.
 
-### Prop. LXXVII. Theor. XXXVII.
+ Prop. LXXVII. Theor. XXXVII.
 
 > _Si ad singula Sphærarum puncta tendant vires centripetæ proportionales
 > distantiis punctorum a corporibus attractis: dico quod vis composita, qua
@@ -5910,7 +5910,7 @@ Sphæram priorem _ACBD_ sita, probabitur ut prius, quod attractio, sive simplex
 Sphæræ unius in alteram, sive mutua utriusq; in se invicem, erit ut distantia
 centrorum _pS_. Q. E. D.
 
-### Prop. LXXVIII. Theor. XXXVIII.
+ Prop. LXXVIII. Theor. XXXVIII.
 
 > _Si Sphæræ in progressu a centro ad circumferentiam sint utcunq;
 > dissimilares & inæquabiles, in progressu vero per circuitum ad datam omnem a
@@ -5928,7 +5928,7 @@ centra Conicarum Sectionum demonstrata sunt, valent ubi attractiones omnes
 fiunt vi Corporum Sphæricorum, conditionis jam descriptæ, suntq; corpora
 attracta Sphæræ conditionis ejusdem.
 
-### _Scholium._
+ _Scholium._
 
 Attractionum Casus duos insigniores jam dedi expositos; nimirum ubi vires
 centripetæ decrescunt in duplicata distantiarum ratione, vel crescunt in
@@ -5939,7 +5939,7 @@ est notatu dignum. Casus cæteros, qui conclusiones minus elegantes exhibent,
 sigillatim percurrere longum esset: Malim cunctos methodo generali simul
 comprehendere ac determinare, ut sequitur.
 
-### Lemma XXIX.
+ Lemma XXIX.
 
 > _Si describantur centro_ S _circulus quilibet_ AEB _,_ (Vide Fig. Prop.
 > sequentis) _& centro _P _circuli duo_ EF _,_ ef _, secantes priorem in_ E
@@ -5956,7 +5956,7 @@ _Eqe_ , _ESG_ (per Lem. VIII. & Corol. 3. Lem. VII.) similia, erit _Ee_ ad
 _qe_ seu _Ff_ , ut _ES_ ad _SG_ , & ex æquo _Dd_ ad _Ff_ ut _DE_ ad _SG_ ; hoc
 est (ob similia triangula _PDE_ , _PGS_ ) ut _PE_ ad _PS_. Q. E. D.
 
-### Prop. LXXIX. Theor. XXXIX.
+ Prop. LXXIX. Theor. XXXIX.
 
 > _Si superficies ob latitudinem infinite diminutam jamjam evanescens_ EFfe _,
 > convolutione sui circa axem_ PS _, describat solidum Sphæricum concavo-
@@ -5988,7 +5988,7 @@ particula aliqua data _Ff_ in distantia _PF_ exercet in corpusculum _P_. At si
 vis illa non detur, fiet vis solidi _EFfe_ ut solidum _DEq._ × _Ff_ & vis illa
 non data conjunctim. Q. E. D.
 
-### Prop. LXXX. Theor. XL.
+ Prop. LXXX. Theor. XL.
 
 > _Si ad Sphæræ alicujus_ AEB _, centro_ S _descriptæ, particulas singulas
 > æquales tendant æquales vires centripetæ, & ad Sphæræ axem _AB _, in quo
@@ -6031,7 +6031,7 @@ tendens ponatur esse reciproce ut quantitas _V_ , fiat autem _DN_ ut { _DEq._
 × _PS_ } ÷ { _PE_ × _V_ }; erit vis qua corpusculum a Sphæra tota attrahitur
 ut area _ABNA_.
 
-### Prop. LXXXI. Prob. XLI.
+ Prop. LXXXI. Prob. XLI.
 
 [![Figure for Prop. LXXIX.](images/215.png)](images/215.png)
 
@@ -6050,10 +6050,10 @@ _ALB_ pro _DEq._ & quantitas { _DEq._ × _PS_ } ÷ { _PE_ × _V_ }, quæ secundu
 Corollarium quartum Propositionis præcedentis est ut longitudo ordinatim
 applicatæ _DN_ , resolvet sese in tres partes
 
-2 _SLD_ × _PS_ |  \- |  _LDq._ × _PS_ |  \- |  _ALB_ × _PS_ |  :  
----|---|---|---|---|---  
-_PE_ × _V_ |  _PE_ × _V_ |  _PE_ × _V_  
-  
+2 _SLD_ × _PS_ | \- | _LDq._ × _PS_ | \- | _ALB_ × _PS_ | : 
+---|---|---|---|---|--- 
+_PE_ × _V_ | _PE_ × _V_ | _PE_ × _V_ 
+ 
 [![Figure for Exempl. 1.](images/216.png)](images/216.png)
 
 ubi si pro _V_ scribatur ratio inversa vis centripetæ, & pro _PE_ medium
@@ -6085,24 +6085,24 @@ reciproce ut cubus distantiæ, vel (quod perinde est) ut cubus ille applicatus
 ad planum quodvis datum; scribe _PE cub._ ÷ 2 _ASq._ pro _V_ , dein 2 _PS_ ×
 _LD_ pro _PEq._ ; & fiet _DN_ ut
 
-_SL_ × _ASq._ |  \- |  _ASq._ |  \- |  _ALB_ × _ASq._  
----|---|---|---|---  
-_PS_ × _LD_ |  2 _PS_ |  2 _PS_ × _LDq._  
-  
+_SL_ × _ASq._ | \- | _ASq._ | \- | _ALB_ × _ASq._ 
+---|---|---|---|--- 
+_PS_ × _LD_ | 2 _PS_ | 2 _PS_ × _LDq._ 
+ 
 id est (ob continue proportionales _PS_ , _AS_ , _SI_ ) ut
 
-_LSI_ |  \- ½ _SI_ \- |  _ALB_ × _SI_ | .  
----|---|---|---  
-_LD_ |  2 _LDq._  
-  
+_LSI_ | \- ½ _SI_ \- | _ALB_ × _SI_ | . 
+---|---|---|--- 
+_LD_ | 2 _LDq._ 
+ 
 Si ducantur hujus partes [209]tres in longitudinem _AB_ , prima _LSI_ ÷ _LD_
 generabit aream Hyperbolicam; secunda ½ _SI_ aream ½ _AB_ × _SI_ ; tertia
 _ALB_ × _SI_ ÷ 2 _LDq._ aream
 
-_ALB_ × _SI_ |  \- |  _ALB_ × _SI_ | ,  
----|---|---|---  
-2 _LA_ |  2 _LB_  
-  
+_ALB_ × _SI_ | \- | _ALB_ × _SI_ | , 
+---|---|---|--- 
+2 _LA_ | 2 _LB_ 
+ 
 id est ½ _AB_ × _SI_. De prima subducatur summa secundæ ac tertiæ, & manebit
 area quæsita _ABNA_. Unde talis emergit Problematis constructio. Ad puncta _L_
 , _A_ , _S_ , _B_ erige perpendicula _Ll_ , _Aa_ , _Ss_ , _Bb_ , quorum _Ss_
@@ -6115,17 +6115,17 @@ _Exempl. 3._ Si Vis centripeta, ad singulas Sphæræ particulas tendens,
 decrescit in quadruplicata ratione distantiæ a particulis, scribe _PE_ 4 ÷ 2
 _AS_ 3 pro _V_ , dein √2 _PS_ × _LD_ pro _PE_ , & fiet _DN_ ut
 
-_SL_ × _SI_ 3/2 |  \- |  _SI_ 3/2 |  \- |  _ALB_ × _SI_ 3/2 | .  
----|---|---|---|---|---  
-√2 × _LD_ 3/2 |  2√2 × _LD_ 1/2 |  2√2 × _LD_ 5/2  
-  
+_SL_ × _SI_ 3/2 | \- | _SI_ 3/2 | \- | _ALB_ × _SI_ 3/2 | . 
+---|---|---|---|---|--- 
+√2 × _LD_ 3/2 | 2√2 × _LD_ 1/2 | 2√2 × _LD_ 5/2 
+ 
 Cujus tres partes ductæ in longitudinem _AB_ , producunt Areas totidem, _viz._
 
-√2 × _SL_ × _SI_ 3/2 |  \- |  √2 × _SL_ × _SI_ 3/2 | , |  _LB_ 1/2 × _SI_ 3/2
-\- _LA_ 1/2 \- _SI_ 3/2 |  & |  _ALB_ × _SI_ 3/2 |  \- |  _ALB_ × _SI_ 3/2 | .  
----|---|---|---|---|---|---|---|---|---  
-_LA_ 1/2 |  _LB_ 1/2 |  √2 |  3√2 × _LA_ 3/2 |  3√2 × _LB_ 3/2  
-  
+√2 × _SL_ × _SI_ 3/2 | \- | √2 × _SL_ × _SI_ 3/2 | , | _LB_ 1/2 × _SI_ 3/2
+\- _LA_ 1/2 \- _SI_ 3/2 | & | _ALB_ × _SI_ 3/2 | \- | _ALB_ × _SI_ 3/2 | . 
+---|---|---|---|---|---|---|---|---|--- 
+_LA_ 1/2 | _LB_ 1/2 | √2 | 3√2 × _LA_ 3/2 | 3√2 × _LB_ 3/2 
+ 
 Et hæ post debitam reductionem, subductis posterioribus de priori, evadunt 8
 _SI cub._ ÷ 3 _LI_. Igitur vis tota, qua corpusculum _P_ in Sphæræ centrum
 trahitur, est ut _SI cub._ ÷ _PI_ , id est reciproce ut _PS cub._ × _PI_. Q.
@@ -6134,7 +6134,7 @@ E. I. [210]
 Eadem Methodo determinari potest attractio corpusculi siti intra Sphæram, sed
 expeditius per Theorema sequens.
 
-### Prop. LXXXII. Theor. XLI.
+ Prop. LXXXII. Theor. XLI.
 
 > _In Sphæra centro_ S _intervallo_ SA _descripta, si capiantur_ SI _,_ SA _,_
 > SP _continue proportionales: dico quod corpusculi intra Sphæram in loco
@@ -6180,7 +6180,7 @@ virium in distantiis _PS_ , _IS_. Ergo ordinatæ, & propterea areæ quas
 ordinatæ describunt, hisq; proportionales attractiones, sunt in ratione
 composita ex dimidiatis illis rationibus. Q. E. D. [212]
 
-### Prop. LXXXIII. Prob. XLII.
+ Prop. LXXXIII. Prob. XLII.
 
 [![Figure for Prop. LXXXIII.](images/220.png)](images/220.png)
 
@@ -6200,7 +6200,7 @@ _FN_ ductum in _O_ ; & area curvilinea _BDLIB_ , quam ordinatim applicata _FN_
 in longitudinem _DB_ per motum continuum ducta describit, erit ut vis tota qua
 segmentum totum _RBSD_ trahit corpus _P_. Q. E. I.
 
-### Prop. LXXXIV. Prob. XLIII.
+ Prop. LXXXIV. Prob. XLIII.
 
 > _Invenire vim qua corpusculum, extra centrum Sphæræ in axe segmenti cujusvis
 > locatum, attrahitur ab eodem segmento._
@@ -6212,7 +6212,7 @@ superficies Sphærica _EFK_ , qua distinguatur segmentum in partes duas _EBKF_
 posterioris per Prop. LXXXIII.; & summa virium erit vis segmenti totius
 _EBKD_. Q. E. I.
 
-### _Scholium._
+ _Scholium._
 
 Explicatis attractionibus corporum Sphæricorum, jam pergere liceret ad leges
 attractionum aliorum quorundam ex particulis attractivis similiter constantium
@@ -6221,15 +6221,15 @@ Suffecerit Propositiones quasdam generaliores de viribus hujusmodi corporum,
 deq; motibus inde oriundis, ob eorum in rebus Philosophicis aliqualem usum,
 subjungere.
 
-  
+ 
 
 * * *
 
-## SECT. XIII.
+ SECT. XIII.
 
 _De Corporum etiam non Sphæricorum viribus attractivis._
 
-### Prop. LXXXV. Theor. XLII.
+ Prop. LXXXV. Theor. XLII.
 
 > _Si corporis attracti, ubi attrahenti contiguum est, attractio longe fortior
 > sit, quam cum vel minimo intervallo separantur ab invicem: vires
@@ -6252,7 +6252,7 @@ partes additæ vel subductæ, cum sint a loco contactus remotæ, augebunt
 notabiliter attractionis excessum qui ex contactu oritur. Constat igitur
 Propositio de corporibus figurarum omnium. Q. E. D.
 
-### Prop. LXXXVI. Theor. XLIII.
+ Prop. LXXXVI. Theor. XLIII.
 
 > _Si particularum, ex quibus corpus attractivum componitur, vires in recessu
 > corporis attracti decrescunt in triplicata vel plusquam triplicata ratione
@@ -6269,7 +6269,7 @@ locum contactus materiam quamlibet attractivam, eo ut corpora attractiva
 induant figuram quamvis assignatam, constabit Propositio de corporibus
 universis. Q. E. D. [215]
 
-### Prop. LXXXVII. Theor. XLIV.
+ Prop. LXXXVII. Theor. XLIV.
 
 > _Si corpora duo sibi invicem similia & ex materia æqualiter attractiva
 > constantia seorsim attrahant corpuscula sibi ipsis proportionalia & ad se
@@ -6304,7 +6304,7 @@ corpuscula ad se similiter posita, colligi potest ratio decrementi virium
 particularum attractivarum in recessu corpusculi attracti; si modo decrementum
 illud sit directe vel inverse in ratione aliqua distantiarum.
 
-### Prop. LXXXVIII. Theor. XLV.
+ Prop. LXXXVIII. Theor. XLV.
 
 > _Si particularum æqualium corporis cujuscunq; vires attractivæ sint ut
 > distantiæ locorum a particulis: vis corporis totius tendet ad ipsius centrum
@@ -6342,7 +6342,7 @@ _RSTV_ esset Sphæricum: & propterea si corpus illud attrahens vel quiescat,
 vel progrediatur uniformiter in directum, corpus attractum movebitur in
 Ellipsi centrum habente in attrahentis centro gravitatis.
 
-### Prop. LXXXIX. Theor. XLVI.
+ Prop. LXXXIX. Theor. XLVI.
 
 > _Si Corpora sint plura ex particulis æqualibus constantia, quarum vires sunt
 > ut distantiæ locorum a singulis: vis ex omnium viribus composita, qua
@@ -6358,7 +6358,7 @@ corporum trahentium commune gravitatis centrum vel quiescit, vel progreditur
 uniformiter in linea recta, corpus attractum movebitur in Ellipsi, centrum
 habente in communi illo trahentium centro gravitatis. [218]
 
-### Prop. XC. Prob. XLIV.
+ Prop. XC. Prob. XLIV.
 
 > _Si ad singula circuli cujuscunq; puncta tendant vires centripetæ
 > decrescentes in quacunq; distantiarum ratione: invenire vim qua corpusculum
@@ -6407,7 +6407,7 @@ unitate major; attractio corpusculi _P_ in planum totum infinitum erit
 reciproce ut _PA_ _n_ \- 2, propterea quod terminus alter _PA_ ÷ _PH_ _n_ \- 1
 evanescet.
 
-### Prop. XCI. Prob. XLV.
+ Prop. XCI. Prob. XLV.
 
 > _Invenire attractionem corpusculi siti in axe solidi, ad cujus puncta
 > singula tendunt vires centripetæ in quacunq; distantiarum ratione
@@ -6452,10 +6452,10 @@ ab eadem segmentum _KMRK_. Sit autem Sphæroidis centrum _S_ & semidiameter
 maxima _SC_ : & vis qua Sphærois trahit corpus _P_ erit ad vim qua Sphæra,
 diametro _AB_ descripta, trahit idem corpus, ut
 
-_AS_ × _CSq._ \- _PS_ × _KMRK_ |  ad |  _AS cub._ | .  
----|---|---|---  
-_PSq._ \+ _CSq._ \- _ASq._ |  3 _PS quad._  
-  
+_AS_ × _CSq._ \- _PS_ × _KMRK_ | ad | _AS cub._ | . 
+---|---|---|--- 
+_PSq._ \+ _CSq._ \- _ASq._ | 3 _PS quad._ 
+ 
 Et eodem computando fundamento invenire licet vires segmentorum Sphæroidis.
 
 [![Figure for Corol. 3.](images/230.png)](images/230.png)
@@ -6487,7 +6487,7 @@ intima _PCBM_ , & propterea (per Corol. 3. Prop. LXXII.) attractio ejus est ad
 vim, qua corpus _A_ trahitur a Sphæroide tota _AGOD_ , ut distantia _PS_ ad
 distantiam _AS_. Q. E. I.
 
-### Prop. XCII. Prob. XLVI.
+ Prop. XCII. Prob. XLVI.
 
 > _Dato corpore attractivo, invenire rationem decrementi virium centripetarum
 > in ejus puncta singula tendentium._
@@ -6499,7 +6499,7 @@ attractionis in diversis distantiis, & lex attractionis in totum inde
 patefacta dabit rationem decrementi virium partium singularum, quam invenire
 oportuit.
 
-### Prop. XCIII. Theor. XLVII.
+ Prop. XCIII. Theor. XLVII.
 
 > _Si solidum ex una parte planum, ex reliquis autem partibus infinitum,
 > constet ex particulis æqualibus æqualiter attractivis, quarum vires in
@@ -6561,7 +6561,7 @@ assertio non valet, propterea quod, in hoc casu, attractio partis illius
 ulterioris corporis infiniti in Corollario secundo, semper est infinite major
 quam attractio partis citerioris.
 
-### _Scholium._
+ _Scholium._
 
 Si corpus aliquod perpendiculariter versus planum datum trahatur, & ex data
 lege attractionis quæratur motus corporis: Solvetur Problema quærendo (per
@@ -6581,11 +6581,11 @@ applicata termino suo superiore semper attingit; Suppono basem augeri
 [226]parte quam minima _O_ , & ordinatim applicatam _A_ \+ _O_ _m_ ÷ _n_
 resolvo in Seriem infinitam
 
-_A_ _m_ ÷ _n_ \+ |  _m_ |  _OA_ ( _m_ \- _n_ )÷ _n_ \+ |  _mm_ \- _mn_ |  _O_
-2 _A_ ( _m_ \- 2 _n_ )÷ _n_ &c.;  
----|---|---|---|---  
-_n_ |  2 _nn_  
-  
+_A_ _m_ ÷ _n_ \+ | _m_ | _OA_ ( _m_ \- _n_ )÷ _n_ \+ | _mm_ \- _mn_ | _O_
+2 _A_ ( _m_ \- 2 _n_ )÷ _n_ &c.; 
+---|---|---|---|--- 
+_n_ | 2 _nn_ 
+ 
 atq; hujus termino in quo _O_ duarum est dimensionum, id est termino { _mm_ \-
 _mn_ } ÷ 2 _nn_ _O_ 2 _A_ ( _m_ \- 2 _n_ )÷ _n_ vim proportionalem esse
 suppono. Est igitur vis quæsita ut { _mm_ \- _mn_ } ÷ _nn_ _A_ ( _m_ \- 2 _n_
@@ -6598,18 +6598,18 @@ adeoq; vi, quæ sit ut cubus ordinatim applicatæ, corpus movebitur in
 Hyperbola. Sed missis hujusmodi Propositionibus, pergo ad alias quasdam de
 motu, quas nondum attigi.
 
-  
+ 
 
 * * *
 
 [227]
 
-## SECT. XIV.
+ SECT. XIV.
 
 _De motu corporum minimorum, quæ viribus centripetis ad singulas magni
 alicujus corporis partes tendentibus agitantur._
 
-### Prop. XCIV. Theor. XLVIII.
+ Prop. XCIV. Theor. XLVIII.
 
 [![Figure for Prop. XCIV.](images/235.png)](images/235.png)
 
@@ -6659,7 +6659,7 @@ quamcunq; assignatam continua reddatur; & ratio sinus incidentiæ in planum
 primum ad sinum emergentiæ ex plano ultimo, semper data existens, etiamnum
 dabitur. Q. E. D.
 
-### Prop. XCV. Theor. XLIX.
+ Prop. XCV. Theor. XLIX.
 
 > _Iisdem positis; dico quod velocitas corporis ante incidentiam est ad ejus
 > velocitatem post emergentiam, ut sinus emergentiæ ad sinum incidentiæ._
@@ -6678,7 +6678,7 @@ velocitatem post emergentiam, ut _GH_ ad _IK_ vel _TH_ , id est, ut _AH_ vel
 _Id_ ad _vH_ , hoc est (respectu radii _TH_ vel _IK_ ) ut sinus emergentiæ ad
 sinum incidentiæ. Q. E. D.
 
-### Prop. XCVI. Theor. L.
+ Prop. XCVI. Theor. L.
 
 > _Iisdem positis & quod motus ante incidentiam velocior sit quam postea: dico
 > quod corpus, inclinando lineam incidentiæ, reflectetur tandem, & angulus
@@ -6708,7 +6708,7 @@ numerum augeri, eo ut actio attractionis vel impulsus secundum legem quamcunq;
 assignatam continua reddatur; & angulus emergentiæ semper angulo incidentiæ
 æqualis existens, eidem etiamnum manebit æqualis. Q. E. D.
 
-### _Scholium._
+ _Scholium._
 
 [![Figure for Scholium.](images/240.png)](images/240.png)
 
@@ -6741,7 +6741,7 @@ subjungere; interea de natura radiorum (utrum sint corpora necne) nihil omnino
 disputans, sed trajectorias corporum trajectoriis radiorum persimiles
 solummodo determinans.
 
-### Prop. XCVII. Prob. XLVII.
+ Prop. XCVII. Prob. XLVII.
 
 > _Posito quod sinus incidentiæ in superficiem aliquam sit ad sinum emergentiæ
 > in data ratione, quodq; incurvatio viæ corporum juxta superficiem illam fiat
@@ -6779,7 +6779,7 @@ semper perpendiculares: erunt incrementa linearum _PD_ , _QD_ , atq; adeo
 lineæ ipsæ _PD_ , _QD_ , incrementis istis genitæ, ut sinus incidentiæ &
 emergentiæ ad invicem: & contra.
 
-### Prop. XCVIII. Prob. XLVIII.
+ Prop. XCVIII. Prob. XLVIII.
 
 > _Iisdem positis, & circa axem AB descripta superficie quacunq; attractiva
 > CD, regulari vel irregulari, per quam corpora de loco dato A exeuntia
@@ -6808,7 +6808,7 @@ _CE_ \+ _BG_ ad _CE_ ut _M_ ad _N_ : adeoq; divisim _FR_ ad _FS_ ut _M_ ad _N_
 , & propterea per Corol. 2. Prop. XCVII. superficies _EF_ cogit corpus in se
 secundum lineam _DF_ incidens pergere in linea _FR_ , ad locum _B_. Q. E. D.
 
-### _Scholium._
+ _Scholium._
 
 Eadem methodo pergere liceret ad superficies tres vel plures. Ad usus autem
 Opticos maxime accommodatæ sunt figuræ Sphæricæ. Si Perspicillorum vitra
@@ -6823,29 +6823,29 @@ minus Optica per figuras vel Sphæricas vel alias quascunq; perfici possit.
 Nisi corrigi possint errores illinc oriundi, labor omnis in cæteris
 corrigendis imperite collocabitur.
 
-  
+ 
 
 * * *
 
 [236]
 
-# DE MOTU CORPORUM
+ DE MOTU CORPORUM
 
-  
-
-* * *
-
-### Liber SECUNDUS
-
-  
+ 
 
 * * *
 
-## SECT. I.
+ Liber SECUNDUS
+
+ 
+
+* * *
+
+ SECT. I.
 
 _De Motu corporum quibus resistitur in ratione velocitatis._
 
-### Prop. I. Theor. I.
+ Prop. I. Theor. I.
 
 > _Corporis, cui resistitur in ratione velocitatis, motus ex resistentia
 > amissus est ut spatium movendo confectum._
@@ -6860,7 +6860,7 @@ post spatium aliquod confectum, dabitur spatium totum quod corpus infinito
 tempore describere potest. Erit enim spatium illud ad spatium jam descriptum
 ut motus totus sub initio ad motus illius partem amissam. [237]
 
-### Lemma I.
+ Lemma I.
 
 > _Quantitates differentiis suis proportionales, sunt continue
 > proportionales._
@@ -6868,7 +6868,7 @@ ut motus totus sub initio ad motus illius partem amissam. [237]
 Sit _A_ ad _A_ \- _B_ ut _B_ ad _B_ \- _C_ & _C_ ad _C_ \- _D_ &c.; &
 dividendo fiet _A_ ad _B_ ut _B_ ad _C_ & _C_ ad _D_ &c.; Q. E. D.
 
-### Prop. II. Theor. II.
+ Prop. II. Theor. II.
 
 > _Si corpori resistitur in ratione velocitatis, & sola vi insita per Medium
 > similare moveatur, sumantur autem tempora æqualia: velocitates in principiis
@@ -6908,7 +6908,7 @@ modum temporis, decrescet recta _DC_ in ratione Geometrica ad modum
 velocitatis, & partes rectæ _AC_ æqualibus temporibus descriptæ decrescent in
 eadem ratione.
 
-### Prop. III. Prob. I.
+ Prop. III. Prob. I.
 
 [![Figure for Prop. III.](images/246b.png)](images/246b.png)
 
@@ -6973,7 +6973,7 @@ _Corol. 4._ Spatium vero a corpore descriptum differentia est duorum
 spatiorum, quorum alterum est ut tempus sumptum ab initio descensus, & alterum
 ut velocitas, quæ etiam ipso descensus initio æquantur inter se. [241]
 
-### Prop. IV. Prob. II.
+ Prop. IV. Prob. II.
 
 > _Posito quod vis gravitatis in Medio aliquo similari uniformis sit, ac
 > tendat perpendiculariter ad planum Horizontis; definire motum Projectilis,
@@ -7079,7 +7079,7 @@ eandem per experimentum cognitam, erit vera longitudo _DP_. Qua inventa,
 habetur tum Curva Linea _DraF_ quam corpus describit, tum corporis velocitas &
 resistentia in locis singulis.
 
-### _Scholium._
+ _Scholium._
 
 Cæterum corpora resisti in ratione velocitatis Hypothesis est magis
 Mathematica quam Naturalis. Obtinet hæc ratio quamproxime ubi corpora in
@@ -7092,17 +7092,17 @@ in duplicata ratione major, estq; resistentia (per motus Legem 2. & 3.) ut
 motus communicatus. Videamus igitur quales oriantur motus ex hac lege
 Resistentiæ.
 
-  
+ 
 
 * * *
 
 [246]
 
-## SECT. II.
+ SECT. II.
 
 _De motu corporum quibus resistitur in duplicata ratione velocitatum._
 
-### Prop. V. Theor. III.
+ Prop. V. Theor. III.
 
 > _Si corpori resistitur in velocitatis ratione duplicata, & sola vi insita
 > per Medium similare movetur, tempora vero sumantur in progressione
@@ -7169,7 +7169,7 @@ Hyperbola Asymptotis _CH_ , _CD_ describi debet; ut & spatium _ABGD_ , quod
 corpus incipiendo motum suum cum velocitate illa _AB_ , tempore quovis _AD_ ,
 in Medio similari resistente describere potest.
 
-### Prop. VI. Theor. IV.
+ Prop. VI. Theor. IV.
 
 [![Figure for Prop. VI.](images/256.png)](images/256.png)
 
@@ -7188,7 +7188,7 @@ primæ [249] _AB_ , _DE_ sunt ultimis _ab_ , _de_ , & propterea (dividendo)
 partibus etiam suis amissis _AB_ \- _ab_ , _DE_ \- _de_ proportionales. Q. E.
 D.
 
-### Prop. VII. Theor. V.
+ Prop. VII. Theor. V.
 
 > _Corpora Sphærica quibus resistitur in duplicata ratione velocitatum,
 > temporibus quæ sunt ut motus primi directe & resistentiæ primæ inverse,
@@ -7238,7 +7238,7 @@ cæteris paribus magis resistit, diminuendum erit in ratione majoris
 resistentiæ. Tempus enim (per hanc Propositionem) diminuetur in ratione
 resistentiæ, & spatium in ratione temporis.
 
-### Lemma II.
+ Lemma II.
 
 > _Momentum Genitæ æquatur momentis Terminorum singulorum generantium in
 > eorundem laterum indices dignitatum & coefficientia continue ductis._
@@ -7328,7 +7328,7 @@ rectanguli cujuscunq; dati.
 _Corol. 3._ Et si summa vel differentia duorum quadratorum detur, momenta
 laterum erunt reciproce ut latera.
 
-### _Scholium._
+ _Scholium._
 
 In literis quæ mihi cum Geometra peritissimo _G. G. Leibnitio_ annis abhinc
 decem intercedebant, cum significarem me compotem esse methodi determinandi
@@ -7340,7 +7340,7 @@ Clarissimus se quoq; in ejusmodi methodum incidisse, & methodum suam
 communicavit a mea vix abludentem præterquam in verborum & notarum formulis.
 Utriusq; fundamentum continetur in hoc Lemmate.
 
-### Prop. VIII. Theor. VI.
+ Prop. VIII. Theor. VI.
 
 > _Si corpus in Medio uniformi, Gravitate uniformiter agente, recta ascendat
 > vel descendat, & spatium totum descriptum distinguatur in partes æquales,
@@ -7399,7 +7399,7 @@ temporis est ut _KN_ × _PQ_ , vel quod perinde est, ut _PQ_ ÷ _CK_. Q. E. D.
 _Corol. 5._ Eodem argumento particula temporis, quo spatii particula _nklo_ in
 ascensu describitur, est ut _pq_ ÷ _Ck_.
 
-### Prop. IX. Theor. VII.
+ Prop. IX. Theor. VII.
 
 > _Positis jam demonstratis, dico quod si Tangentes angulorum sectoris
 > Circularis & sectoris Hyperbolici sumantur velocitatibus proportionales,
@@ -7493,7 +7493,7 @@ Sectorem ut spatium quæsitum ad spatium jam ante inventum.
 _Corol. 7._ Et regrediendo, ex dato ascensus vel descensus spatio _ABnk_ vel
 _ABNK_ , dabitur tempus _ADt_ vel _ADT_.
 
-### Prop. X. Prob. III.
+ Prop. X. Prob. III.
 
 > _Tendat uniformis vis gravitatis directe ad planum Horizontis, sitq;
 > resistentia ut medii densitas & quadratum velocitatis conjunctim: requiritur
@@ -7678,21 +7678,21 @@ etiam mutato { _bb_ ÷ _a_ 4} _o_ 3 pro _So_ 3, eorumq; coefficientes _m_ ÷ _n_
 \- _bb_ ÷ _aa_ , _bb_ ÷ _a_ 3 & _bb_ ÷ _a_ 4 scribendæ sunt, [268]in Regula
 superiore, pro _Q_ , _R_ & _S_. Quo facto prodit medii densitas ut
 
-| _bb_  
----  
-_a_ 4  
-| _bb_ |  | √| | {|  1 - |  _mm_ |  \- |  2 _mbb_ |  \+ |  _b_ 4 | }|  
----|---|---|---|---|---|---|---|---|---|---|---|---  
-_a_ 3 |  _nn_ |  _naa_ |  _a_ 4  
-  
+| _bb_ 
+--- 
+_a_ 4 
+| _bb_ | | √| | {| 1 - | _mm_ | \- | 2 _mbb_ | \+ | _b_ 4 | }| 
+---|---|---|---|---|---|---|---|---|---|---|---|--- 
+_a_ 3 | _nn_ | _naa_ | _a_ 4 
+ 
 seu
 
-1  
----  
-| | √| | {|  _aa_ |  \+ |  _mm_ |  _aa_ \- |  2 _mbb_ |  \+ |  _b_ 4 | }|  
----|---|---|---|---|---|---|---|---|---|---|---|---  
-_nn_ |  _n_ |  _aa_  
-  
+1 
+--- 
+| | √| | {| _aa_ | \+ | _mm_ | _aa_ \- | 2 _mbb_ | \+ | _b_ 4 | }| 
+---|---|---|---|---|---|---|---|---|---|---|---|--- 
+_nn_ | _n_ | _aa_ 
+ 
 est, si in _VZ_ sumatur _VY_ æqualis _VG_ , ut 1 ÷ _XY_. Namq; _aa_ & { _mm_ ÷
 _nn_ } _aa_ \- 2 _mbb_ ÷ _n_ \+ _b_ 4 ÷ _aa_ sunt ipsarum _XZ_ & _ZY_
 quadrata. Resistentia autem invenitur in ratione ad Gravitatem quam habet _XY_
@@ -7717,32 +7717,32 @@ _A_ \- _O_ , & _GD_ seu _NX_ \- _VZ_ \- _VG_ æqualis _C_ \- { _d_ ÷ _e_ } _A_
 \+ { _d_ ÷ _e_ } _O_ \- _bb_ ÷ { _A_ \- _O_ } _n_. Resolvatur terminus ille
 _bb_ ÷ { _A_ \- _O_ } _n_ in seriam infinitam
 
-_bb_ |  \+ |  _nbbO_ |  \+ |  _nn_ \+ _n_ |  _bbO_ 2 \+ |  _n_ 3 \+ 3 _nn_ \+
-2 _n_ |  _bbO_ 3 &c.;  
----|---|---|---|---|---|---|---  
-_A_ _n_ |  _A_ _n_ +1 |  2 _A_ _n_ +2 |  6 _A_ _n_ +3  
-  
+_bb_ | \+ | _nbbO_ | \+ | _nn_ \+ _n_ | _bbO_ 2 \+ | _n_ 3 \+ 3 _nn_ \+
+2 _n_ | _bbO_ 3 &c.; 
+---|---|---|---|---|---|---|--- 
+_A_ _n_ | _A_ _n_ +1 | 2 _A_ _n_ +2 | 6 _A_ _n_ +3 
+ 
 ac fiet _GD_ æqualis
 
 [269]
 
-_C_ \- |  _d_ |  _A_ \- |  _bb_ |  \+ |  _d_ |  _O_ \- |  _nbb_ |  _O_ \- |
-_nn_ \+ _n_ |  _bbO_ 2 \- |  _n_ 3 \+ 3 _nn_ \+ 2 _n_ |  _bbO_ 3 |  &c.;  
----|---|---|---|---|---|---|---|---|---|---|---|---|---  
-_e_ |  _A_ _n_ |  _e_ |  _A_ _n_ +1 |  2 _A_ _n_ +2 |  6 _A_ _n_ +3  
-  
+_C_ \- | _d_ | _A_ \- | _bb_ | \+ | _d_ | _O_ \- | _nbb_ | _O_ \- |
+_nn_ \+ _n_ | _bbO_ 2 \- | _n_ 3 \+ 3 _nn_ \+ 2 _n_ | _bbO_ 3 | &c.; 
+---|---|---|---|---|---|---|---|---|---|---|---|---|--- 
+_e_ | _A_ _n_ | _e_ | _A_ _n_ +1 | 2 _A_ _n_ +2 | 6 _A_ _n_ +3 
+ 
 Hujus seriei terminus secundus { _d_ ÷ _e_ } _O_ \- { _nbb_ ÷ _A_ _n_ +1} _O_
 usurpandus est pro _Qo_ , tertius {{ _nn_ \+ _n_ } ÷ 2 _A_ _n_ +2} _bbO_ 2 pro
 _Ro_ 2, quartus {{ _n_ 3 \+ 3 _nn_ \+ 2 _n_ } ÷ 6 _A_ _n_ +3} _bbO_ 3 pro _So
 3_. Et inde Medii densitas _S_ ÷ { _R_ × √1 + _QQ_ }, in loco quovis _G_ , fit
 
-_n_ \+ 2  
----  
-| 3 | √| | {|  _A_ 2 \+ |  _dd_ |  _A_ 2 \- |  2 _dnbb_ |  _A_ \+ |  _nnb_ 4 |
-| }| ,  
----|---|---|---|---|---|---|---|---|---|---|---|---  
-_ee_ |  _eA_ _n_ |  _A_ 2 _n_  
-  
+_n_ \+ 2 
+--- 
+| 3 | √| | {| _A_ 2 \+ | _dd_ | _A_ 2 \- | 2 _dnbb_ | _A_ \+ | _nnb_ 4 |
+| }| , 
+---|---|---|---|---|---|---|---|---|---|---|---|--- 
+_ee_ | _eA_ _n_ | _A_ 2 _n_ 
+ 
 adeoq; si in _VZ_ capiatur _VY_ æqualis _n_ × _VG_ , est reciproce ut _XY_.
 Sunt enim _A_ 2 & { _dd_ ÷ _ee_ } _A_ 2 \- 2 _dnbb_ ÷ _eA_ _n_ in _A_ \+ _nnb_
 4 ÷ _A_ 2 _n_ ipsarum _XZ_ & _ZY_ quadrata. Resistentia autem in eodem loco
@@ -7752,7 +7752,7 @@ projectum in Parabola pergeret, verticem _G_ , diametrum _GD_ & Latus rectum
 {1 + _QQ_ } ÷ _R_ seu 2 _XY quad._ ÷ { _nn_ \+ _n_ in _VG_ } habente. _Q. E.
 I._
 
-### _Scholium._
+ _Scholium._
 
 Quoniam motus non fit in Parabola nisi in Medio non resistente, in Hyperbolis
 vero hic descriptis fit per resistentiam perpetuam; perspicuum est quod linea,
@@ -7878,16 +7878,16 @@ inde datur Parabolæ vertex _X_ , & positio rectæ _XI_ , & sumendo _VG_ ad _IA_
 ut _XV_ _n_ ad _XI_ _n_ , dantur omnia Parabolæ puncta _G_ , per quæ
 Projectile transibit.
 
-  
+ 
 
 * * *
 
-## SECT. III.
+ SECT. III.
 
 _De motu corporum quæ resistuntur partim in ratione velocitatis, partim in
 ejusdem ratione duplicata._
 
-### Prop. XI. Theor. VIII.
+ Prop. XI. Theor. VIII.
 
 > _Si corpus resistitur partim in ratione velocitatis, partim in velocitatis
 > ratione duplicata, & sola vi insita in Medio similari movetur, sumantur
@@ -7928,7 +7928,7 @@ velocitatis reciprocam in fine temporis [276]cujusvis _ABED_ , invenietur
 punctum _G_. Eo autem invento, velocitas ex dato quovis alio tempore inveniri
 potest.
 
-### Prop. XII. Theor. IX.
+ Prop. XII. Theor. IX.
 
 > _Iisdem positis, dico quod si spatia descripta sumantur in progressione
 > Arithmetica, velocitates data quadam quantitate auctæ erunt in progressione
@@ -7964,7 +7964,7 @@ _Corol. 3._ Unde cum, per Prop. XI. detur velocitas ex dato tempore, & per
 hanc Propositionem detur spatium ex data velocitate; dabitur spatium ex dato
 tempore: & contra.
 
-### Prop. XIII. Theor. X.
+ Prop. XIII. Theor. X.
 
 [![Figure for Prop. XIII.](images/285.png)](images/285.png)
 
@@ -8043,7 +8043,7 @@ non resistente, tempori atque adeo Sectori huic proportionalis est; in Medio
 resistente est ut triangulum; & in Medio utroq; ubi quam minima est, accedit
 ad rationem æqualitatis, pro more Sectoris & Trianguli. [280]
 
-### Prop. XIV. Prob. IV.
+ Prop. XIV. Prob. IV.
 
 > _Iisdem positis, dico quod spatium ascensu vel descensu descriptum, est ut
 > summa vel differentia areæ per quam tempus exponitur, & areæ cujusdam
@@ -8118,17 +8118,17 @@ _AB_ & arearum _DET_ & _AKNb_ differentia; ob eorum analoga incrementa necesse
 est ut in æqualibus quibuscunque temporibus sint ad invicem ut area illa _BD_
 × _V_ 2 ÷ 4 _AB_ & arearum _DET_ & _AKNb_ differentia. _Q. E. D._
 
-  
+ 
 
 * * *
 
 [283]
 
-## SECT. IV.
+ SECT. IV.
 
 _De Corporum circulari Motu in Mediis resistentibus._
 
-### LEM. III.
+ LEM. III.
 
 > _Sit_ PQRr _Spiralis quæ secet radios omnes_ SP _,_ SQ _,_ SR _, &c.; in
 > æqualibus angulis. Agatur recta _PT _quæ tangat eandem in puncto quovis_ P
@@ -8151,7 +8151,7 @@ erunt hujusmodi: _TQ_ ad _PD_ ut _TS_ vel _PS_ ad _PE_ , seu _PO_ ad _PS_.
 Item _PD_ ad _PQ_ ut _PQ_ ad _PO_. Et ex æquo perturbate _TQ_ ad _PQ_ ut _PQ_
 ad _PS_. Unde fit _PQq._ æqualis _TQ_ × _PS_. _Q. E. D._ [284]
 
-### Prop. XV. Theor. XI.
+ Prop. XV. Theor. XI.
 
 > _Si Medii densitas in locis singulis sit reciproce ut distantia locorum a
 > centro immobili, sitque vis centripeta in duplicata ratione densitatis: dico
@@ -8267,7 +8267,7 @@ revolutiones eisdem ab invicem intervallis distare, iisdemque gradibus ad
 centrum accedere cum Spirali superius descripta, intelligemus etiam quomodo
 motus corporum in hujusmodi Spiralibus peragantur.
 
-### Prop. XVI. Theor. XII.
+ Prop. XVI. Theor. XII.
 
 > _Si Medii densitas in locis singulis sit reciproce ut dignitas aliqua
 > distantiæ locorum a centro, sitque vis centripeta reciproce ut distantia in
@@ -8282,7 +8282,7 @@ arcum quemvis _PQ_ erit ut _PQ_ × _SP_ ½ _n_ [289]& resistentia in _P_ ut _Rr_
 ut ½ _OS_ ÷ { _OP_ × _SP_ _n_ \+ 1}. Et propterea densitas in _P_ est
 reciproce ut _SP_ _n_.
 
-### _Scholium._
+ _Scholium._
 
 Cæterum hæc Propositio & superiores, quæ ad Media inæqualiter densa spectant,
 intelligendæ sunt de motu corporum adeo parvorum, ut Medii ex uno corporis
@@ -8291,7 +8291,7 @@ quoque cæteris paribus densitati proportionalem esse suppono. Unde in Mediis
 quorum vis resistendi non est ut densitas, debet densitas eo usque augeri vel
 diminui, ut resistentiæ vel tollatur excessus vel defectus suppleatur.
 
-### Prop. XVII. Prob. V.
+ Prop. XVII. Prob. V.
 
 _Invenire & vim centripetam & Medii resistentiam qua corpus in data Spirali
 data lege revolvi potest._ Vide _Fig. Prop. XV._
@@ -8302,7 +8302,7 @@ quadratum temporis dabitur vis. Deinde ex arearum, æqualibus temporum
 particulis confectarum _PSQ_ & _QSR_ , differentia _RSr_ , dabitur corporis
 retardatio, & ex retardatione invenietur resistentia ac densitas Medii.
 
-### Prop. XVIII. Prob. VI.
+ Prop. XVIII. Prob. VI.
 
 > _Data lege vis centripetæ, invenire Medii densitatem in locis singulis, qua
 > corpus datam Spiralem describet._
@@ -8317,20 +8317,20 @@ detenere nolo. Addenda jam sunt aliqua de viribus corporum ad progrediendum,
 deque densitate & resistentia Mediorum, in quibus motus hactenus expositi &
 his affines peraguntur.
 
-  
+ 
 
 * * *
 
-## SECT. V.
+ SECT. V.
 
 _De Densitate & compressione Fluidorum, deque Hydrostatica._
 
-### Definitio Fluidi.
+ Definitio Fluidi.
 
 Fluidum est corpus omne cujus partes cedunt vi cuicunque illatæ, & cedendo
 facile movetur inter se.
 
-### Prop. XIX. Theor. XIII.
+ Prop. XIX. Theor. XIII.
 
 > _Fluidi homogenei & immoti, quod in vase quocunque immoto clauditur &
 > undique comprimitur, partes omnes (seposita Condensationis, gravitatis &
@@ -8397,7 +8397,7 @@ in externa superficie illatam, mutari possunt nisi, quatenus aut figura
 superficiei alicubi mutatur, aut omnes fluidi partes intensius vel remissius
 sese premendo difficilius vel facilius labuntur inter se.
 
-### Prop. XX. Theor. XIV.
+ Prop. XX. Theor. XIV.
 
 > _Si Fluidi Sphærici, & in æqualibus a centro distantiis homogenei, fundo
 > sphærico concentrico incumbentis partes singulæ versus centrum totius
@@ -8511,7 +8511,7 @@ si in vacuo constituerentur, ac solam retinerent gravitatem suam comparativam,
 nisi quatenus fluidum vel motibus earum nonnihil resistat, vel ad easdem
 compressione conglutinandas requiratur.
 
-### Prop. XXI. Theor. XV.
+ Prop. XXI. Theor. XV.
 
 > _Sit Fluidi cujusdam densitas compressioni proportionalis, & partes ejus a
 > vi centripeta distantiis suis a centro reciproce proportionali deorsum
@@ -8569,7 +8569,7 @@ _SE_ , _SQ_ obtinent alium quemvis ordinem in serie continue proportionalium,
 lineæ _AH_ , _EM_ , _QT_ , ob proportionales areas Hyperbolicas, obtinebunt
 eundem ordinem in alia serie quantitatum continue proportionalium.
 
-### Prop. XXII. Theor. XVI.
+ Prop. XXII. Theor. XVI.
 
 > _Sit Fluidi cujusdam densitas compressioni proportionalis, & partes ejus a
 > gravitate quadratis distantiarum suarum a centro reciproce proportionali
@@ -8619,7 +8619,7 @@ densitas _FN_ in altitudine quacunque _SF_ , sumendo aream _thnz_ ad aream
 illam datam _thkw_ ut est differentia _Aa_ \- _Ff_ ad differentiam _Aa_ \-
 _Cc_.
 
-### _Scholium._
+ _Scholium._
 
 Simili argumentatione probari potest, quod si gravitas particularum Fluidi
 diminuatur in triplicata ratione distantiarum a centro; & quadratorum
@@ -8648,7 +8648,7 @@ duplicata ratione densitatis, & gravitas reciproce in ratione duplicata
 distantiæ, & densitas erit reciproce ut distantia. Casus omnes percurrere
 longum esset.
 
-### Prop. XXIII. Theor. XVII.
+ Prop. XXIII. Theor. XVII.
 
 > _Particulæ viribus quæ sunt reciproce proportionales distantiis centrorum
 > suorum se mutuo fugientes componunt Fluidum Elasticum, cujus densitas est
@@ -8688,7 +8688,7 @@ _DP_ ad pressionem lateris _DB_ ut _ab quad._ ad _AB quad._ Et ex æquo pressio
 quadrati _DP_ ad pressionem lateris _db_ ut _ab cub._ ad _AB cub._ id est vis
 compressionis ad vim compressionis ut densitas ad densitatem. _Q. E. D._
 
-### _Scholium._
+ _Scholium._
 
 Simili argumento si particularum vires centrifugæ sint reciproce in duplicata
 ratione distantiarum inter centra, cubi virium comprimentium erunt ut
@@ -8719,15 +8719,15 @@ fugantibus constent, Quæstio Physica est. Nos proprietatem Fluidorum ex
 ejusmodi particulis constantium Mathematice demonstravimus, ut Philosophis
 ansam præbeamus Quæstionem illam tractandi.
 
-  
+ 
 
 * * *
 
-## SECT. VI.
+ SECT. VI.
 
 _De Motu & resistentia Corporum Funependulorum._
 
-### Prop. XXIV. Theor. XVIII.
+ Prop. XXIV. Theor. XVIII.
 
 > _Quantitates materiæ in corporibus funependulis, quorum centra oscillationum
 > a centro suspensionis æqualiter distant, sunt in ratione composita ex
@@ -8779,7 +8779,7 @@ diversis locis, ad cognoscendam variationem gravitatis. Factis autem
 experimentis quam accuratissimis inveni semper quantitatem materiæ in
 corporibus singulis eorum ponderi proportionalem esse.
 
-### Prop. XXV. Theor. XIX.
+ Prop. XXV. Theor. XIX.
 
 > _Corpora Funependula quæ in Medio quovis resistuntur in ratione momentorum
 > temporis, quæque in ejusdem gravitatis specificæ Medio non resistente
@@ -8829,7 +8829,7 @@ infimum _C_ , sed reperitur in puncto illo _O_ , quo arcus totus descriptus
 _aB_ bisecatur. Et corpus subinde pergendo ad _a_ , iisdem gradibus retardatur
 quibus antea accelerabatur in descensu suo a _B_ ad _O_. [307]
 
-### Prop. XXVI. Theor. XX.
+ Prop. XXVI. Theor. XX.
 
 > _Corporum Funependulorum, quæ resistuntur in ratione velocitatum,
 > oscillationes in Cycloide sunt Isochronæ._
@@ -8848,7 +8848,7 @@ arcubus proportionales, generabunt velocitates arcubus proportionales. Ergo
 velocitates semper erunt ut arcus toti describendi, & propterea arcus illi
 simul describentur. _Q. E. D._
 
-### Prop. XXVII. Theor. XXI.
+ Prop. XXVII. Theor. XXI.
 
 > _Si corpora Funependula resistuntur in duplicata ratione velocitatum,
 > differentiæ inter tempora oscillationum in Medio resistente ac tempora
@@ -8888,7 +8888,7 @@ minus; ac proinde magis vel minus cum corporibus motis conspirat. Pendulis
 igitur in descensu magis resistit, in ascensu minus quam pro ratione
 velocitatis, & ex utraque causa tempus producitur.
 
-### Prop. XXVIII. Theor. XXII.
+ Prop. XXVIII. Theor. XXII.
 
 > _Si corpus Funependulum in Cycloide oscillans resistitur in ratione
 > momentorum temporis, erit ejus resistentia ad vim gravitatis ut[309]excessus
@@ -8905,7 +8905,7 @@ Cycloidis inter punctum illud supremum & punctum infimum _C_ ad arcum _CO_ ;
 id est (si arcus duplicentur) ut Cycloidis totius arcus, seu dupla penduli
 longitudo, ad arcum _Aa_. _Q. E. D._
 
-### Prop. XXIX. Prob. VII.
+ Prop. XXIX. Prob. VII.
 
 > _Posito quod corpus in Cycloide oscillans resistitur in duplicata ratione
 > velocitatis: invenire resistentiam in locis singulis._
@@ -8993,7 +8993,7 @@ Cæterum ob difficilem calculum quo resistentia & velocitas per hanc
 Propositionem inveniendæ sunt, visum est Propositionem sequentem subjungere,
 quæ & generalior sit & ad usus Philosophicos abunde satis accurata.
 
-### Prop. XXX. Theor. XXIII.
+ Prop. XXX. Theor. XXIII.
 
 > _Si recta_ aB _æqualis sit Cycloidis arcui quem corpus oscillando describit,
 > & ad singula ejus puncta _D _erigantur perpendicula_ DK _, quæ sint ad
@@ -9094,7 +9094,7 @@ Nam cum Ellipsis vel Parabola congruat cum figura _BKVTa_ in puncto medio _V_
 , hæc si ad partem alterutram _BKV_ vel _VTa_ excedit figuram illam, deficiet
 ab eadem ad partem alteram, & sic eidem æquabitur quam proxime.
 
-### Prop. XXXI. Theor. XXIV.
+ Prop. XXXI. Theor. XXIV.
 
 > _Si corporis oscillantis resistentia in singulis arcuum descriptorum
 > partibus proportionalibus augeatur vel minuatur in data ratione; differentia
@@ -9129,17 +9129,17 @@ inveniri potest ratio incrementi ac decrementi resistentiæ hujus pro
 longitudine arcus descripti, habebitur etiam ratio incrementi ac decrementi
 resistentiæ pro velocitate majore vel minore.
 
-  
+ 
 
 * * *
 
 [317]
 
-## SECT. VII.
+ SECT. VII.
 
 _De Motu Fluidorum & resistentia Projectilium._
 
-### Prop. XXXII. Theor. XXV.
+ Prop. XXXII. Theor. XXV.
 
 > _Si corporum Systemata duo ex æquali particularum numero constent &
 > particulæ correspondentes similes sint, singulæ in uno Systemate singulis in
@@ -9193,7 +9193,7 @@ utcunque moveri incipiant: hæ similes in reliquis systematum partibus
 excitabunt motus, & pergent inter ipsas temporibus proportionalibus similiter
 moveri; atque adeo spatia diametris suis proportionalia describere. [319]
 
-### Prop. XXXIII. Theor. XXVI.
+ Prop. XXXIII. Theor. XXVI.
 
 > _Iisdem positis, dico quod Systematum partes majores resistuntur in ratione
 > composita ex duplicata ratione velocitatum suarum & duplicata ratione
@@ -9314,7 +9314,7 @@ aut ex alia quavis causa, qua motus particularum inter se redduntur minus
 liberi: resistentia, ob minorem Medii fluiditatem, erit major quam in
 superioribus Corollariis. [323]
 
-### Prop. XXXIV. Theor. XXVII.
+ Prop. XXXIV. Theor. XXVII.
 
 > _Quæ in præcedentibus duabus Propositionibus demonstrata sunt, obtinent ubi
 > particulæ Systematum se mutuo contingunt, si modo particulæ illæ sint summe
@@ -9365,7 +9365,7 @@ quibuscunque se mutuo agitant, quibus motuum libertas diminuitur: Projectilia
 tardiora difficilius superabunt resistentiam, & propterea magis resistentur
 quam in velocitatis ratione duplicata.
 
-### Prop. XXXV. Theor. XXVIII.
+ Prop. XXXV. Theor. XXVIII.
 
 > _Si Globus & Cylindrus æqualibus diametris descripti, in Medio raro &
 > Elastico, secundum plagam axis Cylindri, æquali cum velocitate celerrime
@@ -9409,7 +9409,7 @@ tota in cylindrum. Et propterea si particulæ Medii quiescerent, & cylindrus ac
 globus æquali cum velocitate moverentur, foret resistentia globi duplo minor
 quam resistentia cylindri. _Q. E. D._
 
-### _Scholium._
+ _Scholium._
 
 [![Figure for Scholium.](images/334.png)](images/334.png)
 
@@ -9443,7 +9443,7 @@ figuræ hujus revolutione circa axem _AB_ facta describitur, in Medio raro &
 Elastico ab _A_ versus _B_ velocissime movendo, minus resistetur quam aliud
 quodvis eadem longitudine & latitudine descriptum Solidum circulare.
 
-### Prop. XXXVI. Prob. VIII.
+ Prop. XXXVI. Prob. VIII.
 
 > _Invenire resistentiam corporis Sphærici in Fluido raro & Elastico
 > velocissime progredientis._ (Vide Fig. Pag. 325.)
@@ -9514,7 +9514,7 @@ _Corol. 5._ Cognita autem resistentia corporum celerrimorum, innotescet etiam
 resistentia tardorum; si modo lex decrementi resistentiæ pro ratione
 velocitatis inveniri potest. [330]
 
-### Prop. XXXVII. Prob. IX.
+ Prop. XXXVII. Prob. IX.
 
 > _Aquæ de vase dato per foramen effluentis definire motum._
 
@@ -9588,7 +9588,7 @@ motus pilarum, quæ Pulvere tormentario madefacto implentur, &, materia in
 flammam per foramen paulatim expirante, recedunt a regione flammæ & in partem
 contrariam cum impetu feruntur.
 
-### Prop. XXXVIII. Theor. XXIX.
+ Prop. XXXVIII. Theor. XXIX.
 
 > _Corporum Sphæricorum in Mediis quibusque Fluidissimis resistentiam in
 > anteriore superficie definire._
@@ -9715,7 +9715,7 @@ movenda resistendaque permagnam esse, & quomodo vis illius quantitas per
 experimenta determinetur, plenius patebit per Propositiones duas quæ
 sequuntur.
 
-### Lemma IV.
+ Lemma IV.
 
 > _Si vas Sphæricum Fluido homogeneo quiescente plenum a vi impressa moveatur
 > in directum, motuque progessivo semper accelerato ita pergat ut interea non
@@ -9723,7 +9723,7 @@ sequuntur.
 > vasis, quiescent inter se. Idem obtinebit in vase figuræ cujuscunque. Res
 > manifesta est, nec indiget demonstratione._
 
-### Prop. XXXIX. Theor. XXX.
+ Prop. XXXIX. Theor. XXX.
 
 > _Fluidum omne quod motu accelerato ad modum venti increbescentis
 > progreditur, & cujus partes inter se quiescunt, rapit omnia ejusdem
@@ -9743,7 +9743,7 @@ Ergo Fluidum omne quod motu progressivo accelerato fertur, & cujus partes
 inter se quiescunt, solida quæcunque ejusdem densitatis inclusa, quæ sub
 initio quiescebant, rapit secum, & una moveri cogit. _Q. E. D._
 
-### Prop. XL. Prob. X.
+ Prop. XL. Prob. X.
 
 > _Invenire resistentiam solidorum Sphæricorum in Mediis Fluidissimis
 > densitate datis._
@@ -9794,7 +9794,7 @@ rarius; suntque Fluidorum omnium vires resistendi prope ut eorum densitates;
 præsertim si solida sint magna, & velociter moveantur, & Fluidorum æqualis sit
 compressio.
 
-### _Scholium Generale._
+ _Scholium Generale._
 
 Quæ hactenus demonstrata sunt tentavi in hunc modum. Globum ligneum pondere
 unciarum _Romanarum_ 577/22, diametro digitorum _Londinensium_ 6⅞ fabricatum,
@@ -9911,11 +9911,11 @@ longitudinem arcus ascensu ultimo descripti; & loco infimo stant numeri
 oscillationum. Experimentum descripsi tanquam magis accuratum quam cum motus
 pars tantum octava amitteretur. Calculum tentet qui volet.
 
-_Descensus Primus_ | 2 | 4 | 8 | 16 | 32 | 64  
----|---|---|---|---|---|---  
-_Ascensus ultimus_ | 1½ | 3 | 6 | 12 | 24 | 48  
-_Num. Oscillat._ | 374 | 272 | 162½ | 83⅓ | 41⅔ | 22⅔  
-  
+_Descensus Primus_ | 2 | 4 | 8 | 16 | 32 | 64 
+---|---|---|---|---|---|--- 
+_Ascensus ultimus_ | 1½ | 3 | 6 | 12 | 24 | 48 
+_Num. Oscillat._ | 374 | 272 | 162½ | 83⅓ | 41⅔ | 22⅔ 
+ 
 Postea Globum plumbeum, diametro digitorum duorum & pondere unciarum Romanarum
 26¼ suspendi filo eodem, sic ut inter centrum Globi & punctum suspensionis
 intervallum esset pedum 10½, & numerabam oscillationes quibus data motus pars
@@ -9923,15 +9923,15 @@ amitteretur. Tabularum subsequentium prior exhibet numerum [344]oscillationum
 quibus pars octava motus totius cessavit; secunda numerum oscillationum quibus
 ejusdem pars quarta amissa fuit.
 
-_Descensus primus_ | 1 | 2 | 4 | 8 | 16 | 32 | 64  
----|---|---|---|---|---|---|---  
-_Ascensus ultimus_ | ⅞ | 7/4 | 3½ | 7 | 14 | 28 | 56  
-_Numerus Oscillat._ | 226 | 228 | 193 | 140 | 90½ | 53 | 30  
-_Descensus primus_ | 1 | 2 | 4 | 8 | 16 | 32 | 64  
----|---|---|---|---|---|---|---  
-_Ascensus ultimus_ | ¾ | 1½ | 3 | 6 | 12 | 24 | 48  
-_Numerus Oscillat._ | 510 | 518 | 420 | 318 | 204 | 121 | 70  
-  
+_Descensus primus_ | 1 | 2 | 4 | 8 | 16 | 32 | 64 
+---|---|---|---|---|---|---|--- 
+_Ascensus ultimus_ | ⅞ | 7/4 | 3½ | 7 | 14 | 28 | 56 
+_Numerus Oscillat._ | 226 | 228 | 193 | 140 | 90½ | 53 | 30 
+_Descensus primus_ | 1 | 2 | 4 | 8 | 16 | 32 | 64 
+---|---|---|---|---|---|---|--- 
+_Ascensus ultimus_ | ¾ | 1½ | 3 | 6 | 12 | 24 | 48 
+_Numerus Oscillat._ | 510 | 518 | 420 | 318 | 204 | 121 | 70 
+ 
 In Tabula priore seligendo ex observationibus tertiam, quintam & septimam, &
 exponendo velocitates maximas in his observationibus particulatim per numeros
 1, 4, 16 respective, & generaliter per quantitatem _V_ ut supra: emerget in
@@ -10021,15 +10021,15 @@ suspensionis ad punctum quoddam in filo notatum 126 digitorum, ad
 oscillationis autem centrum 134⅛ digitorum.
 
 _Arcus descensu primo a puncto in filo notato descriptus digitorum._ | 64 | 32
-| 16 | 8 | 4 | 2 | 1 | ½ | ¼  
----|---|---|---|---|---|---|---|---|---  
+| 16 | 8 | 4 | 2 | 1 | ½ | ¼ 
+---|---|---|---|---|---|---|---|---|--- 
 _Arcus ascensu ultimo descriptus digitorum._ | 48 | 24 | 12 | 6 | 3 | 1½ | ¾ |
-⅜ | 3/16  
+⅜ | 3/16 
 _Arcuum differentia motui amisso proportionalis, digitorum._ | 16 | 8 | 4 | 2
-| 1 | ½ | ¼ | ⅛ | 1/16  
-_Numerus oscillationum in aqua._ |  | 29/60 | 11/5 | 3 | 7 | 11¼ | 12⅔ | 13⅓  
-_Numerus oscillationum in aere._ | 85½ |  | 287 | 535  
-  
+| 1 | ½ | ¼ | ⅛ | 1/16 
+_Numerus oscillationum in aqua._ | | 29/60 | 11/5 | 3 | 7 | 11¼ | 12⅔ | 13⅓ 
+_Numerus oscillationum in aere._ | 85½ | | 287 | 535 
+ 
 In experimento columnæ quartæ, motus æquales oscillationibus 535 in aere, &
 11/5 in aqua amissi sunt. Erant autem oscillationes in aere paulo celeriores
 quam in aqua, nimirum in ratione 44 ad 41. Nam 14⅔ oscillationes in aqua, &
@@ -10079,12 +10079,12 @@ filo affixus esset, & in Aere oscillando, adjuvaret motum penduli eumque
 diuturniorem redderet. Experimenta autem hoc modo instituta se habebant ut in
 Tabula sequente describitur.
 
-_Arcus descensu primo descriptus_ | 16 | 8 | 4 | 2 | 1 | ½ | ¼  
----|---|---|---|---|---|---|---  
-_Arcus ascensu ultimo descriptus._ | 12 | 6 | 3 | 1½ | ¾ | ⅜ | 3/16  
-_Arcuum diff. motui amisso proportionalis_ | 4 | 2 | 1 | ½ | ¼ | ⅛ | 1/16  
-_Numerus Oscillationum_ | 3⅜ | 6½ | 121/12 | 211/5 | 34 | 53 | 621/5  
-  
+_Arcus descensu primo descriptus_ | 16 | 8 | 4 | 2 | 1 | ½ | ¼ 
+---|---|---|---|---|---|---|--- 
+_Arcus ascensu ultimo descriptus._ | 12 | 6 | 3 | 1½ | ¾ | ⅜ | 3/16 
+_Arcuum diff. motui amisso proportionalis_ | 4 | 2 | 1 | ½ | ¼ | ⅛ | 1/16 
+_Numerus Oscillationum_ | 3⅜ | 6½ | 121/12 | 211/5 | 34 | 53 | 621/5 
+ 
 Resistentia hic nunquam augetur in ratione velocitatis plusquam duplicata. Et
 idem in pendulo majore evenire verisimile est, si modo Arca augeatur in
 ratione penduli. Debebit tamen resistentia tam in aere quam in aqua, si
@@ -10227,15 +10227,15 @@ argento vivo, inveniri potest resistentia corporum figurarum aliarum; & sic
 Navium figuræ variæ in Typis exiguis constructæ inter se conferri, ut quænam
 ad navigandum aptissimæ sint, sumptibus parvis tentetur.
 
-  
+ 
 
 * * *
 
-## SECT. VIII.
+ SECT. VIII.
 
 _De Motu per Fluida propagato._
 
-### Prop. XLI. Theor. XXXI.
+ Prop. XLI. Theor. XXXI.
 
 > _Pressio non propagatur per Fluidum secundum lineas rectas, nisi ubi
 > particulæ Fluidi in directum jacent._
@@ -10280,7 +10280,7 @@ inde, quam propagatur a superficie _fg_ versus _PQ_. _Q. E. D._
 
 [![Figure for Corol. and Prop. XLII.](images/365.png)](images/365.png)
 
-### Prop. XLII. Theor. XXXII.
+ Prop. XLII. Theor. XXXII.
 
 > _Motus omnis per Fluidum propagatus divergit a recto tramite in spatia
 > immota._
@@ -10334,7 +10334,7 @@ _KL_ & _NO_ , quam anteriores _PQ_ , eoque pacto motus omnis, quam primum per
 foramen _BC_ transiit, dilatari incipiet, & abinde tanquam a principio &
 centro in partes omnes directe propagari. _Q. E. D._
 
-### Prop. XLIII. Theor. XXXIII.
+ Prop. XLIII. Theor. XXXIII.
 
 > _Corpus omne tremulum in Medio Elastico propagabit motum pulsuum undique in
 > directum; in Medio vero non Elastico motum circularem excitabit._
@@ -10387,7 +10387,7 @@ pressionem per Medium ambiens secundum lineas rectas propagandam conducere.
 Debebit ejusmodi pressio non ab agitatione sola partium flammæ sed a totius
 dilatatione derivari.
 
-### Prop. XLIV. Theor. XXXIV.
+ Prop. XLIV. Theor. XXXIV.
 
 > _Si Aqua in canalis cruribus erectis_ KL _,_ MN _vicibus alternis ascendat &
 > descendat; construatur autem Pendulum cujus longitudo inter punctum
@@ -10426,13 +10426,13 @@ ascendet; & sic deinceps vicibus alternis in infinitum. Nam pendulum pedum
 _Corol. 3._ Aucta autem vel diminuta longitudine aquæ, augetur vel diminuitur
 tempus reciprocationis in longitudinis ratione dimidiata.
 
-### Prop. XLV. Theor. XXXV.
+ Prop. XLV. Theor. XXXV.
 
 > _Undarum velocitas est in dimidiata ratione latitudinum._
 
 Consequitur ex constructione Propositionis sequentis.
 
-### Prop. XLVI. Prob. XI.
+ Prop. XLVI. Prob. XI.
 
 > _Invenire velocitatem Undarum._
 
@@ -10471,7 +10471,7 @@ Hæc ita se habent ex Hypothesi quod partes aquæ recta ascendunt vel recta
 descendunt; sed ascensus & descensus ille verius fit per circulum, ideoque
 tempus hac Propositione non nisi quamproxime definitum esse affirmo.
 
-### Prop. XLVII. Theor. XXXVI.
+ Prop. XLVII. Theor. XXXVI.
 
 > _Pulsuum in Fluido Elastico propagatorum velocitates sunt in ratione
 > composita ex dimidiata ratione vis Elasticæ directe & dimidiata ratione
@@ -10513,7 +10513,7 @@ ratione densitatis, ac diminuetur in dimidiata ratione vis Elasticæ. Et
 propterea velocitas pulsuum erit in ratione composita ex ratione dimidiata
 densitatis Medii inverse & ratione dimidiata vis Elasticæ directe. _Q. E. D._
 
-### Prop. XLVIII. Theor. XXXVII.
+ Prop. XLVIII. Theor. XXXVII.
 
 > _Pulsibus per Fluidum propagatis, singulæ Fluidi particulæ, motu reciproco
 > brevissimo euntes & redeuntes, accelerantur semper & retardantur pro lege
@@ -10570,10 +10570,10 @@ Elasticæ punctorum Physicorum _E_ & _G_ in itu, sunt ut 1 ÷ { _V_ \- _HL_ } &
 1 ÷ { _V_ \- _KN_ } ad 1 ÷ _V_ ; & virium differentia ad Medii [367]vim
 elasticam mediocrem, ut
 
-_HL_ \- _KN_ |  ad |  1 |  .  
----|---|---|---  
-_VV_ \- _V_ × _HL_ \- _V_ × _KN_ \+ _HL_ × _KN_ |  _V_  
-  
+_HL_ \- _KN_ | ad | 1 | . 
+---|---|---|--- 
+_VV_ \- _V_ × _HL_ \- _V_ × _KN_ \+ _HL_ × _KN_ | _V_ 
+ 
 Hoc est (si ob brevitatem pulsuum supponamus _HK_ & _KN_ indefinite minores
 esse quantitate _V_ ) ut { _HL_ \- _KN_ } ÷ _VV_ ad 1 ÷ _V_ , sive ut _HL_ \-
 _KN_ ad _V_. Quare cum quantitas _V_ detur, differentia virium est ut _HL_ \-
@@ -10596,7 +10596,7 @@ deinceps movebitur, nisi vel ab impetu corporis tremuli, vel ab impetu pulsuum
 qui a corpore tremulo propagantur, motu novo cieatur. Quiescet igitur
 quamprimum pulsus a corpore tremulo propagari desinunt.
 
-### Prop. XLIX. Prob. XII.
+ Prop. XLIX. Prob. XII.
 
 > _Datis Medii densitate & vi Elastica, invenire velocitatem pulsuum._
 
@@ -10644,7 +10644,7 @@ tempus quo percurret longitudinem huic circumferentiæ æqualem, in eadem
 ratione; ideoque tempore talis oscillationis pulsus percurret longitudinem
 huic circumferentiæ æqualem. _Q. E. D._
 
-### Prop. L. Prob. XIII.
+ Prop. L. Prob. XIII.
 
 > _Invenire pulsuum distantias._
 
@@ -10652,7 +10652,7 @@ Corporis, cujus tremore pulsus excitantur, inveniatur numerus Vibrationum dato
 tempore. Per numerum illum dividatur spatium quod pulsus eodem tempore
 percurrere possit, & pars inventa erit pulsus unius latitudo. _Q. E. I._
 
-### _Schol._
+ _Schol._
 
 Spectant Propositiones novissimæ ad motum Lucis & Sonorum. Lux enim cum
 propagetur secundum lineas rectas, in actione sola (per Prop. XLI. & XLII.)
@@ -10740,23 +10740,23 @@ solet. Motus autem in Tubis dilatationem sonorum impedientibus tardiùs
 amittitur & fortius recurrit, & propterea à motu novo singulis recursibus
 impresso magis augetur. Et hæc sunt præcipua Phænomena Sonorum.
 
-  
+ 
 
 * * *
 
 [373]
 
-## SECT. IX.
+ SECT. IX.
 
 _De motu Circulari Fluidorum._
 
-### Hypothesis.
+ Hypothesis.
 
 > _Resistentiam, quæ oritur ex defectu lubricitatis partium Fluidi, cæteris
 > paribus, proportionalem esse velocitati, qua partes Fluidi separantur ab
 > invicem._
 
-### Prop. LI. Theor. XXXVIII.
+ Prop. LI. Theor. XXXVIII.
 
 > _Si Cylindrus solidus infinitè longus in fluido uniformi & infinito circa
 > axem positione datum uniformi cum motu revolvatur, & ab hujus impulsu solo
@@ -10828,7 +10828,7 @@ impressa motum illum conservet, efficiet ut idem paulatim cesset.
 
 Quæ omnia in aqua profunda stagnante experiri licet.
 
-### Prop. LII. Theor. XXXIX.
+ Prop. LII. Theor. XXXIX.
 
 > _Si Sphæra solida, in fluido uniformi & infinito, circa axem positione datum
 > uniformi cum motu revolvatur, & ab hujus impulsu solo agatur fluidum in
@@ -10989,7 +10989,7 @@ motus suos in se mutuò per fluidum propagare prius cessabunt, quàm eorum
 tempora periodica æquantur inter se, & Systema totum ad instar corporis unius
 solidi simul revolvatur.
 
-### _Scholium._
+ _Scholium._
 
 In his omnibus suppono fluidum ex materia quoad densitatem & fluiditatem
 uniformi constare. Tale est in quo globus idem eodem cum motu, in eodem
@@ -11044,7 +11044,7 @@ circumferentiam; certè nec ratio sesquialtera neque alia quævis certa ac
 determinata obtinere potest. Viderint itaq; Philosophi quo pacto Phænomenon
 illud rationis sesquialteræ per Vortices explicari possit.
 
-### Prop. LIII. Theor. XL.
+ Prop. LIII. Theor. XL.
 
 > _Corpora quæ in Vortice delata in orbem redeunt ejusdem sunt densitatis cum
 > Vortice, & eadem lege cum ipsius partibus (quoad velocitatem & cursus
@@ -11077,7 +11077,7 @@ redit, relativè quiescit in fluido cui innatat.
 _Corol. 2._ Et si vortex sit quoad densitatem uniformis, corpus idem ad
 quamlibet à centro Vorticis distantiam revolvi potest.
 
-### _Scholium._
+ _Scholium._
 
 [![Figure for Scholium.](images/392.png)](images/392.png)
 
@@ -11114,15 +11114,15 @@ motus cœlestes conducit. Quomodo verò motus isti in spatiis liberis absque
 Vorticibus peraguntur intelligi potest ex Libro primo, & in Mundi Systemate
 pleniùs docebitur.
 
-  
+ 
 
 * * *
 
 [401]
 
-# De Mundi Systemate
+ De Mundi Systemate
 
-### LIBER TERTIUS
+ LIBER TERTIUS
 
 In Libris præcedentibus principia Philosophiæ tradidi, non tamen Philosophica
 sed Mathematica tantum, ex quibus videlicet in rebus Philosophicis disputari
@@ -11144,7 +11144,7 @@ Definitiones, Leges motuum & sectiones tres priores Libri primi sedulò legat,
 dein transeat ad hunc Librum de Mundi Systemate, & reliquas Librorum priorum
 Propositiones hic citatas pro lubitu consulat. [402]
 
-### HYPOTHESES.
+ HYPOTHESES.
 
 Hypoth. I. _Causas rerum naturalium non plures admitti debere, quàm quæ & vera
 sint & earum Phænomenis explicandis sufficiunt._
@@ -11178,11 +11178,11 @@ datis, quinetiam numeris suis mecum communicatis, significavit rationem illam
 sesquialteram tam accuratè obtinere, quàm sit possibile sensu deprehendere. Id
 quòd ex Tabula sequente manifestum est. [403]
 
-### _Satellitum tempora periodica._
+ _Satellitum tempora periodica._
 
 1d. 18h. 28′3/5. 3d. 13h. 17′9/10. 7d. 3h. 59′3/5. 16d. 18h. 5′1/5.
 
-### _Distantiæ Satellitum à centro Jovis._
+ _Distantiæ Satellitum à centro Jovis._
 
 _Ex Observationibus_
 
@@ -11200,10 +11200,10 @@ _Ex Observationibus_
 
 |
 
-4  
-  
----|---|---|---|---  
-  
+4 
+ 
+---|---|---|---|--- 
+ 
 Cassini
 
 |
@@ -11228,9 +11228,9 @@ Cassini
 
 |
 
-Semidiam.  
-Jovis.  
-  
+Semidiam. 
+Jovis. 
+ 
 Borelli
 
 |
@@ -11247,8 +11247,8 @@ Borelli
 
 |
 
-24⅔.  
-  
+24⅔. 
+ 
 Tounlei _per Micromet._
 
 |
@@ -11265,8 +11265,8 @@ Tounlei _per Micromet._
 
 |
 
-24,72.  
-  
+24,72. 
+ 
 Flamstedii _per Microm._
 
 |
@@ -11283,8 +11283,8 @@ Flamstedii _per Microm._
 
 |
 
-24,23.  
-  
+24,23. 
+ 
 Flamst. _per Eclips. Satel._
 
 |
@@ -11301,8 +11301,8 @@ Flamst. _per Eclips. Satel._
 
 |
 
-24,903.  
-  
+24,903. 
+ 
 _Ex temporibus periodicis._
 
 |
@@ -11319,8 +11319,8 @@ _Ex temporibus periodicis._
 
 |
 
-24,968.  
-  
+24,968. 
+ 
 Hypoth. VI. _Planetas quinque primarios Mercurium, Venerem, Martem, Jovem &
 Saturnum Orbibus suis Solem cingere._
 
@@ -11344,7 +11344,7 @@ distantiæ mediocres, quæ temporibus periodicis respondent, non [404]differunt
 sensibiliter à distantiis quas illi invenerunt, suntque inter ipsas ut
 plurimum intermediæ; uti in Tabula sequente videre licet.
 
-### _Planetarum ac Telluris Distantiæ mediocres à Sole._
+ _Planetarum ac Telluris Distantiæ mediocres à Sole._
 
 |
 
@@ -11368,10 +11368,10 @@ plurimum intermediæ; uti in Tabula sequente videre licet.
 
 |
 
-[![Mercurii](images/$mercury.png)](images/$mercury.png)  
-  
----|---|---|---|---|---|---  
-  
+[![Mercurii](images/$mercury.png)](images/$mercury.png) 
+ 
+---|---|---|---|---|---|--- 
+ 
 Secundum _Keplerum_
 
 |
@@ -11396,8 +11396,8 @@ Secundum _Keplerum_
 
 |
 
-38806.  
-  
+38806. 
+ 
 Secundum _Bullialdum_
 
 |
@@ -11422,8 +11422,8 @@ Secundum _Bullialdum_
 
 |
 
-38585.  
-  
+38585. 
+ 
 Secundum tempora periodica
 
 |
@@ -11448,8 +11448,8 @@ Secundum tempora periodica
 
 |
 
-38710.  
-  
+38710. 
+ 
 De distantiis Mercurii & Veneris à Sole disputandi non est locus, cum hæ per
 eorum Elongationes à Sole determinentur. De distantiis etiam superiorum
 Planetarum à Sole tollitur omnis disputatio per Eclipses Satellitum Jovis.
@@ -11476,7 +11476,7 @@ Patet ex Lunæ motu apparente cum ipsius diametro apparente collato.
 Perturbatur autem motus Lunaris aliquantulum à vi Solis, sed errorum
 insensibiles minutias Physicis in hisce Hypothesibus negligo. [405]
 
-### Prop. I. Theor. I.
+ Prop. I. Theor. I.
 
 > _Vires, quibus Planetæ circumjoviales perpetuo retrahuntur à motibus
 > rectilineis & in orbibus suis retinentur, respicere centrum Jovis, & esse
@@ -11485,7 +11485,7 @@ insensibiles minutias Physicis in hisce Hypothesibus negligo. [405]
 Patet pars prior Propositionis per Hypoth. V. & Prop. II. vel III. Lib. I. &
 pars posterior per Hypoth. V. & Corol. 6. Prop. IV. ejusdem Libri.
 
-### Prop. II. Theor. II.
+ Prop. II. Theor. II.
 
 > _Vires, quibus Planetæ primarii perpetuo retrahuntur à motibus rectilineis,
 > & in Orbibus suis retinentur, respicere Solem, & esse reciproce ut quadrata
@@ -11497,7 +11497,7 @@ demonstratur hæc pars Propositionis per quietem Apheliorum. Nam aberratio quam
 minima à ratione duplicata (per Corol. 1. Prop. XLV. Lib. I.) motum Apsidum in
 singulis revolutionibus notabilem, in pluribus enormem efficere deberet.
 
-### Prop. III. Theor. III.
+ Prop. III. Theor. III.
 
 > _Vim qua Luna retinetur in Orbe suo respicere terram, & esse reciprocò ut
 > quadratum distantiæ locorum ab ipsius centro._
@@ -11516,7 +11516,7 @@ quæ ad Terram spectat, sit reciprocè ut _D 2_; id quod etiam plenius
 constabit, conferendo hanc vim cum vi gravitatis, ut fit in Propositione
 sequente.
 
-### Prop. IV. Theor. IV.
+ Prop. IV. Theor. IV.
 
 > _Lunam gravitare in terram, & vi gravitatis retrahi semper à motu
 > rectilineo, & in orbe suo retineri._
@@ -11557,7 +11557,7 @@ revolvantur: distantia centrorum Lunæ ac Terræ ab invicem erit 60½
 semidiametrorum terrestrium; uti computationem (per Prop. LX. Lib. I.) ineunti
 patebit.
 
-### Prop. V. Theor. V.
+ Prop. V. Theor. V.
 
 > _Planetas circumjoviales gravitare in Jovem, & circumsolares in Solem, & vi
 > gravitatis suæ retrahi semper à motibus rectilineis, & in orbibus
@@ -11582,7 +11582,7 @@ primarios gravitabit.
 _Corol. 2._ Gravitatem, quæ Planetam unumquemque respicit, ese reciprocè ut
 quadratum distantiæ locorum ab ipsius centro.
 
-### Prop. VI. Theor. VI.
+ Prop. VI. Theor. VI.
 
 > _Corpora omnia in Planetas singulos gravitare, & pondera eorum in eundem
 > quemvis Planetam, paribus distantiis à centro Planetæ, proportionalia esse
@@ -11684,7 +11684,7 @@ in recessu verò à magnete decrescit in ratione distantiæ plusquam duplicata,
 per Prop. LXXXV. Lib. I.; propterea quod vis longe fortior sit in contactu,
 quam cum attrahentia vel minimum separantur ab invicem.
 
-### Prop. VII. Theor. VII.
+ Prop. VII. Theor. VII.
 
 > _Gravitatem in corpora universa fieri, eamque proportionalem esse quantitati
 > materiæ in singulis._
@@ -11716,7 +11716,7 @@ _Corol. 2._ Gravitatio in singulas corporis particulas æquales est reciprocè
 ut quadratum distantiæ locorum à particulis. Patet per Corol. 3. Prop. LXXIV.
 Lib. I.
 
-### Prop. VIII. Theor. VIII.
+ Prop. VIII. Theor. VIII.
 
 > _Si Globorum duorum in se mutuò gravitantium materia undique, in regionibus
 > quæ à centris æqualiter distant, homogenea sit: erit pondus Globi
@@ -11818,7 +11818,7 @@ ebullit. Dubium verò non est quin materia Mercurii ad calorem accommodetur, &
 propterea densior sit hac nostra; cum materia omnis densior ad operationes
 Naturales obeundas majorem calorem requirat.
 
-### Prop. IX. Theor. IX.
+ Prop. IX. Theor. IX.
 
 > _Gravitatem pergendo à superficiebus Planetarum deorsum decrescere in
 > ratione distantiarum à centro quam proximè._
@@ -11827,7 +11827,7 @@ Si materia Planetæ quoad densitatem uniformis esset, obtineret hæc Propositio
 accuratè: per Prop. LXXIII. Lib. I. Error igitur tantus est, quantus ab
 inæquabili densitate oriri possit.
 
-### Prop. X. Theor. X.
+ Prop. X. Theor. X.
 
 > _Motus Planetarum in Cœlis diutissimè conservari posse._
 
@@ -11860,7 +11860,7 @@ vicibus 800 levior est quàm aqua, minus resistat in eadem ratione: si
 ascendatur in cœlos ubi pondus Medii, in quo Planetæ moventur, diminuitur in
 immensum, resistentia prope cessabit.
 
-### Prop. XI. Theor. XI.
+ Prop. XI. Theor. XI.
 
 > _Commune centrum gravitas Terræ Solis & Planetarum omnium quiescere._
 
@@ -11870,7 +11870,7 @@ quoque movebitur contra Hypothesin quartam.
 
 [418]
 
-### Prop. XII. Theor. XII.
+ Prop. XII. Theor. XII.
 
 > _Solem motu perpetuo agitari sed nunquam longe recedere à communi gravitatis
 > centro Planetarum omnium._
@@ -11900,7 +11900,7 @@ discederet, si modò Sol densior esset & major, ut minus moveretur.
 
 [419]
 
-### Prop. XIII. Theor. XIII.
+ Prop. XIII. Theor. XIII.
 
 > _Planetæ moventur in Ellipsibus umbilicum habentibus in centro Solis, &
 > radiis ad centrum illud ductis areas describunt temporibus proportionales._
@@ -11932,7 +11932,7 @@ proportionalis est maxima Saturni efficacia ad perturbandum motum Jovis, &
 propterea perturbatio orbis Jovialis longe minor est quàm ea Saturnii.
 Reliquorum orbium perturbationes sunt adhuc longe minores.
 
-### Prop. XIV. Theor. XIV.
+ Prop. XIV. Theor. XIV.
 
 > _Orbium Aphelia & Nodi quiescunt._
 
@@ -11948,7 +11948,7 @@ _Corol. 2._ Ideoque cum nulla sit earum parallaxis sensibilis ex Terræ motu
 annuo oriunda, vires earum ob immensam corporum distantiam nullos edent
 sensibiles effectus in regione Systematis nostri.
 
-### Prop. XV. Theor. XV.
+ Prop. XV. Theor. XV.
 
 > _Invenire Orbium transversas diametros._
 
@@ -11957,13 +11957,13 @@ Lib. I. deinde sigillatim augendæ in ratione summæ massarum Solis & Planetæ
 cujusque revolventis ad primam duarum mediè proportionalium inter summam illam
 & Solem, per Prop. LX. Lib. I. [421]
 
-### Prop. XVI. Prob. I.
+ Prop. XVI. Prob. I.
 
 > _Invenire Orbium Excentricitates & Aphelia._
 
 Problema confit per Prop. XVIII. Lib. I.
 
-### Prop. XVII. Theor. XVI.
+ Prop. XVII. Theor. XVI.
 
 > _Planetarum motus diurnos uniformes esse, & librationem Lunæ ex ipsius motu
 > diurno oriri._
@@ -11975,7 +11975,7 @@ umbilici illius deviabit hinc inde à Terra. Hæc est libratio in longitudinem.
 Nam libratio in latitudinem orta est ex inclinatione axis Lunaris ad planum
 orbis. Porrò hæc ita se habere, ex Phænomenis manifestum est.
 
-### Prop. XVIII. Theor. XVII.
+ Prop. XVIII. Theor. XVII.
 
 > _Axes Planetarum dimetris quæ ad eosdem axes normaliter ducuntur minores
 > esse._
@@ -11990,7 +11990,7 @@ quàm ab oriente in occidentem. Eodem argumento, nisi Terra nostra [422]paulò
 altior esset sub æquatore quàm ad polos, Maria ad polos subsiderent, & juxta
 æquatorem ascendendo, ibi omnia inundarent.
 
-### Prop. XIX. Prob. II.
+ Prop. XIX. Prob. II.
 
 > _Invenire proportionem axis Planetæ ad diametros eidem perpendiculares._
 
@@ -12065,7 +12065,7 @@ se habent ex Hypothesi quod uniformis sit Planetarum materia. Nam si materia
 densior sit ad centrum quàm ad circumferentiam, diameter, quæ ab oriente in
 occidentem ducitur, erit adhuc major.
 
-### Prop. XX. Prob. III.
+ Prop. XX. Prob. III.
 
 > _Invenire & inter se comparare pondera corporum in regionibus diversis._
 
@@ -12125,7 +12125,7 @@ proportio diametrorum Terræ ac densitas ejus ad centrum; ex Hypothesi quod
 densitas illa, pergendo ad circumferentiam, uniformiter decrescat. Quæ quidem
 Hypothesis, licet accurata non sit, ad ineundum tamen calculum assumi potest.
 
-### Prop. XXI. Theor. XVIII.
+ Prop. XXI. Theor. XVIII.
 
 > _Puncta Æquinoctialia regredi, & axem Terræ singulis revolutionibus nutando
 > bis inclinari in Eclipticam & bis redire ad positionem priorem._
@@ -12133,7 +12133,7 @@ Hypothesis, licet accurata non sit, ad ineundum tamen calculum assumi potest.
 Patet per Corol. 20. Prop. LXVI. Lib. I. Motus tamen iste nutandi perexiguus
 esse debet, & vix aut ne vix quidem sensibilis. [427]
 
-### Prop. XXII. Theor. XIX.
+ Prop. XXII. Theor. XIX.
 
 > _Motus omnes Lunares, omnesque motuum inæqualitates ex allatis Principiis
 > consequi._
@@ -12171,7 +12171,7 @@ Corol. 1 & 2\. Lem. X. & Corol. 16. Prop. LXVI. Lib. I.) Sed hæc inæqualitas
 in calculo Astronomico, ad Prostaphæresin Lunæ referri solet, & cum ea
 confundi.
 
-### Prop. XXIII. Prob. IV.
+ Prop. XXIII. Prob. IV.
 
 > _Motus inæquales Satellitum Jovis & Saturni à motibus Lunaribus derivare._
 
@@ -12201,7 +12201,7 @@ reperiantur, utque Astronomi recentiores aut motum omnem Nodis denegent, aut
 asserant tardissimè retrogradum. Nam _Flamstedius_ collatis suis cum _Cassini_
 Observationibus Nodos tarde regredi deprehendit.
 
-### Prop. XXIV. Theor. XX.
+ Prop. XXIV. Theor. XX.
 
 > _Fluxum & refluxum Maris ab actionibus Solis ac Lunæ oriri debere._
 
@@ -12347,7 +12347,7 @@ conditio, observationibus vicinorum littorum determinandum relinquo.
 Hactenus causas motuum Lunæ & Marium reddidi. De quantitate motuum jam
 convenit aliqua subjungere.
 
-### Prop. XXV. Prob. V.
+ Prop. XXV. Prob. V.
 
 > _Invenire vires Solis ad perturbandos motus Lunæ._
 
@@ -12377,7 +12377,7 @@ mediocris _ML_ est ad vim gravitatis in superficie Terræ, ut 1 × 60½ ad 60 ×
 datur etiam vis _SM_ : & hæ sunt vires Solis quibus motus Lunæ perturbantur.
 _Q. E. I._
 
-### Prop. XXVI. Prob. VI.
+ Prop. XXVI. Prob. VI.
 
 > _Invenire incrementum areæ quam Luna radio ad Terram ducto describit._
 
@@ -12456,7 +12456,7 @@ unitas. Hæc ita se habent ubi Variatio in Octantibus est magnitudinis
 mediocris. Sin Variatio ibi major sit vel minor, augeri debet vel minui Sinus
 ille versus in eadem ratione.
 
-### Prop. XXVII. Prob. VII.
+ Prop. XXVII. Prob. VII.
 
 > _Ex motu horario Lunæ invenire ipsius distantiam à Terra._
 
@@ -12474,7 +12474,7 @@ Phænomenis congruat.
 _Corol. 2._ Hinc etiam Orbis Lunaris accuratiùs ex Phænomenis quàm antehac
 definiri potest.
 
-### Prop. XXVIII. Prob. VIII.
+ Prop. XXVIII. Prob. VIII.
 
 > _Invenire diametros Orbis in quo Luna absque excentricitate moveri deberet._
 
@@ -12558,7 +12558,7 @@ Syzygiis ad ipsius distantiam in Quadraturis (seposita scilicet
 excentricitatis consideratione) ut 6811/12 ad 6911/12, vel numeris rotundis ut
 69 ad 70. [442]
 
-### Prop. XXIX. Prob. IX.
+ Prop. XXIX. Prob. IX.
 
 > _Invenire Variationem Lunæ._
 
@@ -12597,7 +12597,7 @@ probe congruit. Magnitudinem enim mediocrem computavimus, neglectis
 differentiis, quæ à curvaturâ Orbis magni, majorique Solis actione in Lunam
 falcatam & novam quam in Gibbosam & plenam, oriri possint.
 
-### Prop. XXX. Prob. X.
+ Prop. XXX. Prob. X.
 
 > _Invenire motum horarium Nodorum Lunæ in Orbe circulari._
 
@@ -12714,7 +12714,7 @@ erit etiam motus mediocris ut _AZ qu._ atque adeo hic motus, ubi Nodi extra
 Quadraturas versantur, erit ad 16″. 35″′. 16iv. 36v. ut _AZ qu._ ad _AT qu._
 _Q. E. D._
 
-### Prop. XXXI. Prob. XI.
+ Prop. XXXI. Prob. XI.
 
 > _Invenire motum horarium Nodorum Lunæ in Orbe Elliptico._
 
@@ -12832,7 +12832,7 @@ itaque motus mediocris horarius correctus, in dato quocunque Nodorum situ, ad
 16″. 16″′. 36iv. 48v. ut _AZ qu._ ad _AT qu._ ; id est ut quadratum Sinus
 distantiæ Nodorum à Syzygiis ad quadratum Radii.
 
-### Prop. XXXII. Prob. XII.
+ Prop. XXXII. Prob. XII.
 
 > _Invenire motum medium Nodorum Lunæ._
 
@@ -12909,7 +12909,7 @@ Inclinatione ad planum Eclipticæ oriri videtur. Per Excentricitatem Orbis
 motus Nodorum nimis acceleratur, & per ejus Inclinationem vicissim retardatur
 aliquantulum, & ad justam velocitatem reducitur.
 
-### Prop. XXXIII. Prob. XIII.
+ Prop. XXXIII. Prob. XIII.
 
 > _Invenire motum verum Nodorum Lunæ._
 
@@ -12943,7 +12943,7 @@ quiescunt, in Quadraturis autem regrediuntur motu horario 16″. 18″′. 41iv�
 quod æquatio motus Nodorum in Octantibus sit 1 _gr._ 30′. Quæ omnia cum
 Phænomenis cœlestibus probè quadrant. [457]
 
-### Prop. XXXIV. Prob. XIV.
+ Prop. XXXIV. Prob. XIV.
 
 > _Invenire Variationem horariam inclinationis Orbis Lunaris ad planum
 > Eclipticæ._
@@ -13011,7 +13011,7 @@ est si inclinatio sit 5 _gr._ 2′, ut 7 × 876/10000 ad 22, seu 279 ad 10000.
 Proindeque Variatio tota, ex summa omnium horariarum Variationum tempore
 prædicto conflata, est 164″, seu 2′. 44″. [460]
 
-### Prop. XXXV. Prob. XV.
+ Prop. XXXV. Prob. XV.
 
 > _Dato tempore invenire Inclinationem Orbis Lunaris ad planum Eclipticæ._
 
@@ -13081,7 +13081,7 @@ Latitudinis Lunæ compensatur & quodammodo tollitur per inæqualitatem menstruam
 motus Nodorum, (ut supra diximus) adeoque in calculo Latitudinis illius
 negligi potest.
 
-### _Scholium._
+ _Scholium._
 
 Hactenus de motibus Lunæ quatenus Excentricitas Orbis non consideratur.
 Similibus computationibus inveni, quod Apogæum ubi in Conjunctione vel
@@ -13100,7 +13100,7 @@ ipsius Syzygiis, & motus diurnus regressivus in ipsius Quadraturis, paulo
 majores. Computationes autem, ut nimis perplexas & approximationibus
 impeditas, neque satis accuratas, apponere non lubet.
 
-### Prop. XXXVI. Prob. XVI.
+ Prop. XXXVI. Prob. XVI.
 
 > _Invenire vim Solis ad Mare movendum._
 
@@ -13131,7 +13131,7 @@ in locis quæ 90 gradibus distant à Sole, mensura tantum pedis unius
 Parisiensis & digitorum undecim. Est enim hæc mensura ad mensuram pedum 85200
 ut 1 ad 44221.
 
-### Prop. XXXVII. Prob. XVII.
+ Prop. XXXVII. Prob. XVII.
 
 > _Invenire vim Lunæ ad Mare movendum._
 
@@ -13214,7 +13214,7 @@ _Corol. 4._ Unde cum vera diameter Lunæ sit ad veram diametrum Terræ ut 1 ad
 _Corol. 5._ Et gravitas acceleratrix in superficie Lunæ, erit quasi duplo
 minor quàm gravitas acceleratrix in superficie Terræ.
 
-### Prop. XXXVIII. Prob. XVIII.
+ Prop. XXXVIII. Prob. XVIII.
 
 > _Invenire figuram corporis Lunæ._
 
@@ -13237,7 +13237,7 @@ agitantium essent longè tardissimæ: adeò ut facies illa, quæ Terram semper
 respicere deberet, possit alterum orbis Lunaris umbilicum, ob rationem
 superius allatam respicere, neque statim abinde retrahi & in Terram converti.
 
-### Lemma I.
+ Lemma I.
 
 [![Figure for Lemma I.](images/458.png)](images/458.png)
 
@@ -13272,7 +13272,7 @@ propriis, est pars quarta efficaciæ particularum earundem in Æquatore. Motus
 autem [469]æquinoctiorum est ut hæc efficacia. Singula examinet qui volet.
 Brevitati consulo.
 
-### Lemma II.
+ Lemma II.
 
 > _Motus autem Terræ totius circa axem illum, ex motibus particularum omnium
 > compositus, erit ad motum annuli circa axem eundem, in ratione composita ex
@@ -13288,7 +13288,7 @@ Cylindro ad triplum materiæ in annulo; & annuli motus iste circa axem Cylindri
 uniformiter continuatus, ad ejusdem motum uniformem circa diametrum propriam,
 eodem tempore periodico factum, ut circumferentia circuli ad duplum diametri.
 
-### Lemma III.
+ Lemma III.
 
 > _Si annulus, Terra omni reliqua sublata, solus in orbe Terræ motu annuo
 > circa Solem ferretur, & interea circa axem suum, ad planum Eclipticæ in
@@ -13298,7 +13298,7 @@ eodem tempore periodico factum, ut circumferentia circuli ad duplum diametri.
 
 [470]
 
-### Prop. XXXIX. Prob. XIX.
+ Prop. XXXIX. Prob. XIX.
 
 > _Invenire Præcessionem Æquinoctiorum._
 
@@ -13412,7 +13412,7 @@ regressus ille annuus ex observationibus Astronomorum est 50″.
 Descripsimus jam Systema Solis, Terræ & Planetarum: superest ut de Cometis
 nonnulla adjiciantur. [474]
 
-### Lemma IV.
+ Lemma IV.
 
 > _Cometas esse Lunâ superiores & in regione Planetarum versari._
 
@@ -13611,7 +13611,7 @@ firmum Jovis corpus per nubes illas difficilius cernitur. Et multo magis
 corpora Cometarum sub Atmosphæris & profundioribus & crassioribus abscondi
 debent.
 
-### Prop. XL. Theor. XXI.
+ Prop. XL. Theor. XXI.
 
 > _Cometas in Sectionibus conicis umbilicos in centro Solis habentibus moveri,
 > & radiis ad solem ductis areas temporibus proportionales describere._
@@ -13643,7 +13643,7 @@ majoribus autem vel minoribus distantiis, motus tum diurnus tum horarius erit
 ad hunc motum diurnum & horarium in dimidiata ratione distantiarum respectivè,
 ideoque datur.
 
-### Lemma V.
+ Lemma V.
 
 > _Invenire lineam curvam generis Parabolici, quæ per data quotcunque puncta
 > transibit._
@@ -13692,7 +13692,7 @@ intelligatur: erit area Parabolæ hujus eadem quam proximè cum area curvæ
 illius quadrandæ. Potest autem Parabola per Methodos notissimas semper
 quadrari Geometricè.
 
-### Lemma VI.
+ Lemma VI.
 
 > _Ex observatis aliquot locis Cometæ invenire locum ejus ad tempus quodvis
 > intermedium datum._
@@ -13712,7 +13712,7 @@ Si longitudinum observatarum parvæ sint differentiæ, puta graduum tantum 4 vel
 latitudinem novam. Sin majores sint differentiæ, puta graduum 10 vel 20,
 debebunt observationes quinque adhiberi. [484]
 
-### Lemma VII.
+ Lemma VII.
 
 [![Figure for Lemma VII.](images/472.png)](images/472.png)
 
@@ -13725,7 +13725,7 @@ producatur eadem versus rectam alteram _AC_ usque ad _E_ , ut sit _PE_ ad _PD_
 in data illa ratione. Ipsi _AD_ parallela sit _EC_ ; & si agatur _CPB_ , erit
 _PC_ ad _PB_ ut _PE_ ad _PD_. _Q. E. F._
 
-### Lemma VIII.
+ Lemma VIII.
 
 > _Sit_ ABC _Parabola umbilicum habens_ S _. Chordâ_ AC _bisectâ in_ I
 > _abscindatur segmentum_ ABCI _, cujus diameter sit_ Iμ _ & vertex _μ _. In_
@@ -13749,12 +13749,12 @@ quamproximè, atque adeo ad aream _ASCY_ ut _AE_ ad _AC_. Sed area _ASBY_ est
 ad aream _ASCY_ ut tempus descripti arcus _AB_ ad tempus descripti arcus
 totius. Ideoque _AE_ est ad _AC_ in ratione temporum quamproximè. _Q. E. D._
 
-### Lemma IX.
+ Lemma IX.
 
 > _Rectæ_ Iμ _ & _μM _ & longitudo _AIC ÷ 4Sμ _æquantur inter se. Nam_ 4Sμ
 > _est latus rectum Parabolæ pertinens ad verticem_ B _._
 
-### Lemma X.
+ Lemma X.
 
 > _Si producatur_ Sμ _ad_ N _ & _P _, ut_ μN _sit pars tertia ipsius_ μI _, &
 > _SP _sit ad_ SN _ut_ SN _ad_ Sμ _. Cometa quo tempore describit arcum_ AμC
@@ -13777,7 +13777,7 @@ in eadem ratione, æquantur inter se. _Q. E. D._
 _Corol._ Cometa igitur ea cum velocitate, quam habet in altitudine _S_ μ \+ ⅔
 _I_ μ, eodem tempore describeret chordam _AC_ quamproximè.
 
-### Lemma XI.
+ Lemma XI.
 
 > _Si Cometa motu omni privatus de altitudine_ SN _seu_ Sμ \+ ⅓Iμ
 > _demitteretur, ut caderet in Solem, & ea semper vi uniformiter continuata
@@ -13799,7 +13799,7 @@ Cometa pondere quod habet in altitudine _SN_ eodem tempore, in Solem cadendo,
 describet spatium _AIq._ ÷ 4 _S_ μ, id est spatium longitudini _I_ μ vel _M_ μ
 æquale. _Q. E. D._
 
-### Prop. XLI. Prob. XX.
+ Prop. XLI. Prob. XX.
 
 > _Cometæ in Parabola moventis Trajectoriam ex datis tribus observationibus
 > determinare._
@@ -13883,7 +13883,7 @@ methodo operationes duæ ut plurimum suffecerint. Nam si distantia _Bb_
 perexigua obvenerit, postquam inventa sunt puncta _F_ , _f_ & _G_ , _g_ , actæ
 rectæ _Ff_ & _Gg_ , secabunt _TA_ & τ _C_ in punctis quæsitis _X_ & _Z_.
 
-### _Exemplum._
+ _Exemplum._
 
 Proponatur Cometa anni 1680. Hujus motum à _Flamstedio_ observatum Tabula
 sequens exhibet.
@@ -13906,10 +13906,10 @@ Long. Cometæ
 
 |
 
-Lat. Cometæ  
-  
----|---|---|---|---|---  
-  
+Lat. Cometæ 
+ 
+---|---|---|---|---|--- 
+ 
 1680 _December_ 12
 
 |
@@ -13930,8 +13930,8 @@ Lat. Cometæ
 
 |
 
-8\. 26. 0  
-  
+8\. 26. 0 
+ 
 21
 
 |
@@ -13952,8 +13952,8 @@ Lat. Cometæ
 
 |
 
-21\. 45. 30  
-  
+21\. 45. 30 
+ 
 24
 
 |
@@ -13974,8 +13974,8 @@ Lat. Cometæ
 
 |
 
-25\. 23. 24  
-  
+25\. 23. 24 
+ 
 26
 
 |
@@ -13996,8 +13996,8 @@ Lat. Cometæ
 
 |
 
-27\. 00. 57  
-  
+27\. 00. 57 
+ 
 29
 
 |
@@ -14018,8 +14018,8 @@ Lat. Cometæ
 
 |
 
-28\. 10. 05  
-  
+28\. 10. 05 
+ 
 30
 
 |
@@ -14040,8 +14040,8 @@ Lat. Cometæ
 
 |
 
-28\. 11. 12  
-  
+28\. 11. 12 
+ 
 1681 _January_ 5
 
 |
@@ -14062,8 +14062,8 @@ Lat. Cometæ
 
 |
 
-26\. 15. 26  
-  
+26\. 15. 26 
+ 
 9
 
 |
@@ -14084,8 +14084,8 @@ Lat. Cometæ
 
 |
 
-24\. 12. 42  
-  
+24\. 12. 42 
+ 
 10
 
 |
@@ -14106,8 +14106,8 @@ Lat. Cometæ
 
 |
 
-23\. 44. 00  
-  
+23\. 44. 00 
+ 
 13
 
 |
@@ -14128,8 +14128,8 @@ Lat. Cometæ
 
 |
 
-22\. 17. 36  
-  
+22\. 17. 36 
+ 
 25
 
 |
@@ -14150,8 +14150,8 @@ Lat. Cometæ
 
 |
 
-17\. 56. 54  
-  
+17\. 56. 54 
+ 
 30
 
 |
@@ -14172,8 +14172,8 @@ Lat. Cometæ
 
 |
 
-16\. 40. 57  
-  
+16\. 40. 57 
+ 
 _February_ 2
 
 |
@@ -14194,8 +14194,8 @@ _February_ 2
 
 |
 
-16\. 02. 02  
-  
+16\. 02. 02 
+ 
 5
 
 |
@@ -14216,8 +14216,8 @@ _February_ 2
 
 |
 
-15\. 27. 23  
-  
+15\. 27. 23 
+ 
 [491]
 
 In his observationibus _Flamstedius_ eâ usus est diligentiâ, ut postquam bis
@@ -14242,10 +14242,10 @@ Cometæ Longit.
 
 |
 
-Com. Lat.  
-  
----|---|---|---  
-  
+Com. Lat. 
+ 
+---|---|---|--- 
+ 
 _Febru._ 25
 
 |
@@ -14258,8 +14258,8 @@ _Febru._ 25
 
 |
 
-12\. 46⅞  
-  
+12\. 46⅞ 
+ 
 27
 
 |
@@ -14272,8 +14272,8 @@ _Febru._ 25
 
 |
 
-12\. 36  
-  
+12\. 36 
+ 
 _Mart._ 1
 
 |
@@ -14286,8 +14286,8 @@ _Mart._ 1
 
 |
 
-12\. 24¾  
-  
+12\. 24¾ 
+ 
 2
 
 |
@@ -14300,8 +14300,8 @@ _Mart._ 1
 
 |
 
-12\. 19½  
-  
+12\. 19½ 
+ 
 5
 
 |
@@ -14314,8 +14314,8 @@ _Mart._ 1
 
 |
 
-12\. 2⅔  
-  
+12\. 2⅔ 
+ 
 9
 
 |
@@ -14328,8 +14328,8 @@ _Mart._ 1
 
 |
 
-11.443/5  
-  
+11.443/5 
+ 
 Hæ observationes Telescopio septupedali, & Micrometro filisque in foco
 Telescopii locatis paractæ sunt: quibus instrumentis & positiones fixarum
 inter se & positiones Cometæ ad fixas determinavimus. Designet _A_ stellam in
@@ -14422,23 +14422,23 @@ observationum quarundam tempora: uti in Tabula sequente videre licet.
 
 |
 
-COMETÆ  
-  
----|---  
+COMETÆ 
+ 
+---|--- 
 |
 
-Distant.  
-Cometæ  
+Distant. 
+Cometæ 
 à Sole
 
 |
 
-Lon.  
+Lon. 
 Collect.
 
 |
 
-Lat.  
+Lat. 
 Collect.
 
 |
@@ -14451,14 +14451,14 @@ Lat. Obs.
 
 |
 
-Differ.  
+Differ. 
 Long.
 
 |
 
-Differ.  
-Lat.  
-  
+Differ. 
+Lat. 
+ 
 Decemb. 12
 
 |
@@ -14487,8 +14487,8 @@ Decemb. 12
 
 |
 
-\- 7½  
-  
+\- 7½ 
+ 
 29
 
 |
@@ -14517,8 +14517,8 @@ Decemb. 12
 
 |
 
--10½  
-  
+-10½ 
+ 
 Febr. 5
 
 |
@@ -14547,8 +14547,8 @@ Febr. 5
 
 |
 
-\+ 21/5  
-  
+\+ 21/5 
+ 
 Mar. 5
 
 |
@@ -14577,8 +14577,8 @@ Mar. 5
 
 |
 
-\+ 1⅓  
-  
+\+ 1⅓ 
+ 
 Præterea cum _Cl. Flamstedius_ Cometam, qui Mense _Novembri_ apparuerat,
 eundem esse cum Cometa mensium subsequentium, literis ad me datis aliquando
 disputaret, & Trajectoriam quamdam ab orbe hocce Parabolico non longe
@@ -14664,10 +14664,10 @@ Long. Com.
 
 |
 
-Latit. Com.  
-  
----|---|---  
-  
+Latit. Com. 
+ 
+---|---|--- 
+ 
 _Nov._ 17
 
 |
@@ -14676,8 +14676,8 @@ _Nov._ 17
 
 |
 
-0\. 45 Austr.  
-  
+0\. 45 Austr. 
+ 
 18
 
 |
@@ -14686,8 +14686,8 @@ _Nov._ 17
 
 |
 
-1\. 2  
-  
+1\. 2 
+ 
 19
 
 |
@@ -14696,8 +14696,8 @@ _Nov._ 17
 
 |
 
-1\. 18  
-  
+1\. 18 
+ 
 20
 
 |
@@ -14706,8 +14706,8 @@ _Nov._ 17
 
 |
 
-1\. 32  
-  
+1\. 32 
+ 
 21
 
 |
@@ -14716,8 +14716,8 @@ _Nov._ 17
 
 |
 
-1\. 44  
-  
+1\. 44 
+ 
 22
 
 |
@@ -14726,8 +14726,8 @@ _Nov._ 17
 
 |
 
-1\. 55  
-  
+1\. 55 
+ 
 23
 
 |
@@ -14736,8 +14736,8 @@ _Nov._ 17
 
 |
 
-2\. 4  
-  
+2\. 4 
+ 
 24
 
 |
@@ -14746,8 +14746,8 @@ _Nov._ 17
 
 |
 
-2\. 12  
-  
+2\. 12 
+ 
 25
 
 |
@@ -14756,8 +14756,8 @@ _Nov._ 17
 
 |
 
-2\. 18  
-  
+2\. 18 
+ 
 Loca autem Cometæ iisdem horis in orbe Parabolico inventa ita se habent.
 
 |
@@ -14766,10 +14766,10 @@ Comet. Lon.
 
 |
 
-Com. Lat.  
-  
----|---|---  
-  
+Com. Lat. 
+ 
+---|---|--- 
+ 
 _Nov._ 17
 
 |
@@ -14778,8 +14778,8 @@ _Nov._ 17
 
 |
 
-0\. 23 _A_  
-  
+0\. 23 _A_ 
+ 
 21
 
 |
@@ -14788,8 +14788,8 @@ _Nov._ 17
 
 |
 
-1\. 22 _A_  
-  
+1\. 22 _A_ 
+ 
 25
 
 |
@@ -14798,8 +14798,8 @@ _Nov._ 17
 
 |
 
-2\. 6 _A_  
-  
+2\. 6 _A_ 
+ 
 Congruunt igitur observationes tam mense _Novembri_ , quam mensibus tribus
 subsequentibus cum motu Cometæ circa Solem in Trajectoriâ hacce Parabolicâ,
 atque adeo hanc esse veram hujus Cometæ Trajectoriam confirmant. Nam
@@ -15179,7 +15179,7 @@ transversas diametros & revolutionum tempora periodica ex collatione
 determinanda relinquo. Interea huic negotio Propositio sequens Lumen accendere
 potest.
 
-### Prop. XLII. Prob. XXI.
+ Prop. XLII. Prob. XXI.
 
 > _Trajectoriam Cometæ graphicè inventam corrigere._
 
@@ -15228,386 +15228,386 @@ respectivè: erit _R_ \+ _mr_ \- _mR_ \+ _n_ ρ \- _nR_ verum Latus rectum, & 1
 quàm Cometa describit. Dato autem Latere transverso datur etiam tempus
 periodicum Cometæ. _Q. E. I._
 
-  
+ 
 
 * * *
 
-## _FINIS._
+ _FINIS._
 
 [511]
 
-    
-    
-    
-    
-    
-    
-    
-    End of the Project Gutenberg EBook of Philosophiae Naturalis Principia
-    Mathematica, by Isaac Newton
-    
-    *** END OF THIS PROJECT GUTENBERG EBOOK PHILOSOPHIAE NATURALIS ***
-    
-    ***** This file should be named 28233-h.htm or 28233-h.zip *****
-    This and all associated files of various formats will be found in:
-            http://www.gutenberg.org/2/8/2/3/28233/
-    
-    Produced by Jonathan Ingram, Keith Edkins and the Online
-    Distributed Proofreading Team at http://www.pgdp.net
-    
-    
-    Updated editions will replace the previous one--the old editions
-    will be renamed.
-    
-    Creating the works from public domain print editions means that no
-    one owns a United States copyright in these works, so the Foundation
-    (and you!) can copy and distribute it in the United States without
-    permission and without paying copyright royalties.  Special rules,
-    set forth in the General Terms of Use part of this license, apply to
-    copying and distributing Project Gutenberg-tm electronic works to
-    protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-    Gutenberg is a registered trademark, and may not be used if you
-    charge for the eBooks, unless you receive specific permission.  If you
-    do not charge anything for copies of this eBook, complying with the
-    rules is very easy.  You may use this eBook for nearly any purpose
-    such as creation of derivative works, reports, performances and
-    research.  They may be modified and printed and given away--you may do
-    practically ANYTHING with public domain eBooks.  Redistribution is
-    subject to the trademark license, especially commercial
-    redistribution.
-    
-    
-    
-    *** START: FULL LICENSE ***
-    
-    THE FULL PROJECT GUTENBERG LICENSE
-    PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-    
-    To protect the Project Gutenberg-tm mission of promoting the free
-    distribution of electronic works, by using or distributing this work
-    (or any other work associated in any way with the phrase "Project
-    Gutenberg"), you agree to comply with all the terms of the Full Project
-    Gutenberg-tm License (available with this file or online at
-    http://gutenberg.org/license).
-    
-    
-    Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-    electronic works
-    
-    1.A.  By reading or using any part of this Project Gutenberg-tm
-    electronic work, you indicate that you have read, understand, agree to
-    and accept all the terms of this license and intellectual property
-    (trademark/copyright) agreement.  If you do not agree to abide by all
-    the terms of this agreement, you must cease using and return or destroy
-    all copies of Project Gutenberg-tm electronic works in your possession.
-    If you paid a fee for obtaining a copy of or access to a Project
-    Gutenberg-tm electronic work and you do not agree to be bound by the
-    terms of this agreement, you may obtain a refund from the person or
-    entity to whom you paid the fee as set forth in paragraph 1.E.8.
-    
-    1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-    used on or associated in any way with an electronic work by people who
-    agree to be bound by the terms of this agreement.  There are a few
-    things that you can do with most Project Gutenberg-tm electronic works
-    even without complying with the full terms of this agreement.  See
-    paragraph 1.C below.  There are a lot of things you can do with Project
-    Gutenberg-tm electronic works if you follow the terms of this agreement
-    and help preserve free future access to Project Gutenberg-tm electronic
-    works.  See paragraph 1.E below.
-    
-    1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-    or PGLAF), owns a compilation copyright in the collection of Project
-    Gutenberg-tm electronic works.  Nearly all the individual works in the
-    collection are in the public domain in the United States.  If an
-    individual work is in the public domain in the United States and you are
-    located in the United States, we do not claim a right to prevent you from
-    copying, distributing, performing, displaying or creating derivative
-    works based on the work as long as all references to Project Gutenberg
-    are removed.  Of course, we hope that you will support the Project
-    Gutenberg-tm mission of promoting free access to electronic works by
-    freely sharing Project Gutenberg-tm works in compliance with the terms of
-    this agreement for keeping the Project Gutenberg-tm name associated with
-    the work.  You can easily comply with the terms of this agreement by
-    keeping this work in the same format with its attached full Project
-    Gutenberg-tm License when you share it without charge with others.
-    
-    1.D.  The copyright laws of the place where you are located also govern
-    what you can do with this work.  Copyright laws in most countries are in
-    a constant state of change.  If you are outside the United States, check
-    the laws of your country in addition to the terms of this agreement
-    before downloading, copying, displaying, performing, distributing or
-    creating derivative works based on this work or any other Project
-    Gutenberg-tm work.  The Foundation makes no representations concerning
-    the copyright status of any work in any country outside the United
-    States.
-    
-    1.E.  Unless you have removed all references to Project Gutenberg:
-    
-    1.E.1.  The following sentence, with active links to, or other immediate
-    access to, the full Project Gutenberg-tm License must appear prominently
-    whenever any copy of a Project Gutenberg-tm work (any work on which the
-    phrase "Project Gutenberg" appears, or with which the phrase "Project
-    Gutenberg" is associated) is accessed, displayed, performed, viewed,
-    copied or distributed:
-    
-    This eBook is for the use of anyone anywhere at no cost and with
-    almost no restrictions whatsoever.  You may copy it, give it away or
-    re-use it under the terms of the Project Gutenberg License included
-    with this eBook or online at www.gutenberg.org
-    
-    1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-    from the public domain (does not contain a notice indicating that it is
-    posted with permission of the copyright holder), the work can be copied
-    and distributed to anyone in the United States without paying any fees
-    or charges.  If you are redistributing or providing access to a work
-    with the phrase "Project Gutenberg" associated with or appearing on the
-    work, you must comply either with the requirements of paragraphs 1.E.1
-    through 1.E.7 or obtain permission for the use of the work and the
-    Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-    1.E.9.
-    
-    1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-    with the permission of the copyright holder, your use and distribution
-    must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-    terms imposed by the copyright holder.  Additional terms will be linked
-    to the Project Gutenberg-tm License for all works posted with the
-    permission of the copyright holder found at the beginning of this work.
-    
-    1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-    License terms from this work, or any files containing a part of this
-    work or any other work associated with Project Gutenberg-tm.
-    
-    1.E.5.  Do not copy, display, perform, distribute or redistribute this
-    electronic work, or any part of this electronic work, without
-    prominently displaying the sentence set forth in paragraph 1.E.1 with
-    active links or immediate access to the full terms of the Project
-    Gutenberg-tm License.
-    
-    1.E.6.  You may convert to and distribute this work in any binary,
-    compressed, marked up, nonproprietary or proprietary form, including any
-    word processing or hypertext form.  However, if you provide access to or
-    distribute copies of a Project Gutenberg-tm work in a format other than
-    "Plain Vanilla ASCII" or other format used in the official version
-    posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-    you must, at no additional cost, fee or expense to the user, provide a
-    copy, a means of exporting a copy, or a means of obtaining a copy upon
-    request, of the work in its original "Plain Vanilla ASCII" or other
-    form.  Any alternate format must include the full Project Gutenberg-tm
-    License as specified in paragraph 1.E.1.
-    
-    1.E.7.  Do not charge a fee for access to, viewing, displaying,
-    performing, copying or distributing any Project Gutenberg-tm works
-    unless you comply with paragraph 1.E.8 or 1.E.9.
-    
-    1.E.8.  You may charge a reasonable fee for copies of or providing
-    access to or distributing Project Gutenberg-tm electronic works provided
-    that
-    
-    - You pay a royalty fee of 20% of the gross profits you derive from
-         the use of Project Gutenberg-tm works calculated using the method
-         you already use to calculate your applicable taxes.  The fee is
-         owed to the owner of the Project Gutenberg-tm trademark, but he
-         has agreed to donate royalties under this paragraph to the
-         Project Gutenberg Literary Archive Foundation.  Royalty payments
-         must be paid within 60 days following each date on which you
-         prepare (or are legally required to prepare) your periodic tax
-         returns.  Royalty payments should be clearly marked as such and
-         sent to the Project Gutenberg Literary Archive Foundation at the
-         address specified in Section 4, "Information about donations to
-         the Project Gutenberg Literary Archive Foundation."
-    
-    - You provide a full refund of any money paid by a user who notifies
-         you in writing (or by e-mail) within 30 days of receipt that s/he
-         does not agree to the terms of the full Project Gutenberg-tm
-         License.  You must require such a user to return or
-         destroy all copies of the works possessed in a physical medium
-         and discontinue all use of and all access to other copies of
-         Project Gutenberg-tm works.
-    
-    - You provide, in accordance with paragraph 1.F.3, a full refund of any
-         money paid for a work or a replacement copy, if a defect in the
-         electronic work is discovered and reported to you within 90 days
-         of receipt of the work.
-    
-    - You comply with all other terms of this agreement for free
-         distribution of Project Gutenberg-tm works.
-    
-    1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-    electronic work or group of works on different terms than are set
-    forth in this agreement, you must obtain permission in writing from
-    both the Project Gutenberg Literary Archive Foundation and Michael
-    Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-    Foundation as set forth in Section 3 below.
-    
-    1.F.
-    
-    1.F.1.  Project Gutenberg volunteers and employees expend considerable
-    effort to identify, do copyright research on, transcribe and proofread
-    public domain works in creating the Project Gutenberg-tm
-    collection.  Despite these efforts, Project Gutenberg-tm electronic
-    works, and the medium on which they may be stored, may contain
-    "Defects," such as, but not limited to, incomplete, inaccurate or
-    corrupt data, transcription errors, a copyright or other intellectual
-    property infringement, a defective or damaged disk or other medium, a
-    computer virus, or computer codes that damage or cannot be read by
-    your equipment.
-    
-    1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-    of Replacement or Refund" described in paragraph 1.F.3, the Project
-    Gutenberg Literary Archive Foundation, the owner of the Project
-    Gutenberg-tm trademark, and any other party distributing a Project
-    Gutenberg-tm electronic work under this agreement, disclaim all
-    liability to you for damages, costs and expenses, including legal
-    fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-    LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-    PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
-    TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-    LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-    INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-    DAMAGE.
-    
-    1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-    defect in this electronic work within 90 days of receiving it, you can
-    receive a refund of the money (if any) you paid for it by sending a
-    written explanation to the person you received the work from.  If you
-    received the work on a physical medium, you must return the medium with
-    your written explanation.  The person or entity that provided you with
-    the defective work may elect to provide a replacement copy in lieu of a
-    refund.  If you received the work electronically, the person or entity
-    providing it to you may choose to give you a second opportunity to
-    receive the work electronically in lieu of a refund.  If the second copy
-    is also defective, you may demand a refund in writing without further
-    opportunities to fix the problem.
-    
-    1.F.4.  Except for the limited right of replacement or refund set forth
-    in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-    WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-    WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-    
-    1.F.5.  Some states do not allow disclaimers of certain implied
-    warranties or the exclusion or limitation of certain types of damages.
-    If any disclaimer or limitation set forth in this agreement violates the
-    law of the state applicable to this agreement, the agreement shall be
-    interpreted to make the maximum disclaimer or limitation permitted by
-    the applicable state law.  The invalidity or unenforceability of any
-    provision of this agreement shall not void the remaining provisions.
-    
-    1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-    trademark owner, any agent or employee of the Foundation, anyone
-    providing copies of Project Gutenberg-tm electronic works in accordance
-    with this agreement, and any volunteers associated with the production,
-    promotion and distribution of Project Gutenberg-tm electronic works,
-    harmless from all liability, costs and expenses, including legal fees,
-    that arise directly or indirectly from any of the following which you do
-    or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-    work, (b) alteration, modification, or additions or deletions to any
-    Project Gutenberg-tm work, and (c) any Defect you cause.
-    
-    
-    Section  2.  Information about the Mission of Project Gutenberg-tm
-    
-    Project Gutenberg-tm is synonymous with the free distribution of
-    electronic works in formats readable by the widest variety of computers
-    including obsolete, old, middle-aged and new computers.  It exists
-    because of the efforts of hundreds of volunteers and donations from
-    people in all walks of life.
-    
-    Volunteers and financial support to provide volunteers with the
-    assistance they need, are critical to reaching Project Gutenberg-tm's
-    goals and ensuring that the Project Gutenberg-tm collection will
-    remain freely available for generations to come.  In 2001, the Project
-    Gutenberg Literary Archive Foundation was created to provide a secure
-    and permanent future for Project Gutenberg-tm and future generations.
-    To learn more about the Project Gutenberg Literary Archive Foundation
-    and how your efforts and donations can help, see Sections 3 and 4
-    and the Foundation web page at http://www.pglaf.org.
-    
-    
-    Section 3.  Information about the Project Gutenberg Literary Archive
-    Foundation
-    
-    The Project Gutenberg Literary Archive Foundation is a non profit
-    501(c)(3) educational corporation organized under the laws of the
-    state of Mississippi and granted tax exempt status by the Internal
-    Revenue Service.  The Foundation's EIN or federal tax identification
-    number is 64-6221541.  Its 501(c)(3) letter is posted at
-    http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-    Literary Archive Foundation are tax deductible to the full extent
-    permitted by U.S. federal laws and your state's laws.
-    
-    The Foundation's principal office is located at 4557 Melan Dr. S.
-    Fairbanks, AK, 99712., but its volunteers and employees are scattered
-    throughout numerous locations.  Its business office is located at
-    809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-    business@pglaf.org.  Email contact links and up to date contact
-    information can be found at the Foundation's web site and official
-    page at http://pglaf.org
-    
-    For additional contact information:
-         Dr. Gregory B. Newby
-         Chief Executive and Director
-         gbnewby@pglaf.org
-    
-    
-    Section 4.  Information about Donations to the Project Gutenberg
-    Literary Archive Foundation
-    
-    Project Gutenberg-tm depends upon and cannot survive without wide
-    spread public support and donations to carry out its mission of
-    increasing the number of public domain and licensed works that can be
-    freely distributed in machine readable form accessible by the widest
-    array of equipment including outdated equipment.  Many small donations
-    ($1 to $5,000) are particularly important to maintaining tax exempt
-    status with the IRS.
-    
-    The Foundation is committed to complying with the laws regulating
-    charities and charitable donations in all 50 states of the United
-    States.  Compliance requirements are not uniform and it takes a
-    considerable effort, much paperwork and many fees to meet and keep up
-    with these requirements.  We do not solicit donations in locations
-    where we have not received written confirmation of compliance.  To
-    SEND DONATIONS or determine the status of compliance for any
-    particular state visit http://pglaf.org
-    
-    While we cannot and do not solicit contributions from states where we
-    have not met the solicitation requirements, we know of no prohibition
-    against accepting unsolicited donations from donors in such states who
-    approach us with offers to donate.
-    
-    International donations are gratefully accepted, but we cannot make
-    any statements concerning tax treatment of donations received from
-    outside the United States.  U.S. laws alone swamp our small staff.
-    
-    Please check the Project Gutenberg Web pages for current donation
-    methods and addresses.  Donations are accepted in a number of other
-    ways including checks, online payments and credit card donations.
-    To donate, please visit: http://pglaf.org/donate
-    
-    
-    Section 5.  General Information About Project Gutenberg-tm electronic
-    works.
-    
-    Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-    concept of a library of electronic works that could be freely shared
-    with anyone.  For thirty years, he produced and distributed Project
-    Gutenberg-tm eBooks with only a loose network of volunteer support.
-    
-    
-    Project Gutenberg-tm eBooks are often created from several printed
-    editions, all of which are confirmed as Public Domain in the U.S.
-    unless a copyright notice is included.  Thus, we do not necessarily
-    keep eBooks in compliance with any particular paper edition.
-    
-    
-    Most people start at our Web site which has the main PG search facility:
-    
-         http://www.gutenberg.org
-    
-    This Web site includes information about Project Gutenberg-tm,
-    including how to make donations to the Project Gutenberg Literary
-    Archive Foundation, how to help produce our new eBooks, and how to
-    subscribe to our email newsletter to hear about new eBooks.
-    
-    
-    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ End of the Project Gutenberg EBook of Philosophiae Naturalis Principia
+ Mathematica, by Isaac Newton
+ 
+ * END OF THIS PROJECT GUTENBERG EBOOK PHILOSOPHIAE NATURALIS *
+ 
+ * This file should be named 28233-h.htm or 28233-h.zip *
+ This and all associated files of various formats will be found in:
+ http://www.gutenberg.org/2/8/2/3/28233/
+ 
+ Produced by Jonathan Ingram, Keith Edkins and the Online
+ Distributed Proofreading Team at http://www.pgdp.net
+ 
+ 
+ Updated editions will replace the previous one--the old editions
+ will be renamed.
+ 
+ Creating the works from public domain print editions means that no
+ one owns a United States copyright in these works, so the Foundation
+ (and you!) can copy and distribute it in the United States without
+ permission and without paying copyright royalties. Special rules,
+ set forth in the General Terms of Use part of this license, apply to
+ copying and distributing Project Gutenberg-tm electronic works to
+ protect the PROJECT GUTENBERG-tm concept and trademark. Project
+ Gutenberg is a registered trademark, and may not be used if you
+ charge for the eBooks, unless you receive specific permission. If you
+ do not charge anything for copies of this eBook, complying with the
+ rules is very easy. You may use this eBook for nearly any purpose
+ such as creation of derivative works, reports, performances and
+ research. They may be modified and printed and given away--you may do
+ practically ANYTHING with public domain eBooks. Redistribution is
+ subject to the trademark license, especially commercial
+ redistribution.
+ 
+ 
+ 
+ * START: FULL LICENSE *
+ 
+ THE FULL PROJECT GUTENBERG LICENSE
+ PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+ 
+ To protect the Project Gutenberg-tm mission of promoting the free
+ distribution of electronic works, by using or distributing this work
+ (or any other work associated in any way with the phrase "Project
+ Gutenberg"), you agree to comply with all the terms of the Full Project
+ Gutenberg-tm License (available with this file or online at
+ http://gutenberg.org/license).
+ 
+ 
+ Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
+ electronic works
+ 
+ 1.A. By reading or using any part of this Project Gutenberg-tm
+ electronic work, you indicate that you have read, understand, agree to
+ and accept all the terms of this license and intellectual property
+ (trademark/copyright) agreement. If you do not agree to abide by all
+ the terms of this agreement, you must cease using and return or destroy
+ all copies of Project Gutenberg-tm electronic works in your possession.
+ If you paid a fee for obtaining a copy of or access to a Project
+ Gutenberg-tm electronic work and you do not agree to be bound by the
+ terms of this agreement, you may obtain a refund from the person or
+ entity to whom you paid the fee as set forth in paragraph 1.E.8.
+ 
+ 1.B. "Project Gutenberg" is a registered trademark. It may only be
+ used on or associated in any way with an electronic work by people who
+ agree to be bound by the terms of this agreement. There are a few
+ things that you can do with most Project Gutenberg-tm electronic works
+ even without complying with the full terms of this agreement. See
+ paragraph 1.C below. There are a lot of things you can do with Project
+ Gutenberg-tm electronic works if you follow the terms of this agreement
+ and help preserve free future access to Project Gutenberg-tm electronic
+ works. See paragraph 1.E below.
+ 
+ 1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
+ or PGLAF), owns a compilation copyright in the collection of Project
+ Gutenberg-tm electronic works. Nearly all the individual works in the
+ collection are in the public domain in the United States. If an
+ individual work is in the public domain in the United States and you are
+ located in the United States, we do not claim a right to prevent you from
+ copying, distributing, performing, displaying or creating derivative
+ works based on the work as long as all references to Project Gutenberg
+ are removed. Of course, we hope that you will support the Project
+ Gutenberg-tm mission of promoting free access to electronic works by
+ freely sharing Project Gutenberg-tm works in compliance with the terms of
+ this agreement for keeping the Project Gutenberg-tm name associated with
+ the work. You can easily comply with the terms of this agreement by
+ keeping this work in the same format with its attached full Project
+ Gutenberg-tm License when you share it without charge with others.
+ 
+ 1.D. The copyright laws of the place where you are located also govern
+ what you can do with this work. Copyright laws in most countries are in
+ a constant state of change. If you are outside the United States, check
+ the laws of your country in addition to the terms of this agreement
+ before downloading, copying, displaying, performing, distributing or
+ creating derivative works based on this work or any other Project
+ Gutenberg-tm work. The Foundation makes no representations concerning
+ the copyright status of any work in any country outside the United
+ States.
+ 
+ 1.E. Unless you have removed all references to Project Gutenberg:
+ 
+ 1.E.1. The following sentence, with active links to, or other immediate
+ access to, the full Project Gutenberg-tm License must appear prominently
+ whenever any copy of a Project Gutenberg-tm work (any work on which the
+ phrase "Project Gutenberg" appears, or with which the phrase "Project
+ Gutenberg" is associated) is accessed, displayed, performed, viewed,
+ copied or distributed:
+ 
+ This eBook is for the use of anyone anywhere at no cost and with
+ almost no restrictions whatsoever. You may copy it, give it away or
+ re-use it under the terms of the Project Gutenberg License included
+ with this eBook or online at www.gutenberg.org
+ 
+ 1.E.2. If an individual Project Gutenberg-tm electronic work is derived
+ from the public domain (does not contain a notice indicating that it is
+ posted with permission of the copyright holder), the work can be copied
+ and distributed to anyone in the United States without paying any fees
+ or charges. If you are redistributing or providing access to a work
+ with the phrase "Project Gutenberg" associated with or appearing on the
+ work, you must comply either with the requirements of paragraphs 1.E.1
+ through 1.E.7 or obtain permission for the use of the work and the
+ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+ 1.E.9.
+ 
+ 1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+ with the permission of the copyright holder, your use and distribution
+ must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+ terms imposed by the copyright holder. Additional terms will be linked
+ to the Project Gutenberg-tm License for all works posted with the
+ permission of the copyright holder found at the beginning of this work.
+ 
+ 1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+ License terms from this work, or any files containing a part of this
+ work or any other work associated with Project Gutenberg-tm.
+ 
+ 1.E.5. Do not copy, display, perform, distribute or redistribute this
+ electronic work, or any part of this electronic work, without
+ prominently displaying the sentence set forth in paragraph 1.E.1 with
+ active links or immediate access to the full terms of the Project
+ Gutenberg-tm License.
+ 
+ 1.E.6. You may convert to and distribute this work in any binary,
+ compressed, marked up, nonproprietary or proprietary form, including any
+ word processing or hypertext form. However, if you provide access to or
+ distribute copies of a Project Gutenberg-tm work in a format other than
+ "Plain Vanilla ASCII" or other format used in the official version
+ posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+ you must, at no additional cost, fee or expense to the user, provide a
+ copy, a means of exporting a copy, or a means of obtaining a copy upon
+ request, of the work in its original "Plain Vanilla ASCII" or other
+ form. Any alternate format must include the full Project Gutenberg-tm
+ License as specified in paragraph 1.E.1.
+ 
+ 1.E.7. Do not charge a fee for access to, viewing, displaying,
+ performing, copying or distributing any Project Gutenberg-tm works
+ unless you comply with paragraph 1.E.8 or 1.E.9.
+ 
+ 1.E.8. You may charge a reasonable fee for copies of or providing
+ access to or distributing Project Gutenberg-tm electronic works provided
+ that
+ 
+ - You pay a royalty fee of 20% of the gross profits you derive from
+ the use of Project Gutenberg-tm works calculated using the method
+ you already use to calculate your applicable taxes. The fee is
+ owed to the owner of the Project Gutenberg-tm trademark, but he
+ has agreed to donate royalties under this paragraph to the
+ Project Gutenberg Literary Archive Foundation. Royalty payments
+ must be paid within 60 days following each date on which you
+ prepare (or are legally required to prepare) your periodic tax
+ returns. Royalty payments should be clearly marked as such and
+ sent to the Project Gutenberg Literary Archive Foundation at the
+ address specified in Section 4, "Information about donations to
+ the Project Gutenberg Literary Archive Foundation."
+ 
+ - You provide a full refund of any money paid by a user who notifies
+ you in writing (or by e-mail) within 30 days of receipt that s/he
+ does not agree to the terms of the full Project Gutenberg-tm
+ License. You must require such a user to return or
+ destroy all copies of the works possessed in a physical medium
+ and discontinue all use of and all access to other copies of
+ Project Gutenberg-tm works.
+ 
+ - You provide, in accordance with paragraph 1.F.3, a full refund of any
+ money paid for a work or a replacement copy, if a defect in the
+ electronic work is discovered and reported to you within 90 days
+ of receipt of the work.
+ 
+ - You comply with all other terms of this agreement for free
+ distribution of Project Gutenberg-tm works.
+ 
+ 1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+ electronic work or group of works on different terms than are set
+ forth in this agreement, you must obtain permission in writing from
+ both the Project Gutenberg Literary Archive Foundation and Michael
+ Hart, the owner of the Project Gutenberg-tm trademark. Contact the
+ Foundation as set forth in Section 3 below.
+ 
+ 1.F.
+ 
+ 1.F.1. Project Gutenberg volunteers and employees expend considerable
+ effort to identify, do copyright research on, transcribe and proofread
+ public domain works in creating the Project Gutenberg-tm
+ collection. Despite these efforts, Project Gutenberg-tm electronic
+ works, and the medium on which they may be stored, may contain
+ "Defects," such as, but not limited to, incomplete, inaccurate or
+ corrupt data, transcription errors, a copyright or other intellectual
+ property infringement, a defective or damaged disk or other medium, a
+ computer virus, or computer codes that damage or cannot be read by
+ your equipment.
+ 
+ 1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+ of Replacement or Refund" described in paragraph 1.F.3, the Project
+ Gutenberg Literary Archive Foundation, the owner of the Project
+ Gutenberg-tm trademark, and any other party distributing a Project
+ Gutenberg-tm electronic work under this agreement, disclaim all
+ liability to you for damages, costs and expenses, including legal
+ fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+ LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+ PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE
+ TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+ LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+ DAMAGE.
+ 
+ 1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+ defect in this electronic work within 90 days of receiving it, you can
+ receive a refund of the money (if any) you paid for it by sending a
+ written explanation to the person you received the work from. If you
+ received the work on a physical medium, you must return the medium with
+ your written explanation. The person or entity that provided you with
+ the defective work may elect to provide a replacement copy in lieu of a
+ refund. If you received the work electronically, the person or entity
+ providing it to you may choose to give you a second opportunity to
+ receive the work electronically in lieu of a refund. If the second copy
+ is also defective, you may demand a refund in writing without further
+ opportunities to fix the problem.
+ 
+ 1.F.4. Except for the limited right of replacement or refund set forth
+ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+ WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+ WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+ 
+ 1.F.5. Some states do not allow disclaimers of certain implied
+ warranties or the exclusion or limitation of certain types of damages.
+ If any disclaimer or limitation set forth in this agreement violates the
+ law of the state applicable to this agreement, the agreement shall be
+ interpreted to make the maximum disclaimer or limitation permitted by
+ the applicable state law. The invalidity or unenforceability of any
+ provision of this agreement shall not void the remaining provisions.
+ 
+ 1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+ trademark owner, any agent or employee of the Foundation, anyone
+ providing copies of Project Gutenberg-tm electronic works in accordance
+ with this agreement, and any volunteers associated with the production,
+ promotion and distribution of Project Gutenberg-tm electronic works,
+ harmless from all liability, costs and expenses, including legal fees,
+ that arise directly or indirectly from any of the following which you do
+ or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+ work, (b) alteration, modification, or additions or deletions to any
+ Project Gutenberg-tm work, and (c) any Defect you cause.
+ 
+ 
+ Section 2. Information about the Mission of Project Gutenberg-tm
+ 
+ Project Gutenberg-tm is synonymous with the free distribution of
+ electronic works in formats readable by the widest variety of computers
+ including obsolete, old, middle-aged and new computers. It exists
+ because of the efforts of hundreds of volunteers and donations from
+ people in all walks of life.
+ 
+ Volunteers and financial support to provide volunteers with the
+ assistance they need, are critical to reaching Project Gutenberg-tm's
+ goals and ensuring that the Project Gutenberg-tm collection will
+ remain freely available for generations to come. In 2001, the Project
+ Gutenberg Literary Archive Foundation was created to provide a secure
+ and permanent future for Project Gutenberg-tm and future generations.
+ To learn more about the Project Gutenberg Literary Archive Foundation
+ and how your efforts and donations can help, see Sections 3 and 4
+ and the Foundation web page at http://www.pglaf.org.
+ 
+ 
+ Section 3. Information about the Project Gutenberg Literary Archive
+ Foundation
+ 
+ The Project Gutenberg Literary Archive Foundation is a non profit
+ 501(c)(3) educational corporation organized under the laws of the
+ state of Mississippi and granted tax exempt status by the Internal
+ Revenue Service. The Foundation's EIN or federal tax identification
+ number is 64-6221541. Its 501(c)(3) letter is posted at
+ http://pglaf.org/fundraising. Contributions to the Project Gutenberg
+ Literary Archive Foundation are tax deductible to the full extent
+ permitted by U.S. federal laws and your state's laws.
+ 
+ The Foundation's principal office is located at 4557 Melan Dr. S.
+ Fairbanks, AK, 99712., but its volunteers and employees are scattered
+ throughout numerous locations. Its business office is located at
+ 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+ business@pglaf.org. Email contact links and up to date contact
+ information can be found at the Foundation's web site and official
+ page at http://pglaf.org
+ 
+ For additional contact information:
+ Dr. Gregory B. Newby
+ Chief Executive and Director
+ gbnewby@pglaf.org
+ 
+ 
+ Section 4. Information about Donations to the Project Gutenberg
+ Literary Archive Foundation
+ 
+ Project Gutenberg-tm depends upon and cannot survive without wide
+ spread public support and donations to carry out its mission of
+ increasing the number of public domain and licensed works that can be
+ freely distributed in machine readable form accessible by the widest
+ array of equipment including outdated equipment. Many small donations
+ ($1 to $5,000) are particularly important to maintaining tax exempt
+ status with the IRS.
+ 
+ The Foundation is committed to complying with the laws regulating
+ charities and charitable donations in all 50 states of the United
+ States. Compliance requirements are not uniform and it takes a
+ considerable effort, much paperwork and many fees to meet and keep up
+ with these requirements. We do not solicit donations in locations
+ where we have not received written confirmation of compliance. To
+ SEND DONATIONS or determine the status of compliance for any
+ particular state visit http://pglaf.org
+ 
+ While we cannot and do not solicit contributions from states where we
+ have not met the solicitation requirements, we know of no prohibition
+ against accepting unsolicited donations from donors in such states who
+ approach us with offers to donate.
+ 
+ International donations are gratefully accepted, but we cannot make
+ any statements concerning tax treatment of donations received from
+ outside the United States. U.S. laws alone swamp our small staff.
+ 
+ Please check the Project Gutenberg Web pages for current donation
+ methods and addresses. Donations are accepted in a number of other
+ ways including checks, online payments and credit card donations.
+ To donate, please visit: http://pglaf.org/donate
+ 
+ 
+ Section 5. General Information About Project Gutenberg-tm electronic
+ works.
+ 
+ Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+ concept of a library of electronic works that could be freely shared
+ with anyone. For thirty years, he produced and distributed Project
+ Gutenberg-tm eBooks with only a loose network of volunteer support.
+ 
+ 
+ Project Gutenberg-tm eBooks are often created from several printed
+ editions, all of which are confirmed as Public Domain in the U.S.
+ unless a copyright notice is included. Thus, we do not necessarily
+ keep eBooks in compliance with any particular paper edition.
+ 
+ 
+ Most people start at our Web site which has the main PG search facility:
+ 
+ http://www.gutenberg.org
+ 
+ This Web site includes information about Project Gutenberg-tm,
+ including how to make donations to the Project Gutenberg Literary
+ Archive Foundation, how to help produce our new eBooks, and how to
+ subscribe to our email newsletter to hear about new eBooks.
+ 
+ 
+ 
 

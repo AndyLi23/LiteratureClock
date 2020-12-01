@@ -35,14 +35,24 @@ if __name__ == '__main__':
                             if(a > temp):
                                 break
                             ind += 1
-                            
-                        ts[ind] = "**" + ts[ind]
-                        if(ts[ind + len(j.split(" ")) -1][-1] in punctuation):
-                            ts[ind + len(j.split(" ")) -1] = ts[ind + len(j.split(" ")) -1][:-1] + "**" + ts[ind + len(j.split(" ")) -1][-1]
-                        else:
-                            ts[ind + len(j.split(" ")) -1] = ts[ind + len(j.split(" ")) -1] + "**"
-                            
-                        d[hour][1].append(" ".join(ts[ind-30:ind+30]))
+                        
+                        good = False
+                        good1 = False
+                        
+                        for i in range(len(ts[ind])):
+                            if ts[ind][i:].lower() == j.split(" ")[0]:
+                                ts[ind] = ts[ind][:i] + "**" + ts[ind][i:]
+                                good = True
+                                break
+                        
+                        for i in range(len(ts[ind + len(j.split(" ")) - 1])):
+                            if ts[ind + len(j.split(" ")) - 1][:i+1].lower() == j.split(" ")[-1] and (not j.split(" ")[-1] == "am" or ts[ind + len(j.split(" ")) - 1][:i+1] == j.split(" ")[-1]):
+                                ts[ind + len(j.split(" "))-1] = ts[ind + len(j.split(" "))-1][:i+1].lower() + "**" + ts[ind + len(j.split(" "))-1][i+1:]
+                                good1 = True
+                                break
+                        
+                        if good and good1:
+                            d[hour][1].append(" ".join(ts[ind-50:ind+50]))
 
                 for j in timetostring.timetostring(hour, False):
                     if t.find(j) != -1:
@@ -57,14 +67,24 @@ if __name__ == '__main__':
                             if(a > temp):
                                 break
                             ind += 1
-                            
-                        ts[ind] = "**" + ts[ind]
-                        if(ts[ind + len(j.split(" ")) -1][-1] in punctuation):
-                            ts[ind + len(j.split(" ")) -1] = ts[ind + len(j.split(" ")) -1][:-1] + "**" + ts[ind + len(j.split(" ")) -1][-1]
-                        else:
-                            ts[ind + len(j.split(" ")) -1] = ts[ind + len(j.split(" ")) -1] + "**"
-                            
-                        d[hour][0].append(" ".join(ts[ind-30:ind+30]))
+
+                        good = False
+                        good1 = False
+                        
+                        for i in range(len(ts[ind])):
+                            if ts[ind][i:].lower() == j.split(" ")[0]:
+                                ts[ind] = ts[ind][:i] + "**" + ts[ind][i:]
+                                good = True
+                                break
+                        
+                        for i in range(len(ts[ind + len(j.split(" ")) - 1])):
+                            if ts[ind + len(j.split(" ")) - 1][:i+1].lower() == j.split(" ")[-1] and (not j.split(" ")[-1] == "am" or ts[ind + len(j.split(" ")) - 1][:i+1] == j.split(" ")[-1]):
+                                ts[ind + len(j.split(" "))-1] = ts[ind + len(j.split(" "))-1][:i+1].lower() + "**" + ts[ind + len(j.split(" "))-1][i+1:]
+                                good1 = True
+                                break
+                        
+                        if good and good1:
+                            d[hour][0].append(" ".join(ts[ind-50:ind+50]))
                         
     print("Writing to JSON")
                         
