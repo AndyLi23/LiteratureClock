@@ -75,7 +75,6 @@ Middlemarch?by:George Eliot
 An Inquiry into the Nature and Causes of the Wealth of Nations?by:Adam Smith
 Madame Bovary?by:Gustave Flaubert
 Around the World in Eighty Days?by:Jules Verne
-A Vindication of the Rights of Woman?by:Mary Wollstonecraft
 The Wind in the Willows?by:Kenneth Grahame
 The Island of Doctor Moreau?by:H. G. Wells
 The Idiot?by:Fyodor Dostoyevsky
@@ -105,7 +104,6 @@ Faust: Der Tragödie zweiter Teil (German)?by:Johann Wolfgang von Goethe
 Moby Dick; Or, The Whale?by:Herman Melville
 Le rouge et le noir: chronique du XIXe siècle (French)?by:Stendhal
 The Private Memoirs and Confessions of a Justified Sinner?by:James Hogg
-On the Origin of Species by Means of Natural Selection?by:Charles Darwin
 Tono-Bungay?by:H. G. Wells
 Voyage au centre de la terre. English?by:Jules Verne
 The Magna Carta?by:Anonymous
@@ -147,7 +145,6 @@ Hamlet (French)?by:William Shakespeare
 Hunger: Book One (Hebrew)?by:Knut Hamsun
 Gargantua and Pantagruel, Illustrated, Book 5?by:François Rabelais
 Hamlet. Greek (Greek)?by:William Shakespeare
-The Tragicall Historie of Hamlet, Prince of Denmarke?by:William Shakespeare
 Dramatische werken (Dutch)?by:Henrik Ibsen
 Faust I (Finnish)?by:Johann Wolfgang von Goethe
 Great expectations. French (French)?by:Charles Dickens
