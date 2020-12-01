@@ -1,17 +1,6 @@
 import datetime
 
 def timetostring(hour, pm):
-    
-    #hour = int(str(datetime.datetime.today()).split(" ")[1].split(":")[0])
-   # minute = int(str(datetime.datetime.today()).split(" ")[1].split(":")[1])
-    #pm = True
-    #if hour == 0:
-    #    hour = 12
-    #    pm = True
-    #elif(hour > 12):
-    #    hour = hour - 12
-     #   pm = True
-
         
     nums = ["zero", "one", "two", "three", "four", 
             "five", "six", "seven", "eight", "nine", 
@@ -31,3 +20,18 @@ def timetostring(hour, pm):
         return [nums[hour] + i for i in aft] + [str(hour) + " p.m.", str(hour) + " pm"]
     else:
         return [nums[hour] + i for i in morn] + [str(hour) + " a.m.", str(hour) + " am"]
+    
+    
+def getcurtime():
+    hour = int(str(datetime.datetime.today()).split(" ")[1].split(":")[0])
+    minute = int(str(datetime.datetime.today()).split(" ")[1].split(":")[1])
+    
+    pm = 0
+    if hour == 0:
+        hour = 12
+        pm = 1
+    elif(hour > 12):
+        hour = hour - 12
+        pm = 1
+        
+    return (hour, pm)
